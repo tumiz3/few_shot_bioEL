@@ -1,0 +1,100 @@
+{"text": "[E1] thalidomide [/E1]", "mention_data": [{"mention": "thalidomide", "kb_id": "D013792", "start": 253, "end": 255, "type": "disease"}]}
+{"text": "[E1] methamphetamine [/E1]", "mention_data": [{"mention": "methamphetamine", "kb_id": "D008694", "start": 25, "end": 27, "type": "disease"}]}
+{"text": "[E1] catalepsy [/E1]", "mention_data": [{"mention": "catalepsy", "kb_id": "D002375", "start": 21, "end": 23, "type": "disease"}]}
+{"text": "[E1] melatonin [/E1]", "mention_data": [{"mention": "melatonin", "kb_id": "D008550", "start": 264, "end": 266, "type": "disease"}]}
+{"text": "[E1] neuroblastoma [/E1]", "mention_data": [{"mention": "neuroblastoma", "kb_id": "D009447", "start": 153, "end": 155, "type": "disease"}]}
+{"text": "[E1] 6 ohda [/E1]", "mention_data": [{"mention": "6 ohda", "kb_id": "D016627", "start": 36, "end": 39, "type": "disease"}]}
+{"text": "[E1] thalidomide [/E1]", "mention_data": [{"mention": "thalidomide", "kb_id": "D013792", "start": 230, "end": 232, "type": "disease"}]}
+{"text": "[E1] 5 fluorouracil [/E1]", "mention_data": [{"mention": "5 fluorouracil", "kb_id": "D005472", "start": 44, "end": 47, "type": "disease"}]}
+{"text": "[E1] thalidomide [/E1]", "mention_data": [{"mention": "thalidomide", "kb_id": "D013792", "start": 3, "end": 5, "type": "disease"}]}
+{"text": "[E1] seizures [/E1]", "mention_data": [{"mention": "seizures", "kb_id": "D012640", "start": 80, "end": 82, "type": "disease"}]}
+{"text": "[E1] downbeat nystagmus [/E1]", "mention_data": [{"mention": "downbeat nystagmus", "kb_id": "D009759", "start": 3, "end": 6, "type": "disease"}]}
+{"text": "[E1] methylphenidate [/E1]", "mention_data": [{"mention": "methylphenidate", "kb_id": "D008774", "start": 4, "end": 6, "type": "disease"}]}
+{"text": "[E1] lindane [/E1]", "mention_data": [{"mention": "lindane", "kb_id": "D001556", "start": 160, "end": 162, "type": "disease"}]}
+{"text": "[E1] lithium [/E1]", "mention_data": [{"mention": "lithium", "kb_id": "D008094", "start": 92, "end": 94, "type": "disease"}]}
+{"text": "[E1] vomiting [/E1]", "mention_data": [{"mention": "vomiting", "kb_id": "D014839", "start": 257, "end": 259, "type": "disease"}]}
+{"text": "[E1] delirium [/E1]", "mention_data": [{"mention": "delirium", "kb_id": "D003693", "start": 256, "end": 258, "type": "disease"}]}
+{"text": "[E1] enflurane [/E1]", "mention_data": [{"mention": "enflurane", "kb_id": "D004737", "start": 119, "end": 121, "type": "disease"}]}
+{"text": "[E1] fk506 [/E1]", "mention_data": [{"mention": "fk506", "kb_id": "D016559", "start": 11, "end": 13, "type": "disease"}]}
+{"text": "[E1] risperidone [/E1]", "mention_data": [{"mention": "risperidone", "kb_id": "D018967", "start": 346, "end": 348, "type": "disease"}]}
+{"text": "[E1] bipolar [/E1]", "mention_data": [{"mention": "bipolar", "kb_id": "D001714", "start": 30, "end": 32, "type": "disease"}]}
+{"text": "[E1] catalepsy [/E1]", "mention_data": [{"mention": "catalepsy", "kb_id": "D002375", "start": 140, "end": 142, "type": "disease"}]}
+{"text": "[E1] lung cancer [/E1]", "mention_data": [{"mention": "lung cancer", "kb_id": "D008175", "start": 204, "end": 207, "type": "disease"}]}
+{"text": "[E1] short term memory [/E1]", "mention_data": [{"mention": "short term memory", "kb_id": "D008569", "start": 189, "end": 193, "type": "disease"}]}
+{"text": "[E1] simvastatin [/E1]", "mention_data": [{"mention": "simvastatin", "kb_id": "D019821", "start": 4, "end": 6, "type": "disease"}]}
+{"text": "[E1] deterioration of left ventricular lv systolic function [/E1]", "mention_data": [{"mention": "deterioration of left ventricular lv systolic function", "kb_id": "D018487", "start": 28, "end": 36, "type": "disease"}]}
+{"text": "[E1] myoglobinuria [/E1]", "mention_data": [{"mention": "myoglobinuria", "kb_id": "D009212", "start": 272, "end": 274, "type": "disease"}]}
+{"text": "[E1] acute nephrotoxicity [/E1]", "mention_data": [{"mention": "acute nephrotoxicity", "kb_id": "D058186", "start": 6, "end": 9, "type": "disease"}]}
+{"text": "[E1] thoracic hematomyelia [/E1]", "mention_data": [{"mention": "thoracic hematomyelia", "kb_id": "D020758", "start": 0, "end": 3, "type": "disease"}]}
+{"text": "[E1] nephrosis [/E1]", "mention_data": [{"mention": "nephrosis", "kb_id": "D009401", "start": 207, "end": 209, "type": "disease"}]}
+{"text": "[E1] vincristine [/E1]", "mention_data": [{"mention": "vincristine", "kb_id": "D014750", "start": 96, "end": 98, "type": "disease"}]}
+{"text": "[E1] tetracycline [/E1]", "mention_data": [{"mention": "tetracycline", "kb_id": "D013752", "start": 30, "end": 32, "type": "disease"}]}
+{"text": "[E1] glycopyrrolate [/E1]", "mention_data": [{"mention": "glycopyrrolate", "kb_id": "D006024", "start": 158, "end": 160, "type": "disease"}]}
+{"text": "[E1] hypotension [/E1]", "mention_data": [{"mention": "hypotension", "kb_id": "D007022", "start": 266, "end": 268, "type": "disease"}]}
+{"text": "[E1] renal toxicity [/E1]", "mention_data": [{"mention": "renal toxicity", "kb_id": "D007674", "start": 2, "end": 5, "type": "disease"}]}
+{"text": "[E1] meloxicam [/E1]", "mention_data": [{"mention": "meloxicam", "kb_id": "C065757", "start": 51, "end": 53, "type": "chemical"}]}
+{"text": "[E1] cyclosporin a [/E1]", "mention_data": [{"mention": "cyclosporin a", "kb_id": "D016572", "start": 228, "end": 231, "type": "disease"}]}
+{"text": "[E1] puromycin aminonucleoside [/E1]", "mention_data": [{"mention": "puromycin aminonucleoside", "kb_id": "D011692", "start": 93, "end": 96, "type": "disease"}]}
+{"text": "[E1] cardiotoxicity [/E1]", "mention_data": [{"mention": "cardiotoxicity", "kb_id": "D066126", "start": 340, "end": 342, "type": "disease"}]}
+{"text": "[E1] thrombocytopenia [/E1]", "mention_data": [{"mention": "thrombocytopenia", "kb_id": "D013921", "start": 91, "end": 93, "type": "disease"}]}
+{"text": "[E1] indomethacin [/E1]", "mention_data": [{"mention": "indomethacin", "kb_id": "D007213", "start": 41, "end": 43, "type": "disease"}]}
+{"text": "[E1] ibuprofen [/E1]", "mention_data": [{"mention": "ibuprofen", "kb_id": "D007052", "start": 32, "end": 34, "type": "disease"}]}
+{"text": "[E1] amisulpride [/E1]", "mention_data": [{"mention": "amisulpride", "kb_id": "C012052", "start": 25, "end": 27, "type": "chemical"}]}
+{"text": "[E1] nifedipine [/E1]", "mention_data": [{"mention": "nifedipine", "kb_id": "D009543", "start": 167, "end": 169, "type": "disease"}]}
+{"text": "[E1] lamivudine [/E1]", "mention_data": [{"mention": "lamivudine", "kb_id": "D019259", "start": 146, "end": 148, "type": "disease"}]}
+{"text": "[E1] retinal vasculitis [/E1]", "mention_data": [{"mention": "retinal vasculitis", "kb_id": "D031300", "start": 106, "end": 109, "type": "disease"}]}
+{"text": "[E1] abnormalities in neuronal systems [/E1]", "mention_data": [{"mention": "abnormalities in neuronal systems", "kb_id": "D009421", "start": 160, "end": 165, "type": "disease"}]}
+{"text": "[E1] acute renal failure [/E1]", "mention_data": [{"mention": "acute renal failure", "kb_id": "D058186", "start": 0, "end": 4, "type": "disease"}]}
+{"text": "[E1] epinephrine [/E1]", "mention_data": [{"mention": "epinephrine", "kb_id": "D004837", "start": 24, "end": 26, "type": "disease"}]}
+{"text": "[E1] pergolide [/E1]", "mention_data": [{"mention": "pergolide", "kb_id": "D010479", "start": 162, "end": 164, "type": "disease"}]}
+{"text": "[E1] acne [/E1]", "mention_data": [{"mention": "acne", "kb_id": "D000152", "start": 31, "end": 33, "type": "disease"}]}
+{"text": "[E1] cyclophosphamide [/E1]", "mention_data": [{"mention": "cyclophosphamide", "kb_id": "D003520", "start": 83, "end": 85, "type": "disease"}]}
+{"text": "[E1] methamphetamine [/E1]", "mention_data": [{"mention": "methamphetamine", "kb_id": "D008694", "start": 30, "end": 32, "type": "disease"}]}
+{"text": "[E1] myotonic disorders [/E1]", "mention_data": [{"mention": "myotonic disorders", "kb_id": "D020967", "start": 12, "end": 15, "type": "disease"}]}
+{"text": "[E1] pilocarpine [/E1]", "mention_data": [{"mention": "pilocarpine", "kb_id": "D010862", "start": 72, "end": 74, "type": "disease"}]}
+{"text": "[E1] breast cancer [/E1]", "mention_data": [{"mention": "breast cancer", "kb_id": "D001943", "start": 76, "end": 79, "type": "disease"}]}
+{"text": "[E1] parkinsonism [/E1]", "mention_data": [{"mention": "parkinsonism", "kb_id": "D010302", "start": 117, "end": 119, "type": "disease"}]}
+{"text": "[E1] hydrochlorothiazide [/E1]", "mention_data": [{"mention": "hydrochlorothiazide", "kb_id": "D006852", "start": 155, "end": 157, "type": "disease"}]}
+{"text": "[E1] inf mi [/E1]", "mention_data": [{"mention": "inf mi", "kb_id": "D056989", "start": 119, "end": 122, "type": "disease"}]}
+{"text": "[E1] heart failure [/E1]", "mention_data": [{"mention": "heart failure", "kb_id": "D006333", "start": 358, "end": 361, "type": "disease"}]}
+{"text": "[E1] chronic renal failure [/E1]", "mention_data": [{"mention": "chronic renal failure", "kb_id": "D007676", "start": 202, "end": 206, "type": "disease"}]}
+{"text": "[E1] estrogen [/E1]", "mention_data": [{"mention": "estrogen", "kb_id": "D004967", "start": 119, "end": 121, "type": "disease"}]}
+{"text": "[E1] vomiting [/E1]", "mention_data": [{"mention": "vomiting", "kb_id": "D014839", "start": 18, "end": 20, "type": "disease"}]}
+{"text": "[E1] lindane [/E1]", "mention_data": [{"mention": "lindane", "kb_id": "D001556", "start": 37, "end": 39, "type": "disease"}]}
+{"text": "[E1] acute interstitial nephritis [/E1]", "mention_data": [{"mention": "acute interstitial nephritis", "kb_id": "D009395", "start": 15, "end": 19, "type": "disease"}]}
+{"text": "[E1] graves disease [/E1]", "mention_data": [{"mention": "graves disease", "kb_id": "D006111", "start": 52, "end": 55, "type": "disease"}]}
+{"text": "[E1] diabetic nephropathy [/E1]", "mention_data": [{"mention": "diabetic nephropathy", "kb_id": "D003928", "start": 287, "end": 290, "type": "disease"}]}
+{"text": "[E1] diamorphine [/E1]", "mention_data": [{"mention": "diamorphine", "kb_id": "D003932", "start": 102, "end": 104, "type": "disease"}]}
+{"text": "[E1] mastitis [/E1]", "mention_data": [{"mention": "mastitis", "kb_id": "D008413", "start": 121, "end": 123, "type": "disease"}]}
+{"text": "[E1] prostaglandin e2 [/E1]", "mention_data": [{"mention": "prostaglandin e2", "kb_id": "D015232", "start": 175, "end": 178, "type": "disease"}]}
+{"text": "[E1] daptomycin [/E1]", "mention_data": [{"mention": "daptomycin", "kb_id": "D017576", "start": 195, "end": 197, "type": "disease"}]}
+{"text": "[E1] bleeding [/E1]", "mention_data": [{"mention": "bleeding", "kb_id": "D006470", "start": 235, "end": 237, "type": "disease"}]}
+{"text": "[E1] phenobarbital [/E1]", "mention_data": [{"mention": "phenobarbital", "kb_id": "D010634", "start": 63, "end": 65, "type": "disease"}]}
+{"text": "[E1] seizures [/E1]", "mention_data": [{"mention": "seizures", "kb_id": "D012640", "start": 200, "end": 202, "type": "disease"}]}
+{"text": "[E1] nephrotoxicity [/E1]", "mention_data": [{"mention": "nephrotoxicity", "kb_id": "D007674", "start": 2, "end": 4, "type": "disease"}]}
+{"text": "[E1] convulsion [/E1]", "mention_data": [{"mention": "convulsion", "kb_id": "D012640", "start": 152, "end": 154, "type": "disease"}]}
+{"text": "[E1] lnna [/E1]", "mention_data": [{"mention": "lnna", "kb_id": "D019335", "start": 82, "end": 84, "type": "disease"}]}
+{"text": "[E1] toxicity [/E1]", "mention_data": [{"mention": "toxicity", "kb_id": "D064420", "start": 1, "end": 3, "type": "disease"}]}
+{"text": "[E1] memory impairment [/E1]", "mention_data": [{"mention": "memory impairment", "kb_id": "D008569", "start": 213, "end": 216, "type": "disease"}]}
+{"text": "[E1] psychosis [/E1]", "mention_data": [{"mention": "psychosis", "kb_id": "D011605", "start": 46, "end": 48, "type": "disease"}]}
+{"text": "[E1] hypotension [/E1]", "mention_data": [{"mention": "hypotension", "kb_id": "D007022", "start": 2, "end": 4, "type": "disease"}]}
+{"text": "[E1] cocaine [/E1]", "mention_data": [{"mention": "cocaine", "kb_id": "D003042", "start": 106, "end": 108, "type": "disease"}]}
+{"text": "[E1] pneumonitis [/E1]", "mention_data": [{"mention": "pneumonitis", "kb_id": "D011014", "start": 186, "end": 188, "type": "disease"}]}
+{"text": "[E1] sodium nitroprusside [/E1]", "mention_data": [{"mention": "sodium nitroprusside", "kb_id": "D009599", "start": 146, "end": 149, "type": "disease"}]}
+{"text": "[E1] nicergoline [/E1]", "mention_data": [{"mention": "nicergoline", "kb_id": "D009530", "start": 107, "end": 109, "type": "disease"}]}
+{"text": "[E1] hypotension [/E1]", "mention_data": [{"mention": "hypotension", "kb_id": "D007022", "start": 229, "end": 231, "type": "disease"}]}
+{"text": "[E1] caffeine [/E1]", "mention_data": [{"mention": "caffeine", "kb_id": "D002110", "start": 4, "end": 6, "type": "disease"}]}
+{"text": "[E1] pupillary dilation [/E1]", "mention_data": [{"mention": "pupillary dilation", "kb_id": "D015878", "start": 196, "end": 199, "type": "disease"}]}
+{"text": "[E1] hemoglobinuria [/E1]", "mention_data": [{"mention": "hemoglobinuria", "kb_id": "D006456", "start": 36, "end": 38, "type": "disease"}]}
+{"text": "[E1] ocular hypertension [/E1]", "mention_data": [{"mention": "ocular hypertension", "kb_id": "D009798", "start": 115, "end": 118, "type": "disease"}]}
+{"text": "[E1] hemolytic uremic syndrome [/E1]", "mention_data": [{"mention": "hemolytic uremic syndrome", "kb_id": "D006463", "start": 349, "end": 353, "type": "disease"}]}
+{"text": "[E1] remoxipride [/E1]", "mention_data": [{"mention": "remoxipride", "kb_id": "D017330", "start": 55, "end": 57, "type": "disease"}]}
+{"text": "[E1] tumors [/E1]", "mention_data": [{"mention": "tumors", "kb_id": "D009369", "start": 24, "end": 26, "type": "disease"}]}
+{"text": "[E1] restless legs syndrome [/E1]", "mention_data": [{"mention": "restless legs syndrome", "kb_id": "D012148", "start": 25, "end": 29, "type": "disease"}]}
+{"text": "[E1] clopidogrel [/E1]", "mention_data": [{"mention": "clopidogrel", "kb_id": "C055162", "start": 38, "end": 40, "type": "chemical"}]}
+{"text": "[E1] amiodarone [/E1]", "mention_data": [{"mention": "amiodarone", "kb_id": "D000638", "start": 117, "end": 119, "type": "disease"}]}
+{"text": "[E1] pilocarpine [/E1]", "mention_data": [{"mention": "pilocarpine", "kb_id": "D010862", "start": 72, "end": 74, "type": "disease"}]}
+{"text": "[E1] chloride [/E1]", "mention_data": [{"mention": "chloride", "kb_id": "D002712", "start": 95, "end": 97, "type": "disease"}]}
+{"text": "[E1] secondary hyperalgesia [/E1]", "mention_data": [{"mention": "secondary hyperalgesia", "kb_id": "D006930", "start": 104, "end": 107, "type": "disease"}]}
+{"text": "[E1] vasopressin [/E1]", "mention_data": [{"mention": "vasopressin", "kb_id": "D014667", "start": 115, "end": 117, "type": "disease"}]}
+{"text": "[E1] cocaine [/E1]", "mention_data": [{"mention": "cocaine", "kb_id": "D003042", "start": 179, "end": 181, "type": "disease"}]}

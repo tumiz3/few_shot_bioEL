@@ -1,0 +1,1 @@
+As a professional doctor, you can judge how likely a standard disease name has the same meaning as a nonstandard medical term and score the standard medical term based on this likelihood.

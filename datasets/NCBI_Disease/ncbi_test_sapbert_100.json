@@ -1,0 +1,6014 @@
+{
+  "queries": [
+    {
+      "mentions": [
+        {
+          "mention": "denys drash syndrome",
+          "golden_cui": "D030321",
+          "candidates": [
+            {
+              "name": "denys drash syndrome",
+              "labelcui": "194080|D030321",
+              "label": 1
+            },
+            {
+              "name": "dennis fairhurst moore syndrome",
+              "labelcui": "C538210",
+              "label": 0
+            },
+            {
+              "name": "revesz debuse syndrome",
+              "labelcui": "C538371|268130",
+              "label": 0
+            },
+            {
+              "name": "davenport donlan syndrome",
+              "labelcui": "C535988",
+              "label": 0
+            },
+            {
+              "name": "donnai barrow syndrome",
+              "labelcui": "C536390|222448",
+              "label": 0
+            },
+            {
+              "name": "thakker donnai syndrome",
+              "labelcui": "C536503",
+              "label": 0
+            },
+            {
+              "name": "deafness congenital and onychodystrophy autosomal dominant",
+              "labelcui": "C567274",
+              "label": 0
+            },
+            {
+              "name": "deafness hypogonadism syndrome",
+              "labelcui": "C564435",
+              "label": 0
+            },
+            {
+              "name": "drachtman weinblatt sitarz syndrome",
+              "labelcui": "C535603",
+              "label": 0
+            },
+            {
+              "name": "deafness nephritis ano rectal malformation",
+              "labelcui": "C535996",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "myotonic dystrophy",
+          "golden_cui": "D009223",
+          "candidates": [
+            {
+              "name": "myotonic dystrophy",
+              "labelcui": "D009223",
+              "label": 1
+            },
+            {
+              "name": "myotonic disorders",
+              "labelcui": "D020967",
+              "label": 0
+            },
+            {
+              "name": "dm",
+              "labelcui": "160900|C538008|D009223",
+              "label": 1
+            },
+            {
+              "name": "dystrophia myotonica 1",
+              "labelcui": "160900|C538008",
+              "label": 0
+            },
+            {
+              "name": "myotonic myopathy proximal",
+              "labelcui": "D020967|602668|C538009",
+              "label": 0
+            },
+            {
+              "name": "dystrophia myotonica 2",
+              "labelcui": "602668|C538009",
+              "label": 0
+            },
+            {
+              "name": "diabetes mellitus",
+              "labelcui": "D003920",
+              "label": 0
+            },
+            {
+              "name": "diabetes mellitus type 1",
+              "labelcui": "222100|D003922",
+              "label": 0
+            },
+            {
+              "name": "insulin dependent diabetes mellitus",
+              "labelcui": "222100|D003922|125852",
+              "label": 0
+            },
+            {
+              "name": "maturity onset diabetes of the young type 1",
+              "labelcui": "C565101|125850",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "ataxia telangiectasia",
+          "golden_cui": "D001260",
+          "candidates": [
+            {
+              "name": "ataxia telangiectasia",
+              "labelcui": "D001260|208900",
+              "label": 1
+            },
+            {
+              "name": "ataxia telangiectasia like disorder",
+              "labelcui": "C565779|604391",
+              "label": 0
+            },
+            {
+              "name": "ataxia telangiectasia variant",
+              "labelcui": "C566865",
+              "label": 0
+            },
+            {
+              "name": "a t",
+              "labelcui": "D001260",
+              "label": 1
+            },
+            {
+              "name": "atm deficiency",
+              "labelcui": "208900",
+              "label": 0
+            },
+            {
+              "name": "ataxia telangiectasia with generalized skin pigmentation and early death",
+              "labelcui": "C565930",
+              "label": 0
+            },
+            {
+              "name": "telangiectasia hereditary hemorrhagic",
+              "labelcui": "187300|D013683",
+              "label": 0
+            },
+            {
+              "name": "telangiectasis",
+              "labelcui": "D013684",
+              "label": 0
+            },
+            {
+              "name": "ataxia telangiectasia variant v2",
+              "labelcui": "C565380",
+              "label": 0
+            },
+            {
+              "name": "telangiectasia hereditary hemorrhagic type 4",
+              "labelcui": "C565691|610655",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "deficiency of c5",
+          "golden_cui": "609536",
+          "candidates": [
+            {
+              "name": "complement component 5 deficiency",
+              "labelcui": "C537005|609536",
+              "label": 1
+            },
+            {
+              "name": "hereditary deficiency of the fifth component of complement",
+              "labelcui": "609536",
+              "label": 1
+            },
+            {
+              "name": "c4 deficiency",
+              "labelcui": "614380|614379",
+              "label": 0
+            },
+            {
+              "name": "chromosome 5 uniparental disomy",
+              "labelcui": "C537762",
+              "label": 0
+            },
+            {
+              "name": "chromosome 5 trisomy 5q",
+              "labelcui": "C537650",
+              "label": 0
+            },
+            {
+              "name": "factor v deficiency",
+              "labelcui": "D005166|227400",
+              "label": 0
+            },
+            {
+              "name": "chromosome 5 monosomy 5q35",
+              "labelcui": "C537647",
+              "label": 0
+            },
+            {
+              "name": "chromosome 5 trisomy 5p",
+              "labelcui": "C537648",
+              "label": 0
+            },
+            {
+              "name": "complement component 4b deficiency",
+              "labelcui": "614379",
+              "label": 0
+            },
+            {
+              "name": "spondylocostal dysostosis 5 autosomal dominant",
+              "labelcui": "122600",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "autosomal dominant keratitis",
+          "golden_cui": "C537022",
+          "candidates": [
+            {
+              "name": "keratitis hereditary",
+              "labelcui": "148190|C537022",
+              "label": 1
+            },
+            {
+              "name": "keratitis",
+              "labelcui": "D007634",
+              "label": 0
+            },
+            {
+              "name": "keratitis dendritic",
+              "labelcui": "D007635",
+              "label": 0
+            },
+            {
+              "name": "corneal diseases",
+              "labelcui": "D003316",
+              "label": 0
+            },
+            {
+              "name": "keratitis herpetic",
+              "labelcui": "D016849",
+              "label": 0
+            },
+            {
+              "name": "keratitis fugax hereditaria",
+              "labelcui": "C563650",
+              "label": 0
+            },
+            {
+              "name": "acanthamoeba keratitis",
+              "labelcui": "D015823",
+              "label": 0
+            },
+            {
+              "name": "corneal dystrophies hereditary",
+              "labelcui": "D003317",
+              "label": 0
+            },
+            {
+              "name": "keratitis sicca",
+              "labelcui": "C531719",
+              "label": 0
+            },
+            {
+              "name": "corneal ulcer",
+              "labelcui": "D003320",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "deficiency of coproporphyrinogen oxidase",
+          "golden_cui": "D046349",
+          "candidates": [
+            {
+              "name": "coproporphyria hereditary",
+              "labelcui": "121300|D046349",
+              "label": 1
+            },
+            {
+              "name": "coproporphyria",
+              "labelcui": "C535469",
+              "label": 0
+            },
+            {
+              "name": "cytochrome c oxidase deficiency",
+              "labelcui": "D030401|220110",
+              "label": 0
+            },
+            {
+              "name": "familial apoceruloplasmin deficiency",
+              "labelcui": "604290|C536004",
+              "label": 0
+            },
+            {
+              "name": "combined oxidative phosphorylation deficiency 1",
+              "labelcui": "609060|C563797",
+              "label": 0
+            },
+            {
+              "name": "porphyria variegate",
+              "labelcui": "D046350",
+              "label": 0
+            },
+            {
+              "name": "combined oxidative phosphorylation deficiency 2",
+              "labelcui": "C566468|610498",
+              "label": 0
+            },
+            {
+              "name": "protoporphyria erythropoietic x linked",
+              "labelcui": "300752",
+              "label": 0
+            },
+            {
+              "name": "porphyria hepatoerythropoietic",
+              "labelcui": "D017121",
+              "label": 0
+            },
+            {
+              "name": "porphyria variegata",
+              "labelcui": "D046350|C538659|176200",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "von hippel lindau",
+          "golden_cui": "D006623",
+          "candidates": [
+            {
+              "name": "von hippel lindau",
+              "labelcui": "D006623",
+              "label": 1
+            },
+            {
+              "name": "von hippel lindau disease",
+              "labelcui": "193300|D006623",
+              "label": 1
+            },
+            {
+              "name": "hereditary renal cancer associated 1",
+              "labelcui": "C564169",
+              "label": 0
+            },
+            {
+              "name": "hhh syndrome",
+              "labelcui": "C538380|238970",
+              "label": 0
+            },
+            {
+              "name": "hhhh syndrome",
+              "labelcui": "C564411",
+              "label": 0
+            },
+            {
+              "name": "hypocalciuric hypercalcemia familial type 1",
+              "labelcui": "145980|C537145",
+              "label": 0
+            },
+            {
+              "name": "hepatoblastoma caused by somatic mutation",
+              "labelcui": "C567299",
+              "label": 0
+            },
+            {
+              "name": "lynch syndrome i",
+              "labelcui": "D003123|120435|C537261",
+              "label": 0
+            },
+            {
+              "name": "hemangiomatosis familial pulmonary capillary",
+              "labelcui": "C535861",
+              "label": 0
+            },
+            {
+              "name": "heterotaxy visceroatrial autosomal recessive",
+              "labelcui": "C566864",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "excess iron deposits",
+          "golden_cui": "D019190",
+          "candidates": [
+            {
+              "name": "iron overload",
+              "labelcui": "D019190",
+              "label": 1
+            },
+            {
+              "name": "iron overload autosomal dominant",
+              "labelcui": "C565020",
+              "label": 0
+            },
+            {
+              "name": "siderosis",
+              "labelcui": "D012806",
+              "label": 0
+            },
+            {
+              "name": "iron metabolism disorders",
+              "labelcui": "D019189",
+              "label": 0
+            },
+            {
+              "name": "hemosiderosis",
+              "labelcui": "D006486",
+              "label": 0
+            },
+            {
+              "name": "bantu siderosis",
+              "labelcui": "C537904",
+              "label": 0
+            },
+            {
+              "name": "hemobilia",
+              "labelcui": "D006431",
+              "label": 0
+            },
+            {
+              "name": "heavy metal toxicity",
+              "labelcui": "C535854",
+              "label": 0
+            },
+            {
+              "name": "irons bhan syndrome",
+              "labelcui": "C535539",
+              "label": 0
+            },
+            {
+              "name": "iron sulfur protein deficiency",
+              "labelcui": "255125",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "very long chain acyl coa dehydrogenase deficiency",
+          "golden_cui": "C536353",
+          "candidates": [
+            {
+              "name": "deficiency of mitochondrial very long chain acyl coa dehydrogenase",
+              "labelcui": "C536353",
+              "label": 1
+            },
+            {
+              "name": "vlcad deficiency",
+              "labelcui": "C536353|201475",
+              "label": 1
+            },
+            {
+              "name": "long chain acyl coa dehydrogenase deficiency",
+              "labelcui": "C535690",
+              "label": 0
+            },
+            {
+              "name": "impairment of very long chain fatty acids beta oxidation",
+              "labelcui": "300100",
+              "label": 0
+            },
+            {
+              "name": "medium chain acyl coa dehydrogenase deficiency",
+              "labelcui": "C536038|201450",
+              "label": 0
+            },
+            {
+              "name": "short chain acyl coa dehydrogenase deficiency",
+              "labelcui": "C537596|201470",
+              "label": 0
+            },
+            {
+              "name": "diarrhea chronic with villous atrophy",
+              "labelcui": "C564019",
+              "label": 0
+            },
+            {
+              "name": "fabry disease cardiac variant",
+              "labelcui": "C567062",
+              "label": 0
+            },
+            {
+              "name": "mcdonough syndrome",
+              "labelcui": "C538158",
+              "label": 0
+            },
+            {
+              "name": "multiple acyl coenzyme a dehydrogenase deficiency",
+              "labelcui": "231680|D054069",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "retinoblastoma",
+          "golden_cui": "D012175",
+          "candidates": [
+            {
+              "name": "retinoblastoma",
+              "labelcui": "180200|D012175",
+              "label": 1
+            },
+            {
+              "name": "retinoblastoma tumors",
+              "labelcui": "D012175",
+              "label": 1
+            },
+            {
+              "name": "retinal neoplasms",
+              "labelcui": "D019572",
+              "label": 0
+            },
+            {
+              "name": "osteosarcoma retinoblastoma related",
+              "labelcui": "C566714",
+              "label": 0
+            },
+            {
+              "name": "retinal dysplasia primary",
+              "labelcui": "312550",
+              "label": 0
+            },
+            {
+              "name": "retinal diseases",
+              "labelcui": "D012164",
+              "label": 0
+            },
+            {
+              "name": "intraocular lymphoma",
+              "labelcui": "D064090",
+              "label": 0
+            },
+            {
+              "name": "retinal dysplasia",
+              "labelcui": "D015792",
+              "label": 0
+            },
+            {
+              "name": "neuroblastoma",
+              "labelcui": "D009447|256700",
+              "label": 0
+            },
+            {
+              "name": "medulloblastoma",
+              "labelcui": "D008527|155255",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "prader willi syndrome",
+          "golden_cui": "D011218",
+          "candidates": [
+            {
+              "name": "prader willi syndrome",
+              "labelcui": "D011218|176270",
+              "label": 1
+            },
+            {
+              "name": "prader willi",
+              "labelcui": "D011218",
+              "label": 1
+            },
+            {
+              "name": "prader willi like syndrome associated with chromosome 6",
+              "labelcui": "C566764",
+              "label": 0
+            },
+            {
+              "name": "prader willi syndromes angelman syndromes",
+              "labelcui": "D011218|D017204",
+              "label": 1
+            },
+            {
+              "name": "prader willi habitus osteopenia and camptodactyly",
+              "labelcui": "C538276",
+              "label": 0
+            },
+            {
+              "name": "waardenburg syndrome",
+              "labelcui": "D014849|148820",
+              "label": 0
+            },
+            {
+              "name": "walker warburg syndrome",
+              "labelcui": "D058494|236670",
+              "label": 0
+            },
+            {
+              "name": "obesity hypoventilation syndrome",
+              "labelcui": "D010845",
+              "label": 0
+            },
+            {
+              "name": "wolff parkinson white syndrome",
+              "labelcui": "194200|D014927",
+              "label": 0
+            },
+            {
+              "name": "walker warburg syndrome fktn related",
+              "labelcui": "C567727",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "breast and ovarian cancer",
+          "golden_cui": "D061325",
+          "candidates": [
+            {
+              "name": "breast cancer ovarian cancer",
+              "labelcui": "D001943|D010051|D001943|D010051",
+              "label": 0
+            },
+            {
+              "name": "ovarian cancer breast cancer",
+              "labelcui": "D010051|D001943",
+              "label": 0
+            },
+            {
+              "name": "breast ovarian cancer",
+              "labelcui": "D061325|604370",
+              "label": 1
+            },
+            {
+              "name": "cancer of breast cancer of ovaries",
+              "labelcui": "D001943|D010051",
+              "label": 0
+            },
+            {
+              "name": "breast cancers ovarian cancers",
+              "labelcui": "D001943|D010051|D010051|D001943",
+              "label": 0
+            },
+            {
+              "name": "breast cancers ovarian cancers other cancers",
+              "labelcui": "D001943|D010051|D009369",
+              "label": 0
+            },
+            {
+              "name": "hereditary breast and ovarian cancer syndrome",
+              "labelcui": "D061325",
+              "label": 1
+            },
+            {
+              "name": "brca associated hereditary ovarian cancers",
+              "labelcui": "604370|612555|613399",
+              "label": 0
+            },
+            {
+              "name": "ovarian system carcinomas gastric system carcinomas biliary system carcinomas",
+              "labelcui": "D010051|D013274|D001661",
+              "label": 0
+            },
+            {
+              "name": "breast ovarian cancer familial susceptibility to 2",
+              "labelcui": "612555",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "breast cancer",
+          "golden_cui": "D001943",
+          "candidates": [
+            {
+              "name": "familial breast cancer",
+              "labelcui": "D001943",
+              "label": 1
+            },
+            {
+              "name": "breast neoplasms",
+              "labelcui": "114480|D001943",
+              "label": 1
+            },
+            {
+              "name": "breast cancer familial",
+              "labelcui": "C562840",
+              "label": 0
+            },
+            {
+              "name": "breast diseases",
+              "labelcui": "D001941",
+              "label": 0
+            },
+            {
+              "name": "inherited breast cancer",
+              "labelcui": "D061325|D001943",
+              "label": 1
+            },
+            {
+              "name": "breast cancer familial male",
+              "labelcui": "C566178",
+              "label": 0
+            },
+            {
+              "name": "breast neoplasms male",
+              "labelcui": "D018567",
+              "label": 0
+            },
+            {
+              "name": "breast cancer 3",
+              "labelcui": "C565336|605365",
+              "label": 0
+            },
+            {
+              "name": "hereditary breast cancer",
+              "labelcui": "D001943|D061325",
+              "label": 1
+            },
+            {
+              "name": "angiosarcoma of the breast",
+              "labelcui": "C536368",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "aniridia",
+          "golden_cui": "D015783",
+          "candidates": [
+            {
+              "name": "aniridia",
+              "labelcui": "106210|C536372|D015783",
+              "label": 1
+            },
+            {
+              "name": "aniridia type 2",
+              "labelcui": "106210|C536372",
+              "label": 0
+            },
+            {
+              "name": "absent iris",
+              "labelcui": "D015783",
+              "label": 1
+            },
+            {
+              "name": "aniridia cerebellar ataxia mental deficiency",
+              "labelcui": "C536370|206700",
+              "label": 0
+            },
+            {
+              "name": "aniridia and absent patella",
+              "labelcui": "C566281",
+              "label": 0
+            },
+            {
+              "name": "penis agenesis",
+              "labelcui": "C536649",
+              "label": 0
+            },
+            {
+              "name": "anotia",
+              "labelcui": "C537772",
+              "label": 0
+            },
+            {
+              "name": "aniridia microcornea and spontaneously reabsorbed cataract",
+              "labelcui": "C566280",
+              "label": 0
+            },
+            {
+              "name": "an",
+              "labelcui": "106210|C536372|606788|D000856",
+              "label": 0
+            },
+            {
+              "name": "anorectal atresia",
+              "labelcui": "C537771",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "duchenne muscular dystrophy",
+          "golden_cui": "D020388",
+          "candidates": [
+            {
+              "name": "muscular dystrophy duchenne",
+              "labelcui": "300376|D020388",
+              "label": 1
+            },
+            {
+              "name": "muscular dystrophy duchenne type",
+              "labelcui": "310200|300376|D020388",
+              "label": 1
+            },
+            {
+              "name": "dmd duchenne muscular dystrophy",
+              "labelcui": "310200",
+              "label": 0
+            },
+            {
+              "name": "dystrophic",
+              "labelcui": "D020388",
+              "label": 1
+            },
+            {
+              "name": "x linked recessive muscular dystrophy",
+              "labelcui": "D040181|D009136",
+              "label": 0
+            },
+            {
+              "name": "muscular dystrophy congenital type 1d",
+              "labelcui": "C563844|608840",
+              "label": 0
+            },
+            {
+              "name": "muscular dystrophy distal late onset autosomal dominant",
+              "labelcui": "C536690|604454|D049310|160500",
+              "label": 0
+            },
+            {
+              "name": "muscular dystrophies",
+              "labelcui": "D009136",
+              "label": 0
+            },
+            {
+              "name": "muscular dystrophy congenital 1b",
+              "labelcui": "C565748|604801",
+              "label": 0
+            },
+            {
+              "name": "muscular dystrophy animal",
+              "labelcui": "D009137",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "anemia",
+          "golden_cui": "D000740",
+          "candidates": [
+            {
+              "name": "anemia",
+              "labelcui": "D000740",
+              "label": 1
+            },
+            {
+              "name": "anemia iron deficiency",
+              "labelcui": "D018798",
+              "label": 0
+            },
+            {
+              "name": "anemia congenital hypoplastic",
+              "labelcui": "D029502",
+              "label": 0
+            },
+            {
+              "name": "anemia aplastic",
+              "labelcui": "D000741|609135",
+              "label": 0
+            },
+            {
+              "name": "anemia hypoplastic congenital",
+              "labelcui": "D029502|D029503|105650",
+              "label": 0
+            },
+            {
+              "name": "anemia pernicious",
+              "labelcui": "D000752",
+              "label": 0
+            },
+            {
+              "name": "anemia neonatal",
+              "labelcui": "D000751",
+              "label": 0
+            },
+            {
+              "name": "anemia hemolytic",
+              "labelcui": "D000743",
+              "label": 0
+            },
+            {
+              "name": "anemia hypochromic",
+              "labelcui": "D000747|C536761|300751",
+              "label": 0
+            },
+            {
+              "name": "anemias hypochromic",
+              "labelcui": "D000747",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "colorectal cancer",
+          "golden_cui": "D015179",
+          "candidates": [
+            {
+              "name": "colorectal neoplasms",
+              "labelcui": "114500|D015179",
+              "label": 1
+            },
+            {
+              "name": "colon cancer",
+              "labelcui": "D003110|114500|D015179",
+              "label": 1
+            },
+            {
+              "name": "hereditary colorectal cancer syndrome",
+              "labelcui": "D015179",
+              "label": 1
+            },
+            {
+              "name": "gastric cancer colorectal cancer",
+              "labelcui": "D015179|D013274",
+              "label": 1
+            },
+            {
+              "name": "colonic neoplasms",
+              "labelcui": "D003110",
+              "label": 0
+            },
+            {
+              "name": "colorectal cancers other cancers",
+              "labelcui": "D015179|D009369",
+              "label": 1
+            },
+            {
+              "name": "colorectal neoplasms hereditary nonpolyposis",
+              "labelcui": "D003123",
+              "label": 0
+            },
+            {
+              "name": "colorectal adenomas",
+              "labelcui": "D003123|D000236",
+              "label": 0
+            },
+            {
+              "name": "rectal neoplasms",
+              "labelcui": "D012004",
+              "label": 0
+            },
+            {
+              "name": "colorectal cancer hereditary nonpolyposis type 1",
+              "labelcui": "C535972|120435|C537261",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "hereditary coproporphyria",
+          "golden_cui": "D046349",
+          "candidates": [
+            {
+              "name": "coproporphyria hereditary",
+              "labelcui": "121300|D046349",
+              "label": 1
+            },
+            {
+              "name": "coproporphyria",
+              "labelcui": "C535469",
+              "label": 0
+            },
+            {
+              "name": "porphyria hepatoerythropoietic",
+              "labelcui": "D017121",
+              "label": 0
+            },
+            {
+              "name": "porphyrias hepatic",
+              "labelcui": "D017094",
+              "label": 0
+            },
+            {
+              "name": "protoporphyria erythropoietic",
+              "labelcui": "177000|D046351",
+              "label": 0
+            },
+            {
+              "name": "porphyria erythropoietic",
+              "labelcui": "D017092|263700",
+              "label": 0
+            },
+            {
+              "name": "porphyria cutanea tarda",
+              "labelcui": "D017119|176100",
+              "label": 0
+            },
+            {
+              "name": "porphyria cutanea tarda type i",
+              "labelcui": "C566768",
+              "label": 0
+            },
+            {
+              "name": "porphyrias",
+              "labelcui": "D011164",
+              "label": 0
+            },
+            {
+              "name": "porphyria variegate",
+              "labelcui": "D046350",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "tay sachs disease",
+          "golden_cui": "D013661",
+          "candidates": [
+            {
+              "name": "tay sachs disease",
+              "labelcui": "D013661|272800",
+              "label": 1
+            },
+            {
+              "name": "tay sachs",
+              "labelcui": "D013661",
+              "label": 1
+            },
+            {
+              "name": "tay sachs disease juvenile",
+              "labelcui": "C564782",
+              "label": 0
+            },
+            {
+              "name": "tay sachs disease pseudo ab variant",
+              "labelcui": "C564786",
+              "label": 0
+            },
+            {
+              "name": "tay sachs disease variant b1",
+              "labelcui": "C564785",
+              "label": 0
+            },
+            {
+              "name": "tay sachs disease ab variant",
+              "labelcui": "272750|D049290",
+              "label": 0
+            },
+            {
+              "name": "ts",
+              "labelcui": "C536962|601005|D005879|137580|C565346|191100",
+              "label": 0
+            },
+            {
+              "name": "strudwick syndrome",
+              "labelcui": "184250|C537501",
+              "label": 0
+            },
+            {
+              "name": "stut1",
+              "labelcui": "184450",
+              "label": 0
+            },
+            {
+              "name": "rubinstein taybi syndrome",
+              "labelcui": "180849|D012415",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "cld",
+          "golden_cui": "C536210",
+          "candidates": [
+            {
+              "name": "corneal dystrophy crystalline of schnyder",
+              "labelcui": "121800|C535475",
+              "label": 0
+            },
+            {
+              "name": "dyschondrosteosis and nephritis",
+              "labelcui": "C565080",
+              "label": 0
+            },
+            {
+              "name": "deafness congenital and onychodystrophy autosomal dominant",
+              "labelcui": "C567274",
+              "label": 0
+            },
+            {
+              "name": "cdpx1",
+              "labelcui": "C535941|302950|C580533",
+              "label": 0
+            },
+            {
+              "name": "cystic fibrosis like syndrome",
+              "labelcui": "211400|C567618|C567772|613071|C567813|613021",
+              "label": 0
+            },
+            {
+              "name": "cd",
+              "labelcui": "212750|D002446|153480|D006223",
+              "label": 0
+            },
+            {
+              "name": "corneal dystrophy gelatinous drop like",
+              "labelcui": "204870|C535480",
+              "label": 0
+            },
+            {
+              "name": "cracked tooth syndrome",
+              "labelcui": "D003387",
+              "label": 0
+            },
+            {
+              "name": "craniolenticulosutural dysplasia",
+              "labelcui": "607812|C564332",
+              "label": 0
+            },
+            {
+              "name": "chorioretinal dystrophy",
+              "labelcui": "D015862|D058499",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "prader willi syndrome",
+          "golden_cui": "D011218",
+          "candidates": [
+            {
+              "name": "prader willi syndrome",
+              "labelcui": "D011218|176270",
+              "label": 1
+            },
+            {
+              "name": "prader willi",
+              "labelcui": "D011218",
+              "label": 1
+            },
+            {
+              "name": "prader willi like syndrome associated with chromosome 6",
+              "labelcui": "C566764",
+              "label": 0
+            },
+            {
+              "name": "prader willi syndromes angelman syndromes",
+              "labelcui": "D011218|D017204",
+              "label": 1
+            },
+            {
+              "name": "prader willi habitus osteopenia and camptodactyly",
+              "labelcui": "C538276",
+              "label": 0
+            },
+            {
+              "name": "waardenburg syndrome",
+              "labelcui": "D014849|148820",
+              "label": 0
+            },
+            {
+              "name": "walker warburg syndrome",
+              "labelcui": "D058494|236670",
+              "label": 0
+            },
+            {
+              "name": "obesity hypoventilation syndrome",
+              "labelcui": "D010845",
+              "label": 0
+            },
+            {
+              "name": "wolff parkinson white syndrome",
+              "labelcui": "194200|D014927",
+              "label": 0
+            },
+            {
+              "name": "walker warburg syndrome fktn related",
+              "labelcui": "C567727",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "campomelic metaphyseal skeletal dysplasia",
+          "golden_cui": "D055036",
+          "candidates": [
+            {
+              "name": "campomelic dysplasia",
+              "labelcui": "D055036|114290",
+              "label": 1
+            },
+            {
+              "name": "campomelic dysplasia with autosomal sex reversal",
+              "labelcui": "C564282",
+              "label": 0
+            },
+            {
+              "name": "chondrodysplasia calcificans metaphysealis",
+              "labelcui": "C565855",
+              "label": 0
+            },
+            {
+              "name": "metaphyseal chondrodysplasia pena type",
+              "labelcui": "C565399",
+              "label": 0
+            },
+            {
+              "name": "jansen type metaphyseal chondrodysplasia",
+              "labelcui": "C537564|156400",
+              "label": 0
+            },
+            {
+              "name": "campomelia cumming type",
+              "labelcui": "C537966",
+              "label": 0
+            },
+            {
+              "name": "craniometaphyseal dysplasia autosomal dominant",
+              "labelcui": "C565145|123000",
+              "label": 0
+            },
+            {
+              "name": "metaphyseal chondrodysplasia schmid type",
+              "labelcui": "C537352|156500",
+              "label": 0
+            },
+            {
+              "name": "craniometaphyseal dysplasia autosomal recessive type",
+              "labelcui": "218400|C536570",
+              "label": 0
+            },
+            {
+              "name": "metaphyseal acroscyphodysplasia",
+              "labelcui": "C537350",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "myotonic dystrophy",
+          "golden_cui": "D009223",
+          "candidates": [
+            {
+              "name": "myotonic dystrophy",
+              "labelcui": "D009223",
+              "label": 1
+            },
+            {
+              "name": "myotonic disorders",
+              "labelcui": "D020967",
+              "label": 0
+            },
+            {
+              "name": "dm",
+              "labelcui": "160900|C538008|D009223",
+              "label": 1
+            },
+            {
+              "name": "dystrophia myotonica 1",
+              "labelcui": "160900|C538008",
+              "label": 0
+            },
+            {
+              "name": "myotonic myopathy proximal",
+              "labelcui": "D020967|602668|C538009",
+              "label": 0
+            },
+            {
+              "name": "dystrophia myotonica 2",
+              "labelcui": "602668|C538009",
+              "label": 0
+            },
+            {
+              "name": "diabetes mellitus",
+              "labelcui": "D003920",
+              "label": 0
+            },
+            {
+              "name": "diabetes mellitus type 1",
+              "labelcui": "222100|D003922",
+              "label": 0
+            },
+            {
+              "name": "insulin dependent diabetes mellitus",
+              "labelcui": "222100|D003922|125852",
+              "label": 0
+            },
+            {
+              "name": "maturity onset diabetes of the young type 1",
+              "labelcui": "C565101|125850",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "blistering",
+          "golden_cui": "D001768",
+          "candidates": [
+            {
+              "name": "blister",
+              "labelcui": "D001768",
+              "label": 1
+            },
+            {
+              "name": "contusions",
+              "labelcui": "D003288",
+              "label": 0
+            },
+            {
+              "name": "epidermolysis bullosa",
+              "labelcui": "D004820",
+              "label": 0
+            },
+            {
+              "name": "pemphigoid bullous",
+              "labelcui": "D010391",
+              "label": 0
+            },
+            {
+              "name": "pemphigus",
+              "labelcui": "D010392",
+              "label": 0
+            },
+            {
+              "name": "cicatrix",
+              "labelcui": "D002921",
+              "label": 0
+            },
+            {
+              "name": "epidermolysis bullosa acquisita",
+              "labelcui": "D016107",
+              "label": 0
+            },
+            {
+              "name": "bls",
+              "labelcui": "209920|C537079|210900|D001816",
+              "label": 0
+            },
+            {
+              "name": "epidermolysis bullosa dystrophica",
+              "labelcui": "226600|D016108",
+              "label": 0
+            },
+            {
+              "name": "epidermolysis bullosa simplex superficialis",
+              "labelcui": "C564368",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "tumor",
+          "golden_cui": "D009369",
+          "candidates": [
+            {
+              "name": "neoplasms",
+              "labelcui": "D009369",
+              "label": 1
+            },
+            {
+              "name": "neoplasms by site",
+              "labelcui": "D009371",
+              "label": 0
+            },
+            {
+              "name": "neoplastic processes",
+              "labelcui": "D009385",
+              "label": 0
+            },
+            {
+              "name": "carcinogenesis",
+              "labelcui": "D063646",
+              "label": 0
+            },
+            {
+              "name": "carcinomas",
+              "labelcui": "D002277|D009369",
+              "label": 1
+            },
+            {
+              "name": "carcinoma",
+              "labelcui": "D002277",
+              "label": 0
+            },
+            {
+              "name": "cell transformation neoplastic",
+              "labelcui": "D002471",
+              "label": 0
+            },
+            {
+              "name": "neoplasms experimental",
+              "labelcui": "D009374",
+              "label": 0
+            },
+            {
+              "name": "neoplasms by histologic type",
+              "labelcui": "D009370",
+              "label": 0
+            },
+            {
+              "name": "tumor virus infections",
+              "labelcui": "D014412",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "b cell neoplasms",
+          "golden_cui": "D016393",
+          "candidates": [
+            {
+              "name": "lymphoma b cell",
+              "labelcui": "D016393",
+              "label": 1
+            },
+            {
+              "name": "leukemia b cell",
+              "labelcui": "D015448",
+              "label": 0
+            },
+            {
+              "name": "precursor b cell lymphoblastic leukemia lymphoma",
+              "labelcui": "D015452",
+              "label": 0
+            },
+            {
+              "name": "leukemia lymphocytic chronic b cell",
+              "labelcui": "D015451|109543",
+              "label": 0
+            },
+            {
+              "name": "leukemia prolymphocytic b cell",
+              "labelcui": "D054403",
+              "label": 0
+            },
+            {
+              "name": "burkitt lymphoma",
+              "labelcui": "D002051|113970",
+              "label": 0
+            },
+            {
+              "name": "lymphoma",
+              "labelcui": "D008223",
+              "label": 0
+            },
+            {
+              "name": "lymphoma large b cell diffuse",
+              "labelcui": "D016403",
+              "label": 0
+            },
+            {
+              "name": "persistent polyclonal b cell lymphocytosis",
+              "labelcui": "C564707",
+              "label": 0
+            },
+            {
+              "name": "neoplasms plasma cell",
+              "labelcui": "D054219",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "tumors",
+          "golden_cui": "D009369",
+          "candidates": [
+            {
+              "name": "neoplasms",
+              "labelcui": "D009369",
+              "label": 1
+            },
+            {
+              "name": "neoplastic processes",
+              "labelcui": "D009385",
+              "label": 0
+            },
+            {
+              "name": "neoplasms by site",
+              "labelcui": "D009371",
+              "label": 0
+            },
+            {
+              "name": "carcinogenesis",
+              "labelcui": "D063646",
+              "label": 0
+            },
+            {
+              "name": "carcinomas",
+              "labelcui": "D002277|D009369",
+              "label": 1
+            },
+            {
+              "name": "carcinoma",
+              "labelcui": "D002277",
+              "label": 0
+            },
+            {
+              "name": "cell transformation neoplastic",
+              "labelcui": "D002471",
+              "label": 0
+            },
+            {
+              "name": "neoplasms experimental",
+              "labelcui": "D009374",
+              "label": 0
+            },
+            {
+              "name": "hamartoma",
+              "labelcui": "D006222",
+              "label": 0
+            },
+            {
+              "name": "tumor virus infections",
+              "labelcui": "D014412",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "cerebellar ataxia type i",
+          "golden_cui": "D020754",
+          "candidates": [
+            {
+              "name": "type i autosomal dominant cerebellar ataxia",
+              "labelcui": "109150",
+              "label": 0
+            },
+            {
+              "name": "autosomal recessive cerebellar ataxia type 1",
+              "labelcui": "C579934",
+              "label": 0
+            },
+            {
+              "name": "spinocerebellar ataxia 1",
+              "labelcui": "164400|D020754",
+              "label": 1
+            },
+            {
+              "name": "cerebellar ataxia",
+              "labelcui": "D002524",
+              "label": 0
+            },
+            {
+              "name": "spinocerebellar ataxia autosomal recessive 1",
+              "labelcui": "606002|C537308",
+              "label": 0
+            },
+            {
+              "name": "autosomal recessive ataxia",
+              "labelcui": "610743|D013132",
+              "label": 0
+            },
+            {
+              "name": "inherited ataxia",
+              "labelcui": "D013132",
+              "label": 0
+            },
+            {
+              "name": "infantile onset spinocerebellar ataxia",
+              "labelcui": "C535523",
+              "label": 0
+            },
+            {
+              "name": "ataxia",
+              "labelcui": "D001259",
+              "label": 0
+            },
+            {
+              "name": "spinocerebellar ataxia x linked 1",
+              "labelcui": "C563134|302500",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "colorectal cancer",
+          "golden_cui": "D015179",
+          "candidates": [
+            {
+              "name": "colorectal neoplasms",
+              "labelcui": "114500|D015179",
+              "label": 1
+            },
+            {
+              "name": "colon cancer",
+              "labelcui": "D003110|114500|D015179",
+              "label": 1
+            },
+            {
+              "name": "hereditary colorectal cancer syndrome",
+              "labelcui": "D015179",
+              "label": 1
+            },
+            {
+              "name": "gastric cancer colorectal cancer",
+              "labelcui": "D015179|D013274",
+              "label": 1
+            },
+            {
+              "name": "colonic neoplasms",
+              "labelcui": "D003110",
+              "label": 0
+            },
+            {
+              "name": "colorectal cancers other cancers",
+              "labelcui": "D015179|D009369",
+              "label": 1
+            },
+            {
+              "name": "colorectal neoplasms hereditary nonpolyposis",
+              "labelcui": "D003123",
+              "label": 0
+            },
+            {
+              "name": "colorectal adenomas",
+              "labelcui": "D003123|D000236",
+              "label": 0
+            },
+            {
+              "name": "rectal neoplasms",
+              "labelcui": "D012004",
+              "label": 0
+            },
+            {
+              "name": "colorectal cancer hereditary nonpolyposis type 1",
+              "labelcui": "C535972|120435|C537261",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "mesangial sclerosis",
+          "golden_cui": "C537346",
+          "candidates": [
+            {
+              "name": "mesangial sclerosis diffuse",
+              "labelcui": "C537346",
+              "label": 1
+            },
+            {
+              "name": "mesangial sclerosis diffuse renal with ocular abnormalities",
+              "labelcui": "C565405",
+              "label": 0
+            },
+            {
+              "name": "nephrosclerosis",
+              "labelcui": "D009400",
+              "label": 0
+            },
+            {
+              "name": "segmental glomerulosclerosis",
+              "labelcui": "C538457",
+              "label": 0
+            },
+            {
+              "name": "glomerulonephritis membranous",
+              "labelcui": "D015433",
+              "label": 0
+            },
+            {
+              "name": "sclerosis",
+              "labelcui": "D012598",
+              "label": 0
+            },
+            {
+              "name": "glomerulonephritis",
+              "labelcui": "D005921",
+              "label": 0
+            },
+            {
+              "name": "glomerulonephritis membranoproliferative",
+              "labelcui": "D015432",
+              "label": 0
+            },
+            {
+              "name": "medullary sponge kidney",
+              "labelcui": "D007691",
+              "label": 0
+            },
+            {
+              "name": "nephrotic syndrome",
+              "labelcui": "D009404",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "hemochromatosis",
+          "golden_cui": "D006432",
+          "candidates": [
+            {
+              "name": "hemochromatosis",
+              "labelcui": "D006432|235200|D016399",
+              "label": 1
+            },
+            {
+              "name": "hemochromatosis type 4",
+              "labelcui": "606069|C537249",
+              "label": 0
+            },
+            {
+              "name": "hemochromatosis type 2",
+              "labelcui": "C537247",
+              "label": 0
+            },
+            {
+              "name": "hemochromatosis type 3",
+              "labelcui": "604250|C537248",
+              "label": 0
+            },
+            {
+              "name": "african hemochromatosis",
+              "labelcui": "C579887",
+              "label": 0
+            },
+            {
+              "name": "hfe deficiency",
+              "labelcui": "D006432",
+              "label": 1
+            },
+            {
+              "name": "hemochromatosis type 2a",
+              "labelcui": "C566556|602390",
+              "label": 0
+            },
+            {
+              "name": "neonatal hemochromatosis",
+              "labelcui": "231100|C536394",
+              "label": 0
+            },
+            {
+              "name": "iron overload autosomal dominant",
+              "labelcui": "C565020",
+              "label": 0
+            },
+            {
+              "name": "hemochromatosis type 2b",
+              "labelcui": "C566557|613313",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "neuropathological abnormalities",
+          "golden_cui": "D009422",
+          "candidates": [
+            {
+              "name": "neurodegenerative diseases",
+              "labelcui": "D019636",
+              "label": 0
+            },
+            {
+              "name": "postmortem changes",
+              "labelcui": "D011180",
+              "label": 0
+            },
+            {
+              "name": "nervous system malformations",
+              "labelcui": "D009421",
+              "label": 0
+            },
+            {
+              "name": "brain diseases",
+              "labelcui": "D001927",
+              "label": 0
+            },
+            {
+              "name": "leukoencephalopathies",
+              "labelcui": "D056784",
+              "label": 0
+            },
+            {
+              "name": "neurotoxicity syndromes",
+              "labelcui": "D020258",
+              "label": 0
+            },
+            {
+              "name": "pathological conditions signs and symptoms",
+              "labelcui": "D013568",
+              "label": 0
+            },
+            {
+              "name": "neurobehavioral manifestations",
+              "labelcui": "D019954",
+              "label": 0
+            },
+            {
+              "name": "posterior leukoencephalopathy syndrome",
+              "labelcui": "D054038",
+              "label": 0
+            },
+            {
+              "name": "pathologic processes",
+              "labelcui": "D010335",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "tay sachs disease",
+          "golden_cui": "D013661",
+          "candidates": [
+            {
+              "name": "tay sachs disease",
+              "labelcui": "D013661|272800",
+              "label": 1
+            },
+            {
+              "name": "tay sachs",
+              "labelcui": "D013661",
+              "label": 1
+            },
+            {
+              "name": "tay sachs disease juvenile",
+              "labelcui": "C564782",
+              "label": 0
+            },
+            {
+              "name": "tay sachs disease pseudo ab variant",
+              "labelcui": "C564786",
+              "label": 0
+            },
+            {
+              "name": "tay sachs disease variant b1",
+              "labelcui": "C564785",
+              "label": 0
+            },
+            {
+              "name": "tay sachs disease ab variant",
+              "labelcui": "272750|D049290",
+              "label": 0
+            },
+            {
+              "name": "ts",
+              "labelcui": "C536962|601005|D005879|137580|C565346|191100",
+              "label": 0
+            },
+            {
+              "name": "strudwick syndrome",
+              "labelcui": "184250|C537501",
+              "label": 0
+            },
+            {
+              "name": "stut1",
+              "labelcui": "184450",
+              "label": 0
+            },
+            {
+              "name": "rubinstein taybi syndrome",
+              "labelcui": "180849|D012415",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "breast and ovarian cancers",
+          "golden_cui": "D061325",
+          "candidates": [
+            {
+              "name": "breast cancer ovarian cancer",
+              "labelcui": "D001943|D010051|D001943|D010051",
+              "label": 0
+            },
+            {
+              "name": "breast cancers ovarian cancers",
+              "labelcui": "D001943|D010051|D010051|D001943",
+              "label": 0
+            },
+            {
+              "name": "ovarian cancer breast cancer",
+              "labelcui": "D010051|D001943",
+              "label": 0
+            },
+            {
+              "name": "cancer of breast cancer of ovaries",
+              "labelcui": "D001943|D010051",
+              "label": 0
+            },
+            {
+              "name": "breast ovarian cancer",
+              "labelcui": "D061325|604370",
+              "label": 1
+            },
+            {
+              "name": "breast cancers ovarian cancers other cancers",
+              "labelcui": "D001943|D010051|D009369",
+              "label": 0
+            },
+            {
+              "name": "hereditary breast and ovarian cancer syndrome",
+              "labelcui": "D061325",
+              "label": 1
+            },
+            {
+              "name": "brca associated hereditary ovarian cancers",
+              "labelcui": "604370|612555|613399",
+              "label": 0
+            },
+            {
+              "name": "ovarian system carcinomas gastric system carcinomas biliary system carcinomas",
+              "labelcui": "D010051|D013274|D001661",
+              "label": 0
+            },
+            {
+              "name": "breast cancer prostate cancer",
+              "labelcui": "D001943|D011471",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "colorectal adenomas and/or carcinoma",
+          "golden_cui": "D018256|D015179",
+          "candidates": [
+            {
+              "name": "colorectal adenomas",
+              "labelcui": "D003123|D000236",
+              "label": 0
+            },
+            {
+              "name": "colorectal neoplasms",
+              "labelcui": "114500|D015179",
+              "label": 1
+            },
+            {
+              "name": "colorectal cancers other cancers",
+              "labelcui": "D015179|D009369",
+              "label": 1
+            },
+            {
+              "name": "hereditary colorectal cancer syndrome",
+              "labelcui": "D015179",
+              "label": 1
+            },
+            {
+              "name": "gastric cancer colorectal cancer",
+              "labelcui": "D015179|D013274",
+              "label": 1
+            },
+            {
+              "name": "colonic neoplasms",
+              "labelcui": "D003110",
+              "label": 0
+            },
+            {
+              "name": "colorectal adenomatous polyposis autosomal recessive",
+              "labelcui": "C563924|608456",
+              "label": 0
+            },
+            {
+              "name": "colorectal neoplasms hereditary nonpolyposis",
+              "labelcui": "D003123",
+              "label": 0
+            },
+            {
+              "name": "colon cancer",
+              "labelcui": "D003110|114500|D015179",
+              "label": 1
+            },
+            {
+              "name": "colonic polyps",
+              "labelcui": "D003111",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "idiopathic ventricular fibrillation",
+          "golden_cui": "C537182",
+          "candidates": [
+            {
+              "name": "ventricular fibrillation",
+              "labelcui": "D014693",
+              "label": 0
+            },
+            {
+              "name": "paroxysmal ventricular fibrillation",
+              "labelcui": "C537182|603829",
+              "label": 1
+            },
+            {
+              "name": "ventricular fibrillation paroxysmal familial 1",
+              "labelcui": "C537182|603829|C567851",
+              "label": 1
+            },
+            {
+              "name": "atrial fibrillation",
+              "labelcui": "D001281",
+              "label": 0
+            },
+            {
+              "name": "ventricular flutter",
+              "labelcui": "D054141",
+              "label": 0
+            },
+            {
+              "name": "ventricular fibrillation paroxysmal familial 2",
+              "labelcui": "C537182|603829|C567841",
+              "label": 1
+            },
+            {
+              "name": "atrial fibrillation familial 1",
+              "labelcui": "C538261|608583",
+              "label": 0
+            },
+            {
+              "name": "ventricular tachycardia familial",
+              "labelcui": "192605|C536334",
+              "label": 0
+            },
+            {
+              "name": "seizures benign familial neonatal 1",
+              "labelcui": "121200",
+              "label": 0
+            },
+            {
+              "name": "atrial fibrillation familial 3",
+              "labelcui": "C563817|607554",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "diabetes insipidus",
+          "golden_cui": "D003919",
+          "candidates": [
+            {
+              "name": "diabetes insipidus",
+              "labelcui": "D003919",
+              "label": 1
+            },
+            {
+              "name": "dipsogenic diabetes insipidus",
+              "labelcui": "C548013",
+              "label": 0
+            },
+            {
+              "name": "diabetes insipidus nephrogenic",
+              "labelcui": "D018500|125800",
+              "label": 0
+            },
+            {
+              "name": "autosomal dominant neurohypophyseal diabetes insipidus",
+              "labelcui": "125700",
+              "label": 0
+            },
+            {
+              "name": "diabetes insipidus neurogenic",
+              "labelcui": "125700|D020790",
+              "label": 0
+            },
+            {
+              "name": "gestational diabetes insipidus",
+              "labelcui": "C548014",
+              "label": 0
+            },
+            {
+              "name": "nephrogenic syndrome of inappropriate antidiuresis",
+              "labelcui": "300539|C564491",
+              "label": 0
+            },
+            {
+              "name": "inappropriate adh syndrome",
+              "labelcui": "D007177",
+              "label": 0
+            },
+            {
+              "name": "hypopituitarism congenital with central diabetes insipidus",
+              "labelcui": "C565477",
+              "label": 0
+            },
+            {
+              "name": "polydipsia",
+              "labelcui": "D059606",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "adenomatous polyposis coli tumor",
+          "golden_cui": "D011125",
+          "candidates": [
+            {
+              "name": "adenomatous polyposis coli tumor",
+              "labelcui": "D011125",
+              "label": 1
+            },
+            {
+              "name": "adenomatous polyposis coli",
+              "labelcui": "D011125|175100",
+              "label": 1
+            },
+            {
+              "name": "adenomatous polyps",
+              "labelcui": "D018256",
+              "label": 0
+            },
+            {
+              "name": "polyposis",
+              "labelcui": "D044483|D011125",
+              "label": 1
+            },
+            {
+              "name": "intestinal polyposis",
+              "labelcui": "D044483",
+              "label": 0
+            },
+            {
+              "name": "colorectal adenomatous polyposis autosomal recessive",
+              "labelcui": "C563924|608456",
+              "label": 0
+            },
+            {
+              "name": "polyposis gastric",
+              "labelcui": "C562464",
+              "label": 0
+            },
+            {
+              "name": "polyposis syndrome hereditary mixed 1",
+              "labelcui": "C563365|601228",
+              "label": 0
+            },
+            {
+              "name": "lynch syndrome i",
+              "labelcui": "D003123|120435|C537261",
+              "label": 0
+            },
+            {
+              "name": "polyposis syndrome hereditary mixed 2",
+              "labelcui": "C566451|610069",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "atrophic benign epidermolysis bullosa",
+          "golden_cui": "D016109",
+          "candidates": [
+            {
+              "name": "epidermolysis bullosa",
+              "labelcui": "D004820",
+              "label": 0
+            },
+            {
+              "name": "epidermolysis bullosa dystrophica",
+              "labelcui": "226600|D016108",
+              "label": 0
+            },
+            {
+              "name": "epidermolysis bullosa simplex autosomal recessive",
+              "labelcui": "C563408|601001",
+              "label": 0
+            },
+            {
+              "name": "epidermolysis bullosa acquisita",
+              "labelcui": "D016107",
+              "label": 0
+            },
+            {
+              "name": "epidermolysis bullosa simplex",
+              "labelcui": "131760|D016110",
+              "label": 0
+            },
+            {
+              "name": "epidermolysis bullosa simplex superficialis",
+              "labelcui": "C564368",
+              "label": 0
+            },
+            {
+              "name": "epidermolysis bullosa dystrophica neurotrophica",
+              "labelcui": "C562637|226500",
+              "label": 0
+            },
+            {
+              "name": "epidermolysis bullosa simplex ogna type",
+              "labelcui": "C535962|131950",
+              "label": 0
+            },
+            {
+              "name": "epidermolysis bullosa with congenital localized absence of skin and deformity of nails",
+              "labelcui": "132000|C562638",
+              "label": 0
+            },
+            {
+              "name": "epidermolysis bullosa lethal acantholytic",
+              "labelcui": "C535493|609638",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "xldcm",
+          "golden_cui": "D002311",
+          "candidates": [
+            {
+              "name": "xlcm",
+              "labelcui": "302045",
+              "label": 0
+            },
+            {
+              "name": "xldpt",
+              "labelcui": "C567464",
+              "label": 0
+            },
+            {
+              "name": "cdmd",
+              "labelcui": "143095",
+              "label": 0
+            },
+            {
+              "name": "mexican cardiomelic dysplasia",
+              "labelcui": "C563087",
+              "label": 0
+            },
+            {
+              "name": "cdg2d",
+              "labelcui": "607091|C535753|C564625",
+              "label": 0
+            },
+            {
+              "name": "congenital disorder of glycosylation type im",
+              "labelcui": "C563666|610768",
+              "label": 0
+            },
+            {
+              "name": "dilated cardiomyopathy neutropenia skeletal myopathy and abnormal mitochondria",
+              "labelcui": "C538496",
+              "label": 0
+            },
+            {
+              "name": "muscular dystrophy dystroglycanopathy limb girdle type c 2",
+              "labelcui": "613158",
+              "label": 0
+            },
+            {
+              "name": "mddgc1",
+              "labelcui": "609308",
+              "label": 0
+            },
+            {
+              "name": "corneal dystrophy endothelial x linked",
+              "labelcui": "C567587|300779",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "myotonic dystrophy",
+          "golden_cui": "D009223",
+          "candidates": [
+            {
+              "name": "myotonic dystrophy",
+              "labelcui": "D009223",
+              "label": 1
+            },
+            {
+              "name": "myotonic disorders",
+              "labelcui": "D020967",
+              "label": 0
+            },
+            {
+              "name": "dm",
+              "labelcui": "160900|C538008|D009223",
+              "label": 1
+            },
+            {
+              "name": "dystrophia myotonica 1",
+              "labelcui": "160900|C538008",
+              "label": 0
+            },
+            {
+              "name": "myotonic myopathy proximal",
+              "labelcui": "D020967|602668|C538009",
+              "label": 0
+            },
+            {
+              "name": "dystrophia myotonica 2",
+              "labelcui": "602668|C538009",
+              "label": 0
+            },
+            {
+              "name": "diabetes mellitus",
+              "labelcui": "D003920",
+              "label": 0
+            },
+            {
+              "name": "diabetes mellitus type 1",
+              "labelcui": "222100|D003922",
+              "label": 0
+            },
+            {
+              "name": "insulin dependent diabetes mellitus",
+              "labelcui": "222100|D003922|125852",
+              "label": 0
+            },
+            {
+              "name": "maturity onset diabetes of the young type 1",
+              "labelcui": "C565101|125850",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "genetic disorders",
+          "golden_cui": "D030342",
+          "candidates": [
+            {
+              "name": "genetic diseases inborn",
+              "labelcui": "D030342",
+              "label": 1
+            },
+            {
+              "name": "skin diseases genetic",
+              "labelcui": "D012873",
+              "label": 0
+            },
+            {
+              "name": "metabolism inborn errors",
+              "labelcui": "D008661",
+              "label": 0
+            },
+            {
+              "name": "rare diseases",
+              "labelcui": "D035583",
+              "label": 0
+            },
+            {
+              "name": "congenital hereditary and neonatal diseases and abnormalities",
+              "labelcui": "D009358",
+              "label": 0
+            },
+            {
+              "name": "nondisjunction genetic",
+              "labelcui": "D009630",
+              "label": 0
+            },
+            {
+              "name": "diseases",
+              "labelcui": "C|D004194",
+              "label": 0
+            },
+            {
+              "name": "syndrome",
+              "labelcui": "D013577",
+              "label": 0
+            },
+            {
+              "name": "congenital abnormalities",
+              "labelcui": "D000013",
+              "label": 0
+            },
+            {
+              "name": "dna virus infections",
+              "labelcui": "D004266",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "adenomatous polyposis coli tumor",
+          "golden_cui": "D011125",
+          "candidates": [
+            {
+              "name": "adenomatous polyposis coli tumor",
+              "labelcui": "D011125",
+              "label": 1
+            },
+            {
+              "name": "adenomatous polyposis coli",
+              "labelcui": "D011125|175100",
+              "label": 1
+            },
+            {
+              "name": "adenomatous polyps",
+              "labelcui": "D018256",
+              "label": 0
+            },
+            {
+              "name": "polyposis",
+              "labelcui": "D044483|D011125",
+              "label": 1
+            },
+            {
+              "name": "intestinal polyposis",
+              "labelcui": "D044483",
+              "label": 0
+            },
+            {
+              "name": "colorectal adenomatous polyposis autosomal recessive",
+              "labelcui": "C563924|608456",
+              "label": 0
+            },
+            {
+              "name": "polyposis gastric",
+              "labelcui": "C562464",
+              "label": 0
+            },
+            {
+              "name": "polyposis syndrome hereditary mixed 1",
+              "labelcui": "C563365|601228",
+              "label": 0
+            },
+            {
+              "name": "lynch syndrome i",
+              "labelcui": "D003123|120435|C537261",
+              "label": 0
+            },
+            {
+              "name": "polyposis syndrome hereditary mixed 2",
+              "labelcui": "C566451|610069",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "infertility",
+          "golden_cui": "D007246",
+          "candidates": [
+            {
+              "name": "infertility",
+              "labelcui": "D007246",
+              "label": 1
+            },
+            {
+              "name": "infertility female",
+              "labelcui": "D007247",
+              "label": 0
+            },
+            {
+              "name": "infertility male",
+              "labelcui": "D007248",
+              "label": 0
+            },
+            {
+              "name": "anovulation",
+              "labelcui": "D000858",
+              "label": 0
+            },
+            {
+              "name": "azoospermia",
+              "labelcui": "D053713",
+              "label": 0
+            },
+            {
+              "name": "embryo loss",
+              "labelcui": "D020964",
+              "label": 0
+            },
+            {
+              "name": "oligospermia",
+              "labelcui": "D009845",
+              "label": 0
+            },
+            {
+              "name": "oligosynaptic infertility",
+              "labelcui": "C562902",
+              "label": 0
+            },
+            {
+              "name": "arrest of spermatogenesis",
+              "labelcui": "C536875",
+              "label": 0
+            },
+            {
+              "name": "erectile dysfunction",
+              "labelcui": "D007172",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "hyperphenylalaninemia",
+          "golden_cui": "D010661",
+          "candidates": [
+            {
+              "name": "hyperphenylalaninemic",
+              "labelcui": "D010661",
+              "label": 1
+            },
+            {
+              "name": "phenylketonurias",
+              "labelcui": "D010661|261600",
+              "label": 1
+            },
+            {
+              "name": "deficiency of hepatic phenylalanine hydroxylase",
+              "labelcui": "261600",
+              "label": 0
+            },
+            {
+              "name": "hyperphenylalaninemia bh4 deficient b",
+              "labelcui": "C562656|233910",
+              "label": 0
+            },
+            {
+              "name": "tyrosinemias",
+              "labelcui": "276600|D020176",
+              "label": 0
+            },
+            {
+              "name": "hyperphenylalaninemia bh4 deficient c",
+              "labelcui": "261630|D010661|261600",
+              "label": 1
+            },
+            {
+              "name": "hyperphenylalaninemia with primapterinuria",
+              "labelcui": "C538382|264070",
+              "label": 0
+            },
+            {
+              "name": "hyperphenylalaninemia non pku mild",
+              "labelcui": "C567494",
+              "label": 0
+            },
+            {
+              "name": "hyperphenylalaninemia bh4 deficient due to partial pts deficiency",
+              "labelcui": "C567493",
+              "label": 0
+            },
+            {
+              "name": "tyrosinosis",
+              "labelcui": "C562659",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "myotonic dystrophy",
+          "golden_cui": "D009223",
+          "candidates": [
+            {
+              "name": "myotonic dystrophy",
+              "labelcui": "D009223",
+              "label": 1
+            },
+            {
+              "name": "myotonic disorders",
+              "labelcui": "D020967",
+              "label": 0
+            },
+            {
+              "name": "dm",
+              "labelcui": "160900|C538008|D009223",
+              "label": 1
+            },
+            {
+              "name": "dystrophia myotonica 1",
+              "labelcui": "160900|C538008",
+              "label": 0
+            },
+            {
+              "name": "myotonic myopathy proximal",
+              "labelcui": "D020967|602668|C538009",
+              "label": 0
+            },
+            {
+              "name": "dystrophia myotonica 2",
+              "labelcui": "602668|C538009",
+              "label": 0
+            },
+            {
+              "name": "diabetes mellitus",
+              "labelcui": "D003920",
+              "label": 0
+            },
+            {
+              "name": "diabetes mellitus type 1",
+              "labelcui": "222100|D003922",
+              "label": 0
+            },
+            {
+              "name": "insulin dependent diabetes mellitus",
+              "labelcui": "222100|D003922|125852",
+              "label": 0
+            },
+            {
+              "name": "maturity onset diabetes of the young type 1",
+              "labelcui": "C565101|125850",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "cancer",
+          "golden_cui": "D009369",
+          "candidates": [
+            {
+              "name": "neoplasms",
+              "labelcui": "D009369",
+              "label": 1
+            },
+            {
+              "name": "carcinogenesis",
+              "labelcui": "D063646",
+              "label": 0
+            },
+            {
+              "name": "neoplastic processes",
+              "labelcui": "D009385",
+              "label": 0
+            },
+            {
+              "name": "carcinoma",
+              "labelcui": "D002277",
+              "label": 0
+            },
+            {
+              "name": "carcinomas",
+              "labelcui": "D002277|D009369",
+              "label": 1
+            },
+            {
+              "name": "neoplasms by site",
+              "labelcui": "D009371",
+              "label": 0
+            },
+            {
+              "name": "cell transformation neoplastic",
+              "labelcui": "D002471",
+              "label": 0
+            },
+            {
+              "name": "neoplasms by histologic type",
+              "labelcui": "D009370",
+              "label": 0
+            },
+            {
+              "name": "neoplasms experimental",
+              "labelcui": "D009374",
+              "label": 0
+            },
+            {
+              "name": "neoplastic syndromes hereditary",
+              "labelcui": "D009386",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "schwartz jampel syndrome type 2",
+          "golden_cui": "C537502",
+          "candidates": [
+            {
+              "name": "schwartz jampel syndrome",
+              "labelcui": "239100|D010009|255800",
+              "label": 0
+            },
+            {
+              "name": "schwartz jampel syndrome type 1",
+              "labelcui": "255800|239100|D010009",
+              "label": 0
+            },
+            {
+              "name": "sjs1 schwartz jampel syndrome",
+              "labelcui": "255800",
+              "label": 0
+            },
+            {
+              "name": "schwartz lelek syndrome",
+              "labelcui": "C537519",
+              "label": 0
+            },
+            {
+              "name": "schwartz cohen addad lambert syndrome",
+              "labelcui": "C535835",
+              "label": 0
+            },
+            {
+              "name": "spondyloepiphyseal dysplasia kimberley type",
+              "labelcui": "C564252|608361",
+              "label": 0
+            },
+            {
+              "name": "keratosis palmoplantaris striata ii",
+              "labelcui": "C565102|612908",
+              "label": 0
+            },
+            {
+              "name": "spondylocostal dysostosis 2 autosomal recessive",
+              "labelcui": "C535781|608681",
+              "label": 0
+            },
+            {
+              "name": "scapuloperoneal syndrome myopathic type",
+              "labelcui": "C536624|181430",
+              "label": 0
+            },
+            {
+              "name": "simpson golabi behmel syndrome type 2",
+              "labelcui": "C564567|300209",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "infantile form of g m2 gangliosidosis type 1",
+          "golden_cui": "D020143",
+          "candidates": [
+            {
+              "name": "gangliosidoses gm2",
+              "labelcui": "D020143",
+              "label": 1
+            },
+            {
+              "name": "gm2 gangliosidosis adult chronic type",
+              "labelcui": "C564784",
+              "label": 0
+            },
+            {
+              "name": "gm2 gangliosidosis variant b1",
+              "labelcui": "C567601",
+              "label": 0
+            },
+            {
+              "name": "gangliosidosis generalized gm1 late infantile type",
+              "labelcui": "C566893",
+              "label": 0
+            },
+            {
+              "name": "congenital disorder of glycosylation type 2a",
+              "labelcui": "C535752|212066",
+              "label": 0
+            },
+            {
+              "name": "type ii gaucher disease",
+              "labelcui": "D005776",
+              "label": 0
+            },
+            {
+              "name": "congenital disorder of glycosylation type iih",
+              "labelcui": "C566987|611182",
+              "label": 0
+            },
+            {
+              "name": "congenital disorder of glycosylation type 2g",
+              "labelcui": "611209|C535756",
+              "label": 0
+            },
+            {
+              "name": "congenital disorder of glycosylation type ii",
+              "labelcui": "607906|C535747",
+              "label": 0
+            },
+            {
+              "name": "cdg2d",
+              "labelcui": "607091|C535753|C564625",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "retinoblastoma",
+          "golden_cui": "D012175",
+          "candidates": [
+            {
+              "name": "retinoblastoma",
+              "labelcui": "180200|D012175",
+              "label": 1
+            },
+            {
+              "name": "retinoblastoma tumors",
+              "labelcui": "D012175",
+              "label": 1
+            },
+            {
+              "name": "retinal neoplasms",
+              "labelcui": "D019572",
+              "label": 0
+            },
+            {
+              "name": "osteosarcoma retinoblastoma related",
+              "labelcui": "C566714",
+              "label": 0
+            },
+            {
+              "name": "retinal dysplasia primary",
+              "labelcui": "312550",
+              "label": 0
+            },
+            {
+              "name": "retinal diseases",
+              "labelcui": "D012164",
+              "label": 0
+            },
+            {
+              "name": "intraocular lymphoma",
+              "labelcui": "D064090",
+              "label": 0
+            },
+            {
+              "name": "retinal dysplasia",
+              "labelcui": "D015792",
+              "label": 0
+            },
+            {
+              "name": "neuroblastoma",
+              "labelcui": "D009447|256700",
+              "label": 0
+            },
+            {
+              "name": "medulloblastoma",
+              "labelcui": "D008527|155255",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "tumor",
+          "golden_cui": "D009369",
+          "candidates": [
+            {
+              "name": "neoplasms",
+              "labelcui": "D009369",
+              "label": 1
+            },
+            {
+              "name": "neoplasms by site",
+              "labelcui": "D009371",
+              "label": 0
+            },
+            {
+              "name": "neoplastic processes",
+              "labelcui": "D009385",
+              "label": 0
+            },
+            {
+              "name": "carcinogenesis",
+              "labelcui": "D063646",
+              "label": 0
+            },
+            {
+              "name": "carcinomas",
+              "labelcui": "D002277|D009369",
+              "label": 1
+            },
+            {
+              "name": "carcinoma",
+              "labelcui": "D002277",
+              "label": 0
+            },
+            {
+              "name": "cell transformation neoplastic",
+              "labelcui": "D002471",
+              "label": 0
+            },
+            {
+              "name": "neoplasms experimental",
+              "labelcui": "D009374",
+              "label": 0
+            },
+            {
+              "name": "neoplasms by histologic type",
+              "labelcui": "D009370",
+              "label": 0
+            },
+            {
+              "name": "tumor virus infections",
+              "labelcui": "D014412",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "t pll",
+          "golden_cui": "D015461",
+          "candidates": [
+            {
+              "name": "leukemia prolymphocytic t cell",
+              "labelcui": "D015461",
+              "label": 1
+            },
+            {
+              "name": "lymphoma t cell peripheral",
+              "labelcui": "D016411",
+              "label": 0
+            },
+            {
+              "name": "leukemia prolymphocytic",
+              "labelcui": "D015463",
+              "label": 0
+            },
+            {
+              "name": "precursor t cell lymphoblastic leukemia lymphoma",
+              "labelcui": "D054218",
+              "label": 0
+            },
+            {
+              "name": "lymphomatoid papulosis",
+              "labelcui": "D017731",
+              "label": 0
+            },
+            {
+              "name": "lymphoproliferative syndrome",
+              "labelcui": "D008232",
+              "label": 0
+            },
+            {
+              "name": "lymphoproliferative disorders",
+              "labelcui": "308240|D008232",
+              "label": 0
+            },
+            {
+              "name": "lymphoma t cell",
+              "labelcui": "D016399",
+              "label": 0
+            },
+            {
+              "name": "leukemia t cell",
+              "labelcui": "D015458",
+              "label": 0
+            },
+            {
+              "name": "myeloproliferative syndrome transient",
+              "labelcui": "C563551|159595",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "leukemia",
+          "golden_cui": "D007938",
+          "candidates": [
+            {
+              "name": "leukemia",
+              "labelcui": "D007938",
+              "label": 1
+            },
+            {
+              "name": "leukemia myeloid",
+              "labelcui": "D007951",
+              "label": 0
+            },
+            {
+              "name": "leukemic infiltration",
+              "labelcui": "D017254",
+              "label": 0
+            },
+            {
+              "name": "leukemoid reaction",
+              "labelcui": "D007955",
+              "label": 0
+            },
+            {
+              "name": "leukemia radiation induced",
+              "labelcui": "D007953",
+              "label": 0
+            },
+            {
+              "name": "leukemia experimental",
+              "labelcui": "D007942",
+              "label": 0
+            },
+            {
+              "name": "leukemia lymphoid",
+              "labelcui": "D007945",
+              "label": 0
+            },
+            {
+              "name": "preleukemia",
+              "labelcui": "D011289",
+              "label": 0
+            },
+            {
+              "name": "sarcoma myeloid",
+              "labelcui": "D023981",
+              "label": 0
+            },
+            {
+              "name": "acute erythroleukemia",
+              "labelcui": "C535673",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "von willebrand factor vwf deficiency",
+          "golden_cui": "C531844",
+          "candidates": [
+            {
+              "name": "von willebrand factor deficiency",
+              "labelcui": "C531844",
+              "label": 1
+            },
+            {
+              "name": "von willebrand diseases",
+              "labelcui": "D014842",
+              "label": 0
+            },
+            {
+              "name": "von willebrand disease type 1",
+              "labelcui": "193400|D056725",
+              "label": 0
+            },
+            {
+              "name": "von willebrand disease platelet type",
+              "labelcui": "C536458|177820",
+              "label": 0
+            },
+            {
+              "name": "von willebrand disease type 2",
+              "labelcui": "D056728|613554",
+              "label": 0
+            },
+            {
+              "name": "von willebrand disease x linked form",
+              "labelcui": "C564041",
+              "label": 0
+            },
+            {
+              "name": "severe von willebrand disease",
+              "labelcui": "D056729",
+              "label": 0
+            },
+            {
+              "name": "von willebrand disease type 3",
+              "labelcui": "277480|D056729",
+              "label": 0
+            },
+            {
+              "name": "type iid von willebrand disease",
+              "labelcui": "D056728",
+              "label": 0
+            },
+            {
+              "name": "hemophilia a with vascular abnormality",
+              "labelcui": "C564415",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "retinoblastoma",
+          "golden_cui": "D012175",
+          "candidates": [
+            {
+              "name": "retinoblastoma",
+              "labelcui": "180200|D012175",
+              "label": 1
+            },
+            {
+              "name": "retinoblastoma tumors",
+              "labelcui": "D012175",
+              "label": 1
+            },
+            {
+              "name": "retinal neoplasms",
+              "labelcui": "D019572",
+              "label": 0
+            },
+            {
+              "name": "osteosarcoma retinoblastoma related",
+              "labelcui": "C566714",
+              "label": 0
+            },
+            {
+              "name": "retinal dysplasia primary",
+              "labelcui": "312550",
+              "label": 0
+            },
+            {
+              "name": "retinal diseases",
+              "labelcui": "D012164",
+              "label": 0
+            },
+            {
+              "name": "intraocular lymphoma",
+              "labelcui": "D064090",
+              "label": 0
+            },
+            {
+              "name": "retinal dysplasia",
+              "labelcui": "D015792",
+              "label": 0
+            },
+            {
+              "name": "neuroblastoma",
+              "labelcui": "D009447|256700",
+              "label": 0
+            },
+            {
+              "name": "medulloblastoma",
+              "labelcui": "D008527|155255",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "x linked emery dreifuss muscular dystrophy",
+          "golden_cui": "D020389",
+          "candidates": [
+            {
+              "name": "muscular dystrophy emery dreifuss",
+              "labelcui": "181350|D020389",
+              "label": 1
+            },
+            {
+              "name": "emery dreifuss muscular dystrophy 6 x linked",
+              "labelcui": "C567591",
+              "label": 0
+            },
+            {
+              "name": "emery dreifuss muscular dystrophy atypical autosomal recessive",
+              "labelcui": "C567633",
+              "label": 0
+            },
+            {
+              "name": "emery dreifuss muscular dystrophy 5",
+              "labelcui": "C567830",
+              "label": 0
+            },
+            {
+              "name": "emery dreifuss muscular dystrophy 4",
+              "labelcui": "C567831",
+              "label": 0
+            },
+            {
+              "name": "emery dreifuss muscular dystrophy 4 autosomal dominant",
+              "labelcui": "181350|D020389|C567831",
+              "label": 1
+            },
+            {
+              "name": "emerin deficiency",
+              "labelcui": "D020389",
+              "label": 1
+            },
+            {
+              "name": "x linked recessive muscular dystrophy",
+              "labelcui": "D040181|D009136",
+              "label": 0
+            },
+            {
+              "name": "muscular dystrophy tardive dreifuss emery type with contractures",
+              "labelcui": "181350|D020389|C538478",
+              "label": 1
+            },
+            {
+              "name": "muscular dystrophy tardive emery dreifuss type with contractures",
+              "labelcui": "C535734",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "neurological diseases",
+          "golden_cui": "D020271",
+          "candidates": [
+            {
+              "name": "nervous system diseases",
+              "labelcui": "D009422",
+              "label": 0
+            },
+            {
+              "name": "neurologic manifestations",
+              "labelcui": "D009461",
+              "label": 0
+            },
+            {
+              "name": "peripheral nervous system diseases",
+              "labelcui": "D010523",
+              "label": 0
+            },
+            {
+              "name": "central nervous system diseases",
+              "labelcui": "D002493",
+              "label": 0
+            },
+            {
+              "name": "neurodegenerative diseases",
+              "labelcui": "D019636",
+              "label": 0
+            },
+            {
+              "name": "neurotoxicity syndromes",
+              "labelcui": "D020258",
+              "label": 0
+            },
+            {
+              "name": "brain diseases",
+              "labelcui": "D001927",
+              "label": 0
+            },
+            {
+              "name": "neurotic disorders",
+              "labelcui": "D009497",
+              "label": 0
+            },
+            {
+              "name": "neuritis",
+              "labelcui": "D009443",
+              "label": 0
+            },
+            {
+              "name": "nervous system malformations",
+              "labelcui": "D009421",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "adenomatous polyposis coli tumor",
+          "golden_cui": "D011125",
+          "candidates": [
+            {
+              "name": "adenomatous polyposis coli tumor",
+              "labelcui": "D011125",
+              "label": 1
+            },
+            {
+              "name": "adenomatous polyposis coli",
+              "labelcui": "D011125|175100",
+              "label": 1
+            },
+            {
+              "name": "adenomatous polyps",
+              "labelcui": "D018256",
+              "label": 0
+            },
+            {
+              "name": "polyposis",
+              "labelcui": "D044483|D011125",
+              "label": 1
+            },
+            {
+              "name": "intestinal polyposis",
+              "labelcui": "D044483",
+              "label": 0
+            },
+            {
+              "name": "colorectal adenomatous polyposis autosomal recessive",
+              "labelcui": "C563924|608456",
+              "label": 0
+            },
+            {
+              "name": "polyposis gastric",
+              "labelcui": "C562464",
+              "label": 0
+            },
+            {
+              "name": "polyposis syndrome hereditary mixed 1",
+              "labelcui": "C563365|601228",
+              "label": 0
+            },
+            {
+              "name": "lynch syndrome i",
+              "labelcui": "D003123|120435|C537261",
+              "label": 0
+            },
+            {
+              "name": "polyposis syndrome hereditary mixed 2",
+              "labelcui": "C566451|610069",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "bipolar disorder",
+          "golden_cui": "D001714",
+          "candidates": [
+            {
+              "name": "bipolar disorder",
+              "labelcui": "D001714",
+              "label": 1
+            },
+            {
+              "name": "bipolar affective disorder",
+              "labelcui": "612371|C567529|C565111|125480|C567530|612357|C567074|611535|612372|C567531|611247|C567073|309200|C564108|C567075|611536|D001714",
+              "label": 1
+            },
+            {
+              "name": "manic depressive psychosis",
+              "labelcui": "C565111|125480|D001714",
+              "label": 1
+            },
+            {
+              "name": "bpad",
+              "labelcui": "C565111|125480|C567074|611535|611247|C567073|309200|C564108|C567075|611536",
+              "label": 0
+            },
+            {
+              "name": "binge eating disorder",
+              "labelcui": "D056912",
+              "label": 0
+            },
+            {
+              "name": "borderline personality disorder",
+              "labelcui": "D001883",
+              "label": 0
+            },
+            {
+              "name": "bdb2",
+              "labelcui": "611377",
+              "label": 0
+            },
+            {
+              "name": "bulimia nervosa",
+              "labelcui": "607499|D052018",
+              "label": 0
+            },
+            {
+              "name": "major affective disorder 2",
+              "labelcui": "309200|C564108",
+              "label": 0
+            },
+            {
+              "name": "simpson golabi behmel syndrome",
+              "labelcui": "C537340|312870",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "renal cell carcinoma",
+          "golden_cui": "D002292",
+          "candidates": [
+            {
+              "name": "carcinoma renal cell",
+              "labelcui": "144700|D002292",
+              "label": 1
+            },
+            {
+              "name": "familial renal cell carcinoma",
+              "labelcui": "C536851",
+              "label": 0
+            },
+            {
+              "name": "sporadic renal cell carcinomas",
+              "labelcui": "D002292",
+              "label": 1
+            },
+            {
+              "name": "clear cell renal cell carcinoma",
+              "labelcui": "144700|D002292|C538445",
+              "label": 1
+            },
+            {
+              "name": "renal cell carcinoma 1",
+              "labelcui": "C538557",
+              "label": 0
+            },
+            {
+              "name": "kidney neoplasms",
+              "labelcui": "D007680",
+              "label": 0
+            },
+            {
+              "name": "renal hamartomas",
+              "labelcui": "D007674|D006222",
+              "label": 0
+            },
+            {
+              "name": "oncocytoma renal",
+              "labelcui": "C537750",
+              "label": 0
+            },
+            {
+              "name": "adenocarcinoma clear cell",
+              "labelcui": "D018262",
+              "label": 0
+            },
+            {
+              "name": "mesonephroma",
+              "labelcui": "D008649",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "duchenne muscular dystrophy",
+          "golden_cui": "D020388",
+          "candidates": [
+            {
+              "name": "muscular dystrophy duchenne",
+              "labelcui": "300376|D020388",
+              "label": 1
+            },
+            {
+              "name": "muscular dystrophy duchenne type",
+              "labelcui": "310200|300376|D020388",
+              "label": 1
+            },
+            {
+              "name": "dmd duchenne muscular dystrophy",
+              "labelcui": "310200",
+              "label": 0
+            },
+            {
+              "name": "dystrophic",
+              "labelcui": "D020388",
+              "label": 1
+            },
+            {
+              "name": "x linked recessive muscular dystrophy",
+              "labelcui": "D040181|D009136",
+              "label": 0
+            },
+            {
+              "name": "muscular dystrophy congenital type 1d",
+              "labelcui": "C563844|608840",
+              "label": 0
+            },
+            {
+              "name": "muscular dystrophy distal late onset autosomal dominant",
+              "labelcui": "C536690|604454|D049310|160500",
+              "label": 0
+            },
+            {
+              "name": "muscular dystrophies",
+              "labelcui": "D009136",
+              "label": 0
+            },
+            {
+              "name": "muscular dystrophy congenital 1b",
+              "labelcui": "C565748|604801",
+              "label": 0
+            },
+            {
+              "name": "muscular dystrophy animal",
+              "labelcui": "D009137",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "breast ovarian cancer",
+          "golden_cui": "D061325",
+          "candidates": [
+            {
+              "name": "breast ovarian cancer",
+              "labelcui": "D061325|604370",
+              "label": 1
+            },
+            {
+              "name": "breast cancer ovarian cancer",
+              "labelcui": "D001943|D010051|D001943|D010051",
+              "label": 0
+            },
+            {
+              "name": "ovarian cancer breast cancer",
+              "labelcui": "D010051|D001943",
+              "label": 0
+            },
+            {
+              "name": "breast cancers ovarian cancers",
+              "labelcui": "D001943|D010051|D010051|D001943",
+              "label": 0
+            },
+            {
+              "name": "cancer of breast cancer of ovaries",
+              "labelcui": "D001943|D010051",
+              "label": 0
+            },
+            {
+              "name": "breast cancers ovarian cancers other cancers",
+              "labelcui": "D001943|D010051|D009369",
+              "label": 0
+            },
+            {
+              "name": "brca associated hereditary ovarian cancers",
+              "labelcui": "604370|612555|613399",
+              "label": 0
+            },
+            {
+              "name": "hereditary breast and ovarian cancer syndrome",
+              "labelcui": "D061325",
+              "label": 1
+            },
+            {
+              "name": "breast ovarian cancer familial susceptibility to 2",
+              "labelcui": "612555",
+              "label": 0
+            },
+            {
+              "name": "breast ovarian cancer familial susceptibility to 3",
+              "labelcui": "613399",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "copper toxicosis",
+          "golden_cui": "215600",
+          "candidates": [
+            {
+              "name": "copper deficiency familial benign",
+              "labelcui": "C535468",
+              "label": 0
+            },
+            {
+              "name": "copper overload cirrhosis",
+              "labelcui": "C566858",
+              "label": 0
+            },
+            {
+              "name": "manganese poisoning",
+              "labelcui": "D020149",
+              "label": 0
+            },
+            {
+              "name": "heavy metal toxicity",
+              "labelcui": "C535854",
+              "label": 0
+            },
+            {
+              "name": "cadmium poisoning",
+              "labelcui": "D002105",
+              "label": 0
+            },
+            {
+              "name": "mercury poisoning",
+              "labelcui": "D008630",
+              "label": 0
+            },
+            {
+              "name": "vitamin e deficiency",
+              "labelcui": "D014811",
+              "label": 0
+            },
+            {
+              "name": "tungiasis",
+              "labelcui": "D058285",
+              "label": 0
+            },
+            {
+              "name": "wilson disease gene",
+              "labelcui": "D006527",
+              "label": 0
+            },
+            {
+              "name": "berylliosis",
+              "labelcui": "D001607",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "duchenne muscular dystrophy",
+          "golden_cui": "D020388",
+          "candidates": [
+            {
+              "name": "muscular dystrophy duchenne",
+              "labelcui": "300376|D020388",
+              "label": 1
+            },
+            {
+              "name": "muscular dystrophy duchenne type",
+              "labelcui": "310200|300376|D020388",
+              "label": 1
+            },
+            {
+              "name": "dmd duchenne muscular dystrophy",
+              "labelcui": "310200",
+              "label": 0
+            },
+            {
+              "name": "dystrophic",
+              "labelcui": "D020388",
+              "label": 1
+            },
+            {
+              "name": "x linked recessive muscular dystrophy",
+              "labelcui": "D040181|D009136",
+              "label": 0
+            },
+            {
+              "name": "muscular dystrophy congenital type 1d",
+              "labelcui": "C563844|608840",
+              "label": 0
+            },
+            {
+              "name": "muscular dystrophy distal late onset autosomal dominant",
+              "labelcui": "C536690|604454|D049310|160500",
+              "label": 0
+            },
+            {
+              "name": "muscular dystrophies",
+              "labelcui": "D009136",
+              "label": 0
+            },
+            {
+              "name": "muscular dystrophy congenital 1b",
+              "labelcui": "C565748|604801",
+              "label": 0
+            },
+            {
+              "name": "muscular dystrophy animal",
+              "labelcui": "D009137",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "breast and ovarian cancers",
+          "golden_cui": "D061325",
+          "candidates": [
+            {
+              "name": "breast cancer ovarian cancer",
+              "labelcui": "D001943|D010051|D001943|D010051",
+              "label": 0
+            },
+            {
+              "name": "breast cancers ovarian cancers",
+              "labelcui": "D001943|D010051|D010051|D001943",
+              "label": 0
+            },
+            {
+              "name": "ovarian cancer breast cancer",
+              "labelcui": "D010051|D001943",
+              "label": 0
+            },
+            {
+              "name": "cancer of breast cancer of ovaries",
+              "labelcui": "D001943|D010051",
+              "label": 0
+            },
+            {
+              "name": "breast ovarian cancer",
+              "labelcui": "D061325|604370",
+              "label": 1
+            },
+            {
+              "name": "breast cancers ovarian cancers other cancers",
+              "labelcui": "D001943|D010051|D009369",
+              "label": 0
+            },
+            {
+              "name": "hereditary breast and ovarian cancer syndrome",
+              "labelcui": "D061325",
+              "label": 1
+            },
+            {
+              "name": "brca associated hereditary ovarian cancers",
+              "labelcui": "604370|612555|613399",
+              "label": 0
+            },
+            {
+              "name": "ovarian system carcinomas gastric system carcinomas biliary system carcinomas",
+              "labelcui": "D010051|D013274|D001661",
+              "label": 0
+            },
+            {
+              "name": "breast cancer prostate cancer",
+              "labelcui": "D001943|D011471",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "metachromatic leukodystrophy",
+          "golden_cui": "D007966",
+          "candidates": [
+            {
+              "name": "leukodystrophy metachromatic",
+              "labelcui": "D007966|250100",
+              "label": 1
+            },
+            {
+              "name": "late infantile metachromatic leukodystrophy",
+              "labelcui": "D007966",
+              "label": 1
+            },
+            {
+              "name": "leukodystrophy hypomyelinating 2",
+              "labelcui": "C563855|608804",
+              "label": 0
+            },
+            {
+              "name": "leukodystrophy dysmyelinating with oligodontia",
+              "labelcui": "C564344",
+              "label": 0
+            },
+            {
+              "name": "melanodermic leukodystrophy",
+              "labelcui": "C538676",
+              "label": 0
+            },
+            {
+              "name": "leukodystrophy demyelinating adult onset autosomal dominant",
+              "labelcui": "C566813|D020371|169500",
+              "label": 0
+            },
+            {
+              "name": "dysmyelinating leukodystrophy and spastic paraparesis",
+              "labelcui": "C580102",
+              "label": 0
+            },
+            {
+              "name": "metachromatic leukodystrophy due to saposin b deficiency",
+              "labelcui": "249900|C562609",
+              "label": 0
+            },
+            {
+              "name": "metachromatic leukodystrophy adult onset with normal arylsulfatase a",
+              "labelcui": "C563587",
+              "label": 0
+            },
+            {
+              "name": "metachondromatosis",
+              "labelcui": "C562938|156250",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "obesity",
+          "golden_cui": "D009765",
+          "candidates": [
+            {
+              "name": "obesity",
+              "labelcui": "D009765|601665",
+              "label": 1
+            },
+            {
+              "name": "obese",
+              "labelcui": "D009765",
+              "label": 1
+            },
+            {
+              "name": "overweight",
+              "labelcui": "D050177",
+              "label": 0
+            },
+            {
+              "name": "childhood onset obesity",
+              "labelcui": "D063766|D009765",
+              "label": 1
+            },
+            {
+              "name": "pediatric obesity",
+              "labelcui": "D063766",
+              "label": 0
+            },
+            {
+              "name": "obesity morbid",
+              "labelcui": "D009767",
+              "label": 0
+            },
+            {
+              "name": "obesity susceptibility to",
+              "labelcui": "608410|602025|603188|612362|607514|607447|300306",
+              "label": 0
+            },
+            {
+              "name": "obesity abdominal",
+              "labelcui": "D056128",
+              "label": 0
+            },
+            {
+              "name": "weight gain",
+              "labelcui": "D015430",
+              "label": 0
+            },
+            {
+              "name": "macrosomia adiposa congenita",
+              "labelcui": "C565425",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "adenomas",
+          "golden_cui": "D000236",
+          "candidates": [
+            {
+              "name": "adenoma",
+              "labelcui": "D000236",
+              "label": 1
+            },
+            {
+              "name": "adenomatoid tumor",
+              "labelcui": "D018254",
+              "label": 0
+            },
+            {
+              "name": "adenomatous polyps",
+              "labelcui": "D018256",
+              "label": 0
+            },
+            {
+              "name": "adrenocortical adenoma",
+              "labelcui": "D018246",
+              "label": 0
+            },
+            {
+              "name": "adenoma liver cell",
+              "labelcui": "D018248",
+              "label": 0
+            },
+            {
+              "name": "pituitary adenoma familial isolated",
+              "labelcui": "C566321",
+              "label": 0
+            },
+            {
+              "name": "fibroadenoma",
+              "labelcui": "D018226",
+              "label": 0
+            },
+            {
+              "name": "pancreatic adenoma",
+              "labelcui": "C538110",
+              "label": 0
+            },
+            {
+              "name": "adenoma pleomorphic",
+              "labelcui": "D008949",
+              "label": 0
+            },
+            {
+              "name": "adenomatosis pulmonary",
+              "labelcui": "D018255",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "deficiency of c5",
+          "golden_cui": "609536",
+          "candidates": [
+            {
+              "name": "complement component 5 deficiency",
+              "labelcui": "C537005|609536",
+              "label": 1
+            },
+            {
+              "name": "hereditary deficiency of the fifth component of complement",
+              "labelcui": "609536",
+              "label": 1
+            },
+            {
+              "name": "c4 deficiency",
+              "labelcui": "614380|614379",
+              "label": 0
+            },
+            {
+              "name": "chromosome 5 uniparental disomy",
+              "labelcui": "C537762",
+              "label": 0
+            },
+            {
+              "name": "chromosome 5 trisomy 5q",
+              "labelcui": "C537650",
+              "label": 0
+            },
+            {
+              "name": "factor v deficiency",
+              "labelcui": "D005166|227400",
+              "label": 0
+            },
+            {
+              "name": "chromosome 5 monosomy 5q35",
+              "labelcui": "C537647",
+              "label": 0
+            },
+            {
+              "name": "chromosome 5 trisomy 5p",
+              "labelcui": "C537648",
+              "label": 0
+            },
+            {
+              "name": "complement component 4b deficiency",
+              "labelcui": "614379",
+              "label": 0
+            },
+            {
+              "name": "spondylocostal dysostosis 5 autosomal dominant",
+              "labelcui": "122600",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "bipolar affective disorder",
+          "golden_cui": "D001714",
+          "candidates": [
+            {
+              "name": "bipolar affective disorder",
+              "labelcui": "612371|C567529|C565111|125480|C567530|612357|C567074|611535|612372|C567531|611247|C567073|309200|C564108|C567075|611536|D001714",
+              "label": 1
+            },
+            {
+              "name": "bipolar disorder",
+              "labelcui": "D001714",
+              "label": 1
+            },
+            {
+              "name": "manic depressive psychosis",
+              "labelcui": "C565111|125480|D001714",
+              "label": 1
+            },
+            {
+              "name": "bpad",
+              "labelcui": "C565111|125480|C567074|611535|611247|C567073|309200|C564108|C567075|611536",
+              "label": 0
+            },
+            {
+              "name": "major affective disorder 2",
+              "labelcui": "309200|C564108",
+              "label": 0
+            },
+            {
+              "name": "binge eating disorder",
+              "labelcui": "D056912",
+              "label": 0
+            },
+            {
+              "name": "bdb2",
+              "labelcui": "611377",
+              "label": 0
+            },
+            {
+              "name": "borderline personality disorder",
+              "labelcui": "D001883",
+              "label": 0
+            },
+            {
+              "name": "major affective disorder 1",
+              "labelcui": "C565111|125480",
+              "label": 0
+            },
+            {
+              "name": "major affective disorder 7",
+              "labelcui": "612371|C567529",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "wolfram syndrome",
+          "golden_cui": "222300",
+          "candidates": [
+            {
+              "name": "wolfram syndrome",
+              "labelcui": "D014929|222300",
+              "label": 1
+            },
+            {
+              "name": "wolfram like syndrome autosomal dominant",
+              "labelcui": "C565631",
+              "label": 0
+            },
+            {
+              "name": "wolfram syndrome 2",
+              "labelcui": "C565733|604928",
+              "label": 0
+            },
+            {
+              "name": "wolfram syndrome mitochondrial form",
+              "labelcui": "C564012",
+              "label": 0
+            },
+            {
+              "name": "wolf hirschhorn syndrome",
+              "labelcui": "194190|D054877",
+              "label": 0
+            },
+            {
+              "name": "wolff parkinson white syndrome",
+              "labelcui": "194200|D014927",
+              "label": 0
+            },
+            {
+              "name": "mental retardation wolff type",
+              "labelcui": "C537448",
+              "label": 0
+            },
+            {
+              "name": "jung wolff back stahl syndrome",
+              "labelcui": "C537694",
+              "label": 0
+            },
+            {
+              "name": "wolffian tumor",
+              "labelcui": "C536741",
+              "label": 0
+            },
+            {
+              "name": "wolman disease",
+              "labelcui": "D015223",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "complement deficiency",
+          "golden_cui": "D007153",
+          "candidates": [
+            {
+              "name": "secretory component deficiency",
+              "labelcui": "C562869",
+              "label": 0
+            },
+            {
+              "name": "c3d",
+              "labelcui": "613779",
+              "label": 0
+            },
+            {
+              "name": "c4 deficiency",
+              "labelcui": "614380|614379",
+              "label": 0
+            },
+            {
+              "name": "complement deficiencies c2 and c7",
+              "labelcui": "610102|217000",
+              "label": 0
+            },
+            {
+              "name": "blood protein disorders",
+              "labelcui": "D001796",
+              "label": 0
+            },
+            {
+              "name": "immune deficiency disease",
+              "labelcui": "C565469",
+              "label": 0
+            },
+            {
+              "name": "serum sickness",
+              "labelcui": "D012713",
+              "label": 0
+            },
+            {
+              "name": "deficiency diseases",
+              "labelcui": "D003677",
+              "label": 0
+            },
+            {
+              "name": "immune complex diseases",
+              "labelcui": "D007105",
+              "label": 0
+            },
+            {
+              "name": "cardiac conduction defect nonspecific",
+              "labelcui": "C567557",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "prader willi syndrome",
+          "golden_cui": "D011218",
+          "candidates": [
+            {
+              "name": "prader willi syndrome",
+              "labelcui": "D011218|176270",
+              "label": 1
+            },
+            {
+              "name": "prader willi",
+              "labelcui": "D011218",
+              "label": 1
+            },
+            {
+              "name": "prader willi like syndrome associated with chromosome 6",
+              "labelcui": "C566764",
+              "label": 0
+            },
+            {
+              "name": "prader willi syndromes angelman syndromes",
+              "labelcui": "D011218|D017204",
+              "label": 1
+            },
+            {
+              "name": "prader willi habitus osteopenia and camptodactyly",
+              "labelcui": "C538276",
+              "label": 0
+            },
+            {
+              "name": "waardenburg syndrome",
+              "labelcui": "D014849|148820",
+              "label": 0
+            },
+            {
+              "name": "walker warburg syndrome",
+              "labelcui": "D058494|236670",
+              "label": 0
+            },
+            {
+              "name": "obesity hypoventilation syndrome",
+              "labelcui": "D010845",
+              "label": 0
+            },
+            {
+              "name": "wolff parkinson white syndrome",
+              "labelcui": "194200|D014927",
+              "label": 0
+            },
+            {
+              "name": "walker warburg syndrome fktn related",
+              "labelcui": "C567727",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "ankylosing spondylitis",
+          "golden_cui": "D013167",
+          "candidates": [
+            {
+              "name": "spondylitis ankylosing",
+              "labelcui": "106300|D013167",
+              "label": 1
+            },
+            {
+              "name": "ankylosis",
+              "labelcui": "D000844",
+              "label": 0
+            },
+            {
+              "name": "spondylarthritis",
+              "labelcui": "D025241",
+              "label": 0
+            },
+            {
+              "name": "spondylitis",
+              "labelcui": "D013166",
+              "label": 0
+            },
+            {
+              "name": "spondylosis",
+              "labelcui": "D055009",
+              "label": 0
+            },
+            {
+              "name": "spondylarthropathies",
+              "labelcui": "D025242",
+              "label": 0
+            },
+            {
+              "name": "spondylolisthesis",
+              "labelcui": "D013168",
+              "label": 0
+            },
+            {
+              "name": "arthritis sacroiliac",
+              "labelcui": "C563037",
+              "label": 0
+            },
+            {
+              "name": "spondylocarpotarsal synostosis",
+              "labelcui": "C535780|272460",
+              "label": 0
+            },
+            {
+              "name": "spondylocamptodactyly",
+              "labelcui": "C535779",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "autosomal recessive familial neurohypophyseal diabetes insipidus",
+          "golden_cui": "125700",
+          "candidates": [
+            {
+              "name": "autosomal dominant neurohypophyseal diabetes insipidus",
+              "labelcui": "125700",
+              "label": 1
+            },
+            {
+              "name": "diabetes insipidus nephrogenic",
+              "labelcui": "D018500|125800",
+              "label": 0
+            },
+            {
+              "name": "diabetes insipidus neurogenic",
+              "labelcui": "125700|D020790",
+              "label": 1
+            },
+            {
+              "name": "diabetes insipidus",
+              "labelcui": "D003919",
+              "label": 0
+            },
+            {
+              "name": "dipsogenic diabetes insipidus",
+              "labelcui": "C548013",
+              "label": 0
+            },
+            {
+              "name": "nephrogenic syndrome of inappropriate antidiuresis",
+              "labelcui": "300539|C564491",
+              "label": 0
+            },
+            {
+              "name": "gestational diabetes insipidus",
+              "labelcui": "C548014",
+              "label": 0
+            },
+            {
+              "name": "hypopituitarism congenital with central diabetes insipidus",
+              "labelcui": "C565477",
+              "label": 0
+            },
+            {
+              "name": "nephronophthisis familial juvenile",
+              "labelcui": "C537699|256100",
+              "label": 0
+            },
+            {
+              "name": "renal hypodysplasia nonsyndromic 1",
+              "labelcui": "C563661|610805",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "ataxia telangiectasia",
+          "golden_cui": "D001260",
+          "candidates": [
+            {
+              "name": "ataxia telangiectasia",
+              "labelcui": "D001260|208900",
+              "label": 1
+            },
+            {
+              "name": "ataxia telangiectasia like disorder",
+              "labelcui": "C565779|604391",
+              "label": 0
+            },
+            {
+              "name": "ataxia telangiectasia variant",
+              "labelcui": "C566865",
+              "label": 0
+            },
+            {
+              "name": "a t",
+              "labelcui": "D001260",
+              "label": 1
+            },
+            {
+              "name": "atm deficiency",
+              "labelcui": "208900",
+              "label": 0
+            },
+            {
+              "name": "ataxia telangiectasia with generalized skin pigmentation and early death",
+              "labelcui": "C565930",
+              "label": 0
+            },
+            {
+              "name": "telangiectasia hereditary hemorrhagic",
+              "labelcui": "187300|D013683",
+              "label": 0
+            },
+            {
+              "name": "telangiectasis",
+              "labelcui": "D013684",
+              "label": 0
+            },
+            {
+              "name": "ataxia telangiectasia variant v2",
+              "labelcui": "C565380",
+              "label": 0
+            },
+            {
+              "name": "telangiectasia hereditary hemorrhagic type 4",
+              "labelcui": "C565691|610655",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "sca1",
+          "golden_cui": "164400",
+          "candidates": [
+            {
+              "name": "spinocerebellar ataxia 1",
+              "labelcui": "164400|D020754",
+              "label": 1
+            },
+            {
+              "name": "spinocerebellar ataxia x linked 1",
+              "labelcui": "C563134|302500",
+              "label": 0
+            },
+            {
+              "name": "spinocerebellar ataxia autosomal recessive 1",
+              "labelcui": "606002|C537308",
+              "label": 0
+            },
+            {
+              "name": "ataxia spastic 1 autosomal dominant",
+              "labelcui": "C566993",
+              "label": 0
+            },
+            {
+              "name": "spastic ataxia 1 autosomal dominant",
+              "labelcui": "108600",
+              "label": 0
+            },
+            {
+              "name": "machado joseph disease",
+              "labelcui": "D017827|109150",
+              "label": 0
+            },
+            {
+              "name": "spinocerebellar ataxia 2",
+              "labelcui": "183090",
+              "label": 0
+            },
+            {
+              "name": "spinocerebellar ataxia 17",
+              "labelcui": "C564616|607136",
+              "label": 0
+            },
+            {
+              "name": "spinocerebellar ataxia 11",
+              "labelcui": "C565772|604432",
+              "label": 0
+            },
+            {
+              "name": "spastic ataxia charlevoix saguenay type",
+              "labelcui": "270550|C536787",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "tumor",
+          "golden_cui": "D009369",
+          "candidates": [
+            {
+              "name": "neoplasms",
+              "labelcui": "D009369",
+              "label": 1
+            },
+            {
+              "name": "neoplasms by site",
+              "labelcui": "D009371",
+              "label": 0
+            },
+            {
+              "name": "neoplastic processes",
+              "labelcui": "D009385",
+              "label": 0
+            },
+            {
+              "name": "carcinogenesis",
+              "labelcui": "D063646",
+              "label": 0
+            },
+            {
+              "name": "carcinomas",
+              "labelcui": "D002277|D009369",
+              "label": 1
+            },
+            {
+              "name": "carcinoma",
+              "labelcui": "D002277",
+              "label": 0
+            },
+            {
+              "name": "cell transformation neoplastic",
+              "labelcui": "D002471",
+              "label": 0
+            },
+            {
+              "name": "neoplasms experimental",
+              "labelcui": "D009374",
+              "label": 0
+            },
+            {
+              "name": "neoplasms by histologic type",
+              "labelcui": "D009370",
+              "label": 0
+            },
+            {
+              "name": "tumor virus infections",
+              "labelcui": "D014412",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "ptosis",
+          "golden_cui": "D001763",
+          "candidates": [
+            {
+              "name": "ptosis hereditary congenital 1",
+              "labelcui": "178300|C566737",
+              "label": 0
+            },
+            {
+              "name": "ptosis strabismus and ectopic pupils",
+              "labelcui": "C566736",
+              "label": 0
+            },
+            {
+              "name": "ectropion",
+              "labelcui": "D004483",
+              "label": 0
+            },
+            {
+              "name": "esotropia",
+              "labelcui": "D004948",
+              "label": 0
+            },
+            {
+              "name": "exophthalmos",
+              "labelcui": "D005094",
+              "label": 0
+            },
+            {
+              "name": "blepharoptosis",
+              "labelcui": "D001763",
+              "label": 1
+            },
+            {
+              "name": "strabismus",
+              "labelcui": "D013285|185100",
+              "label": 0
+            },
+            {
+              "name": "ptosis hereditary congenital 2",
+              "labelcui": "C564553|300245",
+              "label": 0
+            },
+            {
+              "name": "exotropia",
+              "labelcui": "D005099",
+              "label": 0
+            },
+            {
+              "name": "blepharospasm",
+              "labelcui": "D001764",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "maternal uniparental disomy for chromosome 14",
+          "golden_cui": "D024182",
+          "candidates": [
+            {
+              "name": "uniparental disomy paternal chromosome 14",
+              "labelcui": "C536471",
+              "label": 0
+            },
+            {
+              "name": "chromosome 14 trisomy mosaic",
+              "labelcui": "C535489",
+              "label": 0
+            },
+            {
+              "name": "chromosome 14 trisomy",
+              "labelcui": "C535488",
+              "label": 0
+            },
+            {
+              "name": "ring chromosome 14 syndrome",
+              "labelcui": "C535487",
+              "label": 0
+            },
+            {
+              "name": "uniparental disomy of 13",
+              "labelcui": "C536469",
+              "label": 0
+            },
+            {
+              "name": "chromosome 14q terminal deletion",
+              "labelcui": "C538033",
+              "label": 0
+            },
+            {
+              "name": "chromosome 14q terminal duplication",
+              "labelcui": "C538034",
+              "label": 0
+            },
+            {
+              "name": "chromosome 14q proximal duplication",
+              "labelcui": "C538032",
+              "label": 0
+            },
+            {
+              "name": "uniparental disomy of 11",
+              "labelcui": "C536468",
+              "label": 0
+            },
+            {
+              "name": "mental retardation x linked syndromic 14",
+              "labelcui": "C567063|300676",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "cancer",
+          "golden_cui": "D009369",
+          "candidates": [
+            {
+              "name": "neoplasms",
+              "labelcui": "D009369",
+              "label": 1
+            },
+            {
+              "name": "carcinogenesis",
+              "labelcui": "D063646",
+              "label": 0
+            },
+            {
+              "name": "neoplastic processes",
+              "labelcui": "D009385",
+              "label": 0
+            },
+            {
+              "name": "carcinoma",
+              "labelcui": "D002277",
+              "label": 0
+            },
+            {
+              "name": "carcinomas",
+              "labelcui": "D002277|D009369",
+              "label": 1
+            },
+            {
+              "name": "neoplasms by site",
+              "labelcui": "D009371",
+              "label": 0
+            },
+            {
+              "name": "cell transformation neoplastic",
+              "labelcui": "D002471",
+              "label": 0
+            },
+            {
+              "name": "neoplasms by histologic type",
+              "labelcui": "D009370",
+              "label": 0
+            },
+            {
+              "name": "neoplasms experimental",
+              "labelcui": "D009374",
+              "label": 0
+            },
+            {
+              "name": "neoplastic syndromes hereditary",
+              "labelcui": "D009386",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "adrenoleukodystrophy",
+          "golden_cui": "D000326",
+          "candidates": [
+            {
+              "name": "adrenoleukodystrophy",
+              "labelcui": "D000326|300100",
+              "label": 1
+            },
+            {
+              "name": "cerebral adrenoleukodystrophy",
+              "labelcui": "D000326",
+              "label": 1
+            },
+            {
+              "name": "adrenomyodystrophy",
+              "labelcui": "C538051",
+              "label": 0
+            },
+            {
+              "name": "neonatal adrenoleukodystrophy",
+              "labelcui": "D018901|202370",
+              "label": 0
+            },
+            {
+              "name": "acroleukopathy symmetric",
+              "labelcui": "C566322",
+              "label": 0
+            },
+            {
+              "name": "adrenogenital syndrome",
+              "labelcui": "D047808",
+              "label": 0
+            },
+            {
+              "name": "alexanders leukodystrophy",
+              "labelcui": "C531607",
+              "label": 0
+            },
+            {
+              "name": "alexander disease",
+              "labelcui": "203450|D038261",
+              "label": 0
+            },
+            {
+              "name": "lipoatrophic diabetes",
+              "labelcui": "D003923|151660|D052496",
+              "label": 0
+            },
+            {
+              "name": "aortic aneurysm familial abdominal 1",
+              "labelcui": "C565230|100070",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "mesangial sclerosis",
+          "golden_cui": "C537346",
+          "candidates": [
+            {
+              "name": "mesangial sclerosis diffuse",
+              "labelcui": "C537346",
+              "label": 1
+            },
+            {
+              "name": "mesangial sclerosis diffuse renal with ocular abnormalities",
+              "labelcui": "C565405",
+              "label": 0
+            },
+            {
+              "name": "nephrosclerosis",
+              "labelcui": "D009400",
+              "label": 0
+            },
+            {
+              "name": "segmental glomerulosclerosis",
+              "labelcui": "C538457",
+              "label": 0
+            },
+            {
+              "name": "glomerulonephritis membranous",
+              "labelcui": "D015433",
+              "label": 0
+            },
+            {
+              "name": "sclerosis",
+              "labelcui": "D012598",
+              "label": 0
+            },
+            {
+              "name": "glomerulonephritis",
+              "labelcui": "D005921",
+              "label": 0
+            },
+            {
+              "name": "glomerulonephritis membranoproliferative",
+              "labelcui": "D015432",
+              "label": 0
+            },
+            {
+              "name": "medullary sponge kidney",
+              "labelcui": "D007691",
+              "label": 0
+            },
+            {
+              "name": "nephrotic syndrome",
+              "labelcui": "D009404",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "c2 deficiency",
+          "golden_cui": "217000",
+          "candidates": [
+            {
+              "name": "complement component 2 deficiency",
+              "labelcui": "217000",
+              "label": 1
+            },
+            {
+              "name": "complement deficiencies c2 and c7",
+              "labelcui": "610102|217000",
+              "label": 1
+            },
+            {
+              "name": "vitamin k dependent clotting factors combined deficiency of 2",
+              "labelcui": "607473",
+              "label": 0
+            },
+            {
+              "name": "chondrocalcinosis 2",
+              "labelcui": "C563162|118600",
+              "label": 0
+            },
+            {
+              "name": "hypocalciuric hypercalcemia familial type 2",
+              "labelcui": "145981|C537146",
+              "label": 0
+            },
+            {
+              "name": "complement component 8 deficiency type ii",
+              "labelcui": "613789",
+              "label": 0
+            },
+            {
+              "name": "pch2",
+              "labelcui": "277470",
+              "label": 0
+            },
+            {
+              "name": "cataract autosomal recessive congenital 2",
+              "labelcui": "C535337|610019",
+              "label": 0
+            },
+            {
+              "name": "mpgn ii with complement factor h deficiency",
+              "labelcui": "C566938",
+              "label": 0
+            },
+            {
+              "name": "pituitary hormone deficiency combined 2",
+              "labelcui": "C563172|262600",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "inborn error of metabolism",
+          "golden_cui": "D008661",
+          "candidates": [
+            {
+              "name": "metabolism inborn errors",
+              "labelcui": "D008661",
+              "label": 1
+            },
+            {
+              "name": "carbohydrate metabolism inborn errors",
+              "labelcui": "D002239",
+              "label": 0
+            },
+            {
+              "name": "genetic diseases inborn",
+              "labelcui": "D030342",
+              "label": 0
+            },
+            {
+              "name": "metabolic diseases",
+              "labelcui": "D008659",
+              "label": 0
+            },
+            {
+              "name": "amino acid metabolism inborn errors",
+              "labelcui": "D000592",
+              "label": 0
+            },
+            {
+              "name": "brain diseases metabolic inborn",
+              "labelcui": "D020739",
+              "label": 0
+            },
+            {
+              "name": "enzyme deficiency",
+              "labelcui": "D008661| D008661",
+              "label": 1
+            },
+            {
+              "name": "glucose metabolism disorders",
+              "labelcui": "D044882",
+              "label": 0
+            },
+            {
+              "name": "amino acid transport disorders inborn",
+              "labelcui": "D020157",
+              "label": 0
+            },
+            {
+              "name": "metal metabolism inborn errors",
+              "labelcui": "D008664",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "tumor",
+          "golden_cui": "D009369",
+          "candidates": [
+            {
+              "name": "neoplasms",
+              "labelcui": "D009369",
+              "label": 1
+            },
+            {
+              "name": "neoplasms by site",
+              "labelcui": "D009371",
+              "label": 0
+            },
+            {
+              "name": "neoplastic processes",
+              "labelcui": "D009385",
+              "label": 0
+            },
+            {
+              "name": "carcinogenesis",
+              "labelcui": "D063646",
+              "label": 0
+            },
+            {
+              "name": "carcinomas",
+              "labelcui": "D002277|D009369",
+              "label": 1
+            },
+            {
+              "name": "carcinoma",
+              "labelcui": "D002277",
+              "label": 0
+            },
+            {
+              "name": "cell transformation neoplastic",
+              "labelcui": "D002471",
+              "label": 0
+            },
+            {
+              "name": "neoplasms experimental",
+              "labelcui": "D009374",
+              "label": 0
+            },
+            {
+              "name": "neoplasms by histologic type",
+              "labelcui": "D009370",
+              "label": 0
+            },
+            {
+              "name": "tumor virus infections",
+              "labelcui": "D014412",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "adenomatous polyposis coli tumor",
+          "golden_cui": "D011125",
+          "candidates": [
+            {
+              "name": "adenomatous polyposis coli tumor",
+              "labelcui": "D011125",
+              "label": 1
+            },
+            {
+              "name": "adenomatous polyposis coli",
+              "labelcui": "D011125|175100",
+              "label": 1
+            },
+            {
+              "name": "adenomatous polyps",
+              "labelcui": "D018256",
+              "label": 0
+            },
+            {
+              "name": "polyposis",
+              "labelcui": "D044483|D011125",
+              "label": 1
+            },
+            {
+              "name": "intestinal polyposis",
+              "labelcui": "D044483",
+              "label": 0
+            },
+            {
+              "name": "colorectal adenomatous polyposis autosomal recessive",
+              "labelcui": "C563924|608456",
+              "label": 0
+            },
+            {
+              "name": "polyposis gastric",
+              "labelcui": "C562464",
+              "label": 0
+            },
+            {
+              "name": "polyposis syndrome hereditary mixed 1",
+              "labelcui": "C563365|601228",
+              "label": 0
+            },
+            {
+              "name": "lynch syndrome i",
+              "labelcui": "D003123|120435|C537261",
+              "label": 0
+            },
+            {
+              "name": "polyposis syndrome hereditary mixed 2",
+              "labelcui": "C566451|610069",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "pineal and retinal tumours",
+          "golden_cui": "D019572|D010871",
+          "candidates": [
+            {
+              "name": "pinealoma",
+              "labelcui": "D010871",
+              "label": 1
+            },
+            {
+              "name": "retinal neoplasms",
+              "labelcui": "D019572",
+              "label": 1
+            },
+            {
+              "name": "neoplasms complex and mixed",
+              "labelcui": "D018193",
+              "label": 0
+            },
+            {
+              "name": "pineal teratoma",
+              "labelcui": "C537401",
+              "label": 0
+            },
+            {
+              "name": "rhabdoid tumor",
+              "labelcui": "D018335",
+              "label": 0
+            },
+            {
+              "name": "retinitis pigmentosa concentric included",
+              "labelcui": "613194",
+              "label": 0
+            },
+            {
+              "name": "neuropathy ataxia and retinis pigmentosa",
+              "labelcui": "C537396",
+              "label": 0
+            },
+            {
+              "name": "retinitis pigmentosa inversa with deafness",
+              "labelcui": "C564842",
+              "label": 0
+            },
+            {
+              "name": "uveal neoplasms",
+              "labelcui": "D014604",
+              "label": 0
+            },
+            {
+              "name": "thyroid carcinoma papillary with papillary renal neoplasia",
+              "labelcui": "C565310|605642",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "attenuated adenomatous polyposis coli",
+          "golden_cui": "C538265",
+          "candidates": [
+            {
+              "name": "adenomatous polyposis coli attenuated",
+              "labelcui": "C566778",
+              "label": 0
+            },
+            {
+              "name": "attenuated familial adenomatous polyposis",
+              "labelcui": "C538265",
+              "label": 1
+            },
+            {
+              "name": "asthma nasal polyps and aspirin intolerance",
+              "labelcui": "208550|C565935",
+              "label": 0
+            },
+            {
+              "name": "resistance apc",
+              "labelcui": "D020016",
+              "label": 0
+            },
+            {
+              "name": "acdmpv",
+              "labelcui": "C536590|265380|D010547",
+              "label": 0
+            },
+            {
+              "name": "colorectal adenomatous polyposis autosomal recessive",
+              "labelcui": "C563924|608456",
+              "label": 0
+            },
+            {
+              "name": "porphyria acute intermittent",
+              "labelcui": "D017118|176000",
+              "label": 0
+            },
+            {
+              "name": "atherosclerosis premature with deafness nephropathy diabetes mellitus photomyoclonus and degenerative neurologic disease",
+              "labelcui": "C565928",
+              "label": 0
+            },
+            {
+              "name": "polyposis intestinal with multiple exostoses",
+              "labelcui": "C566776",
+              "label": 0
+            },
+            {
+              "name": "arthropathy progressive pseudorheumatoid of childhood",
+              "labelcui": "208230|C535387",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "hus",
+          "golden_cui": "D006463",
+          "candidates": [
+            {
+              "name": "hemolytic uremic syndrome",
+              "labelcui": "D006463",
+              "label": 1
+            },
+            {
+              "name": "hemolytic uremic syndrome typical",
+              "labelcui": "C565521",
+              "label": 0
+            },
+            {
+              "name": "atypical hemolytic uremic syndrome",
+              "labelcui": "235400|C538266",
+              "label": 0
+            },
+            {
+              "name": "hemorrhagic shock and encephalopathy syndrome",
+              "labelcui": "C537254",
+              "label": 0
+            },
+            {
+              "name": "purpura schoenlein henoch",
+              "labelcui": "D011695",
+              "label": 0
+            },
+            {
+              "name": "hypouricemia familial renal due to tubular hypersecretion",
+              "labelcui": "C564405",
+              "label": 0
+            },
+            {
+              "name": "uremia",
+              "labelcui": "D014511",
+              "label": 0
+            },
+            {
+              "name": "hydrolethalus syndrome 1",
+              "labelcui": "C565504|236680",
+              "label": 0
+            },
+            {
+              "name": "nephritis hereditary",
+              "labelcui": "D009394",
+              "label": 0
+            },
+            {
+              "name": "hemorrhagic fever with renal syndrome",
+              "labelcui": "D006480",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "schwartz jampel syndrome type 2",
+          "golden_cui": "C537502",
+          "candidates": [
+            {
+              "name": "schwartz jampel syndrome",
+              "labelcui": "239100|D010009|255800",
+              "label": 0
+            },
+            {
+              "name": "schwartz jampel syndrome type 1",
+              "labelcui": "255800|239100|D010009",
+              "label": 0
+            },
+            {
+              "name": "sjs1 schwartz jampel syndrome",
+              "labelcui": "255800",
+              "label": 0
+            },
+            {
+              "name": "schwartz lelek syndrome",
+              "labelcui": "C537519",
+              "label": 0
+            },
+            {
+              "name": "schwartz cohen addad lambert syndrome",
+              "labelcui": "C535835",
+              "label": 0
+            },
+            {
+              "name": "spondyloepiphyseal dysplasia kimberley type",
+              "labelcui": "C564252|608361",
+              "label": 0
+            },
+            {
+              "name": "keratosis palmoplantaris striata ii",
+              "labelcui": "C565102|612908",
+              "label": 0
+            },
+            {
+              "name": "spondylocostal dysostosis 2 autosomal recessive",
+              "labelcui": "C535781|608681",
+              "label": 0
+            },
+            {
+              "name": "scapuloperoneal syndrome myopathic type",
+              "labelcui": "C536624|181430",
+              "label": 0
+            },
+            {
+              "name": "simpson golabi behmel syndrome type 2",
+              "labelcui": "C564567|300209",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "retinoblastoma",
+          "golden_cui": "D012175",
+          "candidates": [
+            {
+              "name": "retinoblastoma",
+              "labelcui": "180200|D012175",
+              "label": 1
+            },
+            {
+              "name": "retinoblastoma tumors",
+              "labelcui": "D012175",
+              "label": 1
+            },
+            {
+              "name": "retinal neoplasms",
+              "labelcui": "D019572",
+              "label": 0
+            },
+            {
+              "name": "osteosarcoma retinoblastoma related",
+              "labelcui": "C566714",
+              "label": 0
+            },
+            {
+              "name": "retinal dysplasia primary",
+              "labelcui": "312550",
+              "label": 0
+            },
+            {
+              "name": "retinal diseases",
+              "labelcui": "D012164",
+              "label": 0
+            },
+            {
+              "name": "intraocular lymphoma",
+              "labelcui": "D064090",
+              "label": 0
+            },
+            {
+              "name": "retinal dysplasia",
+              "labelcui": "D015792",
+              "label": 0
+            },
+            {
+              "name": "neuroblastoma",
+              "labelcui": "D009447|256700",
+              "label": 0
+            },
+            {
+              "name": "medulloblastoma",
+              "labelcui": "D008527|155255",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "allelic disorders",
+          "golden_cui": "D030342",
+          "candidates": [
+            {
+              "name": "genetic diseases inborn",
+              "labelcui": "D030342",
+              "label": 1
+            },
+            {
+              "name": "nondisjunction genetic",
+              "labelcui": "D009630",
+              "label": 0
+            },
+            {
+              "name": "anticipation genetic",
+              "labelcui": "D020132",
+              "label": 0
+            },
+            {
+              "name": "congenital abnormalities",
+              "labelcui": "D000013",
+              "label": 0
+            },
+            {
+              "name": "disease susceptibility",
+              "labelcui": "D004198",
+              "label": 0
+            },
+            {
+              "name": "syndrome",
+              "labelcui": "D013577",
+              "label": 0
+            },
+            {
+              "name": "congenital hereditary and neonatal diseases and abnormalities",
+              "labelcui": "D009358",
+              "label": 0
+            },
+            {
+              "name": "teratogenesis",
+              "labelcui": "D064793",
+              "label": 0
+            },
+            {
+              "name": "rare diseases",
+              "labelcui": "D035583",
+              "label": 0
+            },
+            {
+              "name": "uniparental disomy",
+              "labelcui": "D024182",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "myotonic dystrophy",
+          "golden_cui": "D009223",
+          "candidates": [
+            {
+              "name": "myotonic dystrophy",
+              "labelcui": "D009223",
+              "label": 1
+            },
+            {
+              "name": "myotonic disorders",
+              "labelcui": "D020967",
+              "label": 0
+            },
+            {
+              "name": "dm",
+              "labelcui": "160900|C538008|D009223",
+              "label": 1
+            },
+            {
+              "name": "dystrophia myotonica 1",
+              "labelcui": "160900|C538008",
+              "label": 0
+            },
+            {
+              "name": "myotonic myopathy proximal",
+              "labelcui": "D020967|602668|C538009",
+              "label": 0
+            },
+            {
+              "name": "dystrophia myotonica 2",
+              "labelcui": "602668|C538009",
+              "label": 0
+            },
+            {
+              "name": "diabetes mellitus",
+              "labelcui": "D003920",
+              "label": 0
+            },
+            {
+              "name": "diabetes mellitus type 1",
+              "labelcui": "222100|D003922",
+              "label": 0
+            },
+            {
+              "name": "insulin dependent diabetes mellitus",
+              "labelcui": "222100|D003922|125852",
+              "label": 0
+            },
+            {
+              "name": "maturity onset diabetes of the young type 1",
+              "labelcui": "C565101|125850",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "cognitive dysfunction",
+          "golden_cui": "D003072",
+          "candidates": [
+            {
+              "name": "cognition disorders",
+              "labelcui": "D003072",
+              "label": 1
+            },
+            {
+              "name": "dementia",
+              "labelcui": "D003704",
+              "label": 0
+            },
+            {
+              "name": "consciousness disorders",
+              "labelcui": "D003244",
+              "label": 0
+            },
+            {
+              "name": "memory disorders",
+              "labelcui": "D008569",
+              "label": 0
+            },
+            {
+              "name": "neurobehavioral manifestations",
+              "labelcui": "D019954",
+              "label": 0
+            },
+            {
+              "name": "mental disorders",
+              "labelcui": "D001523",
+              "label": 0
+            },
+            {
+              "name": "confusion",
+              "labelcui": "D003221",
+              "label": 0
+            },
+            {
+              "name": "cognitive function 1 social",
+              "labelcui": "300082",
+              "label": 0
+            },
+            {
+              "name": "brain diseases",
+              "labelcui": "D001927",
+              "label": 0
+            },
+            {
+              "name": "mild cognitive impairment",
+              "labelcui": "D060825",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "c9 deficiency",
+          "golden_cui": "613825",
+          "candidates": [
+            {
+              "name": "c9 deficiency",
+              "labelcui": "C565165|613825",
+              "label": 1
+            },
+            {
+              "name": "c9d",
+              "labelcui": "613825",
+              "label": 1
+            },
+            {
+              "name": "c9 deficiency with dermatomyositis",
+              "labelcui": "C565166",
+              "label": 0
+            },
+            {
+              "name": "chromosome 9 tetrasomy 9p",
+              "labelcui": "C538027",
+              "label": 0
+            },
+            {
+              "name": "chromosome 9 trisomy 9q",
+              "labelcui": "C538030",
+              "label": 0
+            },
+            {
+              "name": "chromosome 9 duplication 9q21",
+              "labelcui": "C538023",
+              "label": 0
+            },
+            {
+              "name": "chromosome 9 trisomy 9p",
+              "labelcui": "C538029",
+              "label": 0
+            },
+            {
+              "name": "chromosome 9 partial monosomy 9p",
+              "labelcui": "C538025",
+              "label": 0
+            },
+            {
+              "name": "chromosome 9 trisomy 9q32",
+              "labelcui": "C535453",
+              "label": 0
+            },
+            {
+              "name": "chromosome 9 trisomy",
+              "labelcui": "C538028",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "bipolar affective disorder",
+          "golden_cui": "D001714",
+          "candidates": [
+            {
+              "name": "bipolar affective disorder",
+              "labelcui": "612371|C567529|C565111|125480|C567530|612357|C567074|611535|612372|C567531|611247|C567073|309200|C564108|C567075|611536|D001714",
+              "label": 1
+            },
+            {
+              "name": "bipolar disorder",
+              "labelcui": "D001714",
+              "label": 1
+            },
+            {
+              "name": "manic depressive psychosis",
+              "labelcui": "C565111|125480|D001714",
+              "label": 1
+            },
+            {
+              "name": "bpad",
+              "labelcui": "C565111|125480|C567074|611535|611247|C567073|309200|C564108|C567075|611536",
+              "label": 0
+            },
+            {
+              "name": "major affective disorder 2",
+              "labelcui": "309200|C564108",
+              "label": 0
+            },
+            {
+              "name": "binge eating disorder",
+              "labelcui": "D056912",
+              "label": 0
+            },
+            {
+              "name": "bdb2",
+              "labelcui": "611377",
+              "label": 0
+            },
+            {
+              "name": "borderline personality disorder",
+              "labelcui": "D001883",
+              "label": 0
+            },
+            {
+              "name": "major affective disorder 1",
+              "labelcui": "C565111|125480",
+              "label": 0
+            },
+            {
+              "name": "major affective disorder 7",
+              "labelcui": "612371|C567529",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "myotonic dystrophy",
+          "golden_cui": "D009223",
+          "candidates": [
+            {
+              "name": "myotonic dystrophy",
+              "labelcui": "D009223",
+              "label": 1
+            },
+            {
+              "name": "myotonic disorders",
+              "labelcui": "D020967",
+              "label": 0
+            },
+            {
+              "name": "dm",
+              "labelcui": "160900|C538008|D009223",
+              "label": 1
+            },
+            {
+              "name": "dystrophia myotonica 1",
+              "labelcui": "160900|C538008",
+              "label": 0
+            },
+            {
+              "name": "myotonic myopathy proximal",
+              "labelcui": "D020967|602668|C538009",
+              "label": 0
+            },
+            {
+              "name": "dystrophia myotonica 2",
+              "labelcui": "602668|C538009",
+              "label": 0
+            },
+            {
+              "name": "diabetes mellitus",
+              "labelcui": "D003920",
+              "label": 0
+            },
+            {
+              "name": "diabetes mellitus type 1",
+              "labelcui": "222100|D003922",
+              "label": 0
+            },
+            {
+              "name": "insulin dependent diabetes mellitus",
+              "labelcui": "222100|D003922|125852",
+              "label": 0
+            },
+            {
+              "name": "maturity onset diabetes of the young type 1",
+              "labelcui": "C565101|125850",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "cancer",
+          "golden_cui": "D009369",
+          "candidates": [
+            {
+              "name": "neoplasms",
+              "labelcui": "D009369",
+              "label": 1
+            },
+            {
+              "name": "carcinogenesis",
+              "labelcui": "D063646",
+              "label": 0
+            },
+            {
+              "name": "neoplastic processes",
+              "labelcui": "D009385",
+              "label": 0
+            },
+            {
+              "name": "carcinoma",
+              "labelcui": "D002277",
+              "label": 0
+            },
+            {
+              "name": "carcinomas",
+              "labelcui": "D002277|D009369",
+              "label": 1
+            },
+            {
+              "name": "neoplasms by site",
+              "labelcui": "D009371",
+              "label": 0
+            },
+            {
+              "name": "cell transformation neoplastic",
+              "labelcui": "D002471",
+              "label": 0
+            },
+            {
+              "name": "neoplasms by histologic type",
+              "labelcui": "D009370",
+              "label": 0
+            },
+            {
+              "name": "neoplasms experimental",
+              "labelcui": "D009374",
+              "label": 0
+            },
+            {
+              "name": "neoplastic syndromes hereditary",
+              "labelcui": "D009386",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "colorectal breast and other cancers",
+          "golden_cui": "D001943|D015179|D009369",
+          "candidates": [
+            {
+              "name": "colorectal cancers other cancers",
+              "labelcui": "D015179|D009369",
+              "label": 1
+            },
+            {
+              "name": "breast cancers ovarian cancers other cancers",
+              "labelcui": "D001943|D010051|D009369",
+              "label": 1
+            },
+            {
+              "name": "colon other cancers some other cancers",
+              "labelcui": "D003110|D009369",
+              "label": 1
+            },
+            {
+              "name": "gastric cancer colorectal cancer",
+              "labelcui": "D015179|D013274",
+              "label": 1
+            },
+            {
+              "name": "breast cancers ovarian cancers",
+              "labelcui": "D001943|D010051|D010051|D001943",
+              "label": 1
+            },
+            {
+              "name": "breast cancer prostate cancer",
+              "labelcui": "D001943|D011471",
+              "label": 1
+            },
+            {
+              "name": "cancer of breast cancer of ovaries",
+              "labelcui": "D001943|D010051",
+              "label": 1
+            },
+            {
+              "name": "pancreatic carcinomas basal cell carcinomas colonic carcinomas breast carcinomas cervical carcinomas",
+              "labelcui": "D010190|D002280|D015179|D001943|D002583",
+              "label": 1
+            },
+            {
+              "name": "hereditary colorectal cancer syndrome",
+              "labelcui": "D015179",
+              "label": 1
+            },
+            {
+              "name": "brain cancer breast cancer prostate cancer",
+              "labelcui": "D001932|D001943|D011471",
+              "label": 1
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "acc1": 0.82,
+  "acc2": 0.85,
+  "acc3": 0.87,
+  "acc4": 0.87,
+  "acc5": 0.89,
+  "acc6": 0.9,
+  "acc7": 0.9,
+  "acc8": 0.9,
+  "acc9": 0.9,
+  "acc10": 0.9
+}

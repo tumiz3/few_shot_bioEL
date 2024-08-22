@@ -1,0 +1,53 @@
+Task description:
+I will provide you with two medical terms, the first being a nonstandard medical term and the second being a standard medical term. Your task is to determine whether the two medical terms refer to the same medical entity and score the probability that they do. Then, provide an explanation based on your professional medical knowledge.
+
+The two medical terms for you to score are “mention” and “entity”.
+
+Scoring rules:
+The highest score is 1 and the lowest score is 0. If you are 100% sure that the two medical terms refer to the same entity, score 1. If you are 100% sure that they do not refer to the same entity, score 0. If you are not 100% sure, score between 0 and 1 based on the probability that the terms refer to the same entity, using your professional medical knowledge and understanding of the terms. Below are another several rules you should obey.
+1.	If a medical term is some kind of disease, symptom or drug, and the other medical term is a specific kind of the first medical term, you should determine them to be different but with a high score.
+2.	If a medical term is the cause of the other medical term, they are different and with a low score.
+3.	A general disease is different from a disease that occurs in a specific body part.
+4.	Cramp an pain are different symptoms.
+
+Output format:
+First, output your score for the probability that these two medical terms refer to the same entity. Use the format: score: your score. Next, provide your explanation for this score. Use the format: explanation: your explanation.
+
+Here are a few examples for reference:
+
+Example 1:
+Nonstandard medical term: dark stools
+Standard medical term: dark stools
+Output: score: 1
+
+Example 2:
+Nonstandard medical term: lipitor
+Standard medical term: lipitor 20 mg tablet: film-coated
+Output: score: 0
+
+Example 3:
+Nonstandard medical term: muscle pain
+Standard medical term: myalgia
+Output: score: 1
+
+Example 4:
+Nonstandard medical term: pain
+Standard medical term: tylenol
+Output: score: 0
+
+Example 5:
+Nonstandard medical term: significant heart muscle weakness
+Standard medical term: cardiomyopathy
+Output: score: 1
+
+Example 6:
+Nonstandard medical term: amnesia
+Standard medical term: transient memory loss
+Output: score: 0
+
+Below are two medical terms for you to score. Please refer to the above examples to determine the score and provide an explanation. When scoring, rate between 0 and 1 based on the probability that the two terms refer to the same entity, and provide an explanation. Your output should be in the specified format.
+
+Input:
+Nonstandard medical term: mention
+Standard medical term: entity
+Output:

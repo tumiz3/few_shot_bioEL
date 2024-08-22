@@ -1,0 +1,24 @@
+Write a description of the medical term that could help identify synonyms for the medical term within a 64-token limit.
+Medical Term: mention
+Desciption: 
+
+Example1:
+Medical Term: dark stools
+Description: Dark stools, also known as melena, have a black, tarry appearance due to digested blood from upper gastrointestinal bleeding. Synonyms for dark stools include melena, black stools, tarry stools, and bloody stools. These terms describe the same symptom and are used interchangeably by healthcare professionals to indicate potential internal bleeding and the need for further medical investigation.
+
+Example2: 
+Medical Term: slurred speech
+Description: 
+Slurred speech, also known as dysarthria, is characterized by slow, indistinct, or difficult-to-understand speech due to weakened or uncoordinated muscles used for speaking. Synonyms for slurred speech include dysarthria, garbled speech, impaired speech, and unclear speech. This condition can result from neurological disorders, brain injuries, or other medical issues affecting speech muscles and coordination, necessitating medical evaluation and treatment.
+
+Example3:
+Medical Term: lipitor
+Description: 
+Lipitor, a brand name for atorvastatin, is a medication used to lower cholesterol and reduce the risk of heart disease. It belongs to a class of drugs known as statins or HMG-CoA reductase inhibitors. Synonyms for Lipitor include atorvastatin, cholesterol-lowering drugs, statins, and HMG-CoA reductase inhibitors, all of which help manage high cholesterol levels and improve cardiovascular health.
+
+Example4:
+Medical Term: pain
+Description: Pain is an uncomfortable sensation signaling potential injury or illness, ranging from mild discomfort to intense agony. It can be acute or chronic, affecting physical and emotional well-being. Synonyms for pain include ache, discomfort, soreness, agony, distress, and suffering. These terms describe various intensities and types of physical or emotional discomfort, highlighting the need for appropriate medical assessment and relief.
+Example5: 
+Medical Term: heart disease
+Description: Heart disease encompasses various conditions affecting the heart, including coronary artery disease, arrhythmias, and heart failure. It is often caused by atherosclerosis, high blood pressure, and lifestyle factors like smoking and poor diet. Symptoms may include chest pain, shortness of breath, and fatigue. Prevention and treatment involve lifestyle changes, medications, and, in some cases, surgical procedures.

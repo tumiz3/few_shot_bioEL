@@ -1,0 +1,23 @@
+Write a description of the medical term.
+Medical Term: mention
+Desciption: 
+
+Example1:
+Medical Term: dark stools
+Description: Dark stools, often black or tarry, can indicate gastrointestinal bleeding, usually from the upper digestive tract. Causes include peptic ulcers, gastritis, or esophageal varices. Certain foods, iron supplements, and medications like bismuth subsalicylate can also darken stools. Persistent dark stools or accompanying symptoms like abdominal pain and vomiting blood require prompt medical attention.
+
+Example2: 
+Medical Term: slurred speech
+Description: Slurred speech, or dysarthria, is when speech is slow or difficult to understand due to weak or uncoordinated muscles. Causes include neurological disorders (like stroke, Parkinson’s disease), head injury, alcohol intoxication, or medications. It often indicates underlying health issues requiring medical evaluation, especially if sudden or accompanied by other symptoms like weakness or confusion.
+
+Example3:
+Medical Term: lipitor
+Description: Lipitor (atorvastatin) is a medication used to lower cholesterol and triglyceride levels in the blood. It belongs to a class of drugs called statins, which reduce the risk of heart disease and stroke. Lipitor works by inhibiting an enzyme involved in cholesterol production in the liver. Common side effects include muscle pain, digestive issues, and potential liver enzyme changes.
+
+Example4:
+Medical Term: pain
+Description: Pain is an unpleasant sensory and emotional experience indicating potential or actual tissue damage. It can be acute or chronic and varies in intensity and duration. Causes include injury, illness, inflammation, or nerve damage. Pain serves as a warning signal to the body, prompting protective responses. Managing pain often involves medication, therapy, or lifestyle changes, depending on the underlying cause.
+
+Example5: 
+Medical Term: heart disease
+Description: Heart disease encompasses various conditions affecting the heart, including coronary artery disease, arrhythmias, and heart failure. It is often caused by atherosclerosis, high blood pressure, and lifestyle factors like smoking and poor diet. Symptoms may include chest pain, shortness of breath, and fatigue. Prevention and treatment involve lifestyle changes, medications, and, in some cases, surgical procedures.

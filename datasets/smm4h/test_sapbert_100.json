@@ -1,0 +1,6014 @@
+{
+  "queries": [
+    {
+      "mentions": [
+        {
+          "mention": "sleep paralysis",
+          "golden_cui": "10041002",
+          "candidates": [
+            {
+              "name": "sleep paralysis",
+              "labelcui": "10041002",
+              "label": 1
+            },
+            {
+              "name": "sleep onset paralysis",
+              "labelcui": "10041002",
+              "label": 1
+            },
+            {
+              "name": "sleep-wake transition paralysis",
+              "labelcui": "10041002",
+              "label": 1
+            },
+            {
+              "name": "hypnagogic paralysis",
+              "labelcui": "10041002",
+              "label": 1
+            },
+            {
+              "name": "hypnopompic paralysis",
+              "labelcui": "10041002",
+              "label": 1
+            },
+            {
+              "name": "phrenic nerve paralysis",
+              "labelcui": "10064964",
+              "label": 0
+            },
+            {
+              "name": "died in sleep",
+              "labelcui": "10011906",
+              "label": 0
+            },
+            {
+              "name": "respiratory paralysis",
+              "labelcui": "10038708",
+              "label": 0
+            },
+            {
+              "name": "phrenic nerve palsy",
+              "labelcui": "10064964",
+              "label": 0
+            },
+            {
+              "name": "diaphragmatic paralysis",
+              "labelcui": "10012725",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "irritability",
+          "golden_cui": "10022998",
+          "candidates": [
+            {
+              "name": "irritability",
+              "labelcui": "10022998",
+              "label": 1
+            },
+            {
+              "name": "infant irritability",
+              "labelcui": "10082189",
+              "label": 0
+            },
+            {
+              "name": "irritable",
+              "labelcui": "10022998",
+              "label": 1
+            },
+            {
+              "name": "irritable mood",
+              "labelcui": "10022998",
+              "label": 1
+            },
+            {
+              "name": "irritable symptom",
+              "labelcui": "10022998",
+              "label": 1
+            },
+            {
+              "name": "neonatal cerebral irritability",
+              "labelcui": "10082189",
+              "label": 0
+            },
+            {
+              "name": "feeling irritated",
+              "labelcui": "10022998",
+              "label": 1
+            },
+            {
+              "name": "other and unspecified cerebral irritability in newborn",
+              "labelcui": "10029202",
+              "label": 0
+            },
+            {
+              "name": "irritability post vac",
+              "labelcui": "10057224",
+              "label": 0
+            },
+            {
+              "name": "slightly irritable",
+              "labelcui": "10022998",
+              "label": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "sleep",
+          "golden_cui": "10020765",
+          "candidates": [
+            {
+              "name": "hypersomnia",
+              "labelcui": "10020765",
+              "label": 1
+            },
+            {
+              "name": "parasomnia",
+              "labelcui": "10061910",
+              "label": 0
+            },
+            {
+              "name": "parasomnia nos",
+              "labelcui": "10061910",
+              "label": 0
+            },
+            {
+              "name": "sleep study",
+              "labelcui": "10053319",
+              "label": 0
+            },
+            {
+              "name": "primary hypersomnia",
+              "labelcui": "10020765",
+              "label": 1
+            },
+            {
+              "name": "idiopathic hypersomnia",
+              "labelcui": "10020765",
+              "label": 1
+            },
+            {
+              "name": "nonorganic hypersomnia",
+              "labelcui": "10020765",
+              "label": 1
+            },
+            {
+              "name": "hypersomnolence",
+              "labelcui": "10020765",
+              "label": 1
+            },
+            {
+              "name": "wakefulness",
+              "labelcui": "10062519",
+              "label": 0
+            },
+            {
+              "name": "polysomnography",
+              "labelcui": "10053319",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "sick",
+          "golden_cui": "10025482",
+          "candidates": [
+            {
+              "name": "malaise",
+              "labelcui": "10025482",
+              "label": 1
+            },
+            {
+              "name": "illness",
+              "labelcui": "10080284",
+              "label": 0
+            },
+            {
+              "name": "sickness",
+              "labelcui": "10080284",
+              "label": 0
+            },
+            {
+              "name": "feeling sick",
+              "labelcui": "10025482",
+              "label": 1
+            },
+            {
+              "name": "general malaise",
+              "labelcui": "10025482",
+              "label": 1
+            },
+            {
+              "name": "unwell",
+              "labelcui": "10025482",
+              "label": 1
+            },
+            {
+              "name": "felt ill",
+              "labelcui": "10025482",
+              "label": 1
+            },
+            {
+              "name": "sick role",
+              "labelcui": "10061595",
+              "label": 0
+            },
+            {
+              "name": "generally unwell",
+              "labelcui": "10025482",
+              "label": 1
+            },
+            {
+              "name": "physically unwell",
+              "labelcui": "10025482",
+              "label": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "withdrawals",
+          "golden_cui": "10048010",
+          "candidates": [
+            {
+              "name": "withdrawal syndrome",
+              "labelcui": "10048010",
+              "label": 1
+            },
+            {
+              "name": "syndrome withdrawal",
+              "labelcui": "10048010",
+              "label": 1
+            },
+            {
+              "name": "withdrawal symptom",
+              "labelcui": "10048010",
+              "label": 1
+            },
+            {
+              "name": "withdrawal reaction",
+              "labelcui": "10048010",
+              "label": 1
+            },
+            {
+              "name": "withdrawn",
+              "labelcui": "10041243",
+              "label": 0
+            },
+            {
+              "name": "adjustment reaction with withdrawal",
+              "labelcui": "10061621",
+              "label": 0
+            },
+            {
+              "name": "withdrawal psychosis",
+              "labelcui": "10074833",
+              "label": 0
+            },
+            {
+              "name": "withdrawal emotional",
+              "labelcui": "10014557",
+              "label": 0
+            },
+            {
+              "name": "emotional withdrawal",
+              "labelcui": "10014557",
+              "label": 0
+            },
+            {
+              "name": "treatment withdrawal",
+              "labelcui": "10065154",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "does guarantee no sleep",
+          "golden_cui": "10022437",
+          "candidates": [
+            {
+              "name": "insomnia",
+              "labelcui": "10022437",
+              "label": 1
+            },
+            {
+              "name": "insomnia nos",
+              "labelcui": "10022437",
+              "label": 1
+            },
+            {
+              "name": "insomnia disorder",
+              "labelcui": "10022437",
+              "label": 1
+            },
+            {
+              "name": "insomnia (non-organic)",
+              "labelcui": "10022437",
+              "label": 1
+            },
+            {
+              "name": "psychophysiologic insomnia",
+              "labelcui": "10082004",
+              "label": 0
+            },
+            {
+              "name": "chronic insomnia",
+              "labelcui": "10022437",
+              "label": 1
+            },
+            {
+              "name": "initial insomnia",
+              "labelcui": "10022035",
+              "label": 0
+            },
+            {
+              "name": "primary insomnia",
+              "labelcui": "10022437",
+              "label": 1
+            },
+            {
+              "name": "sleep maintenance insomnia",
+              "labelcui": "10027590",
+              "label": 0
+            },
+            {
+              "name": "short term insomnia",
+              "labelcui": "10022437",
+              "label": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "lost weight",
+          "golden_cui": "10047895",
+          "candidates": [
+            {
+              "name": "lost weight",
+              "labelcui": "10047895",
+              "label": 1
+            },
+            {
+              "name": "loss of weight",
+              "labelcui": "10047895",
+              "label": 1
+            },
+            {
+              "name": "weight loss",
+              "labelcui": "10047895",
+              "label": 1
+            },
+            {
+              "name": "weight decreased",
+              "labelcui": "10047895",
+              "label": 1
+            },
+            {
+              "name": "weight decrease",
+              "labelcui": "10047895",
+              "label": 1
+            },
+            {
+              "name": "inability to lose weight",
+              "labelcui": "10049084",
+              "label": 0
+            },
+            {
+              "name": "weight loss poor",
+              "labelcui": "10049084",
+              "label": 0
+            },
+            {
+              "name": "abnormal loss of weight",
+              "labelcui": "10000159",
+              "label": 0
+            },
+            {
+              "name": "low weight",
+              "labelcui": "10048828",
+              "label": 0
+            },
+            {
+              "name": "unintentional weight loss",
+              "labelcui": "10000159",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "shakes",
+          "golden_cui": "10044565",
+          "candidates": [
+            {
+              "name": "tremor",
+              "labelcui": "10044565",
+              "label": 1
+            },
+            {
+              "name": "shakiness",
+              "labelcui": "10044565",
+              "label": 1
+            },
+            {
+              "name": "tremor muscle",
+              "labelcui": "10044565",
+              "label": 1
+            },
+            {
+              "name": "shaking",
+              "labelcui": "10044565",
+              "label": 1
+            },
+            {
+              "name": "action tremor",
+              "labelcui": "10072413",
+              "label": 0
+            },
+            {
+              "name": "tremor intention",
+              "labelcui": "10022520",
+              "label": 0
+            },
+            {
+              "name": "intention tremor",
+              "labelcui": "10022520",
+              "label": 0
+            },
+            {
+              "name": "tremor semirrhythmic",
+              "labelcui": "10044565",
+              "label": 1
+            },
+            {
+              "name": "tremor limb",
+              "labelcui": "10044565",
+              "label": 1
+            },
+            {
+              "name": "postural tremor",
+              "labelcui": "10073211",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "have n't slept",
+          "golden_cui": "10022437",
+          "candidates": [
+            {
+              "name": "insomnia",
+              "labelcui": "10022437",
+              "label": 1
+            },
+            {
+              "name": "insomnia nos",
+              "labelcui": "10022437",
+              "label": 1
+            },
+            {
+              "name": "insomnia (non-organic)",
+              "labelcui": "10022437",
+              "label": 1
+            },
+            {
+              "name": "insomnia disorder",
+              "labelcui": "10022437",
+              "label": 1
+            },
+            {
+              "name": "short term insomnia",
+              "labelcui": "10022437",
+              "label": 1
+            },
+            {
+              "name": "terminal insomnia",
+              "labelcui": "10068932",
+              "label": 0
+            },
+            {
+              "name": "initial insomnia",
+              "labelcui": "10022035",
+              "label": 0
+            },
+            {
+              "name": "transient insomnia",
+              "labelcui": "10022437",
+              "label": 1
+            },
+            {
+              "name": "psychophysiologic insomnia",
+              "labelcui": "10082004",
+              "label": 0
+            },
+            {
+              "name": "chronic insomnia",
+              "labelcui": "10022437",
+              "label": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "supressing the fuck out my hunger",
+          "golden_cui": "10061428",
+          "candidates": [
+            {
+              "name": "hunger",
+              "labelcui": "10020466",
+              "label": 0
+            },
+            {
+              "name": "lack of satiety",
+              "labelcui": "10064720",
+              "label": 0
+            },
+            {
+              "name": "effects of hunger",
+              "labelcui": "10041954",
+              "label": 0
+            },
+            {
+              "name": "hunger abnormal",
+              "labelcui": "10060961",
+              "label": 0
+            },
+            {
+              "name": "pain hunger",
+              "labelcui": "10000087",
+              "label": 0
+            },
+            {
+              "name": "early satiety",
+              "labelcui": "10059186",
+              "label": 0
+            },
+            {
+              "name": "appetite suppressed",
+              "labelcui": "10061428",
+              "label": 1
+            },
+            {
+              "name": "appetite suppression",
+              "labelcui": "10061428",
+              "label": 1
+            },
+            {
+              "name": "feeling hungry",
+              "labelcui": "10020466",
+              "label": 0
+            },
+            {
+              "name": "appetite absent",
+              "labelcui": "10061428",
+              "label": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "hungry",
+          "golden_cui": "10020466",
+          "candidates": [
+            {
+              "name": "feeling hungry",
+              "labelcui": "10020466",
+              "label": 1
+            },
+            {
+              "name": "hunger",
+              "labelcui": "10020466",
+              "label": 1
+            },
+            {
+              "name": "excessive eating",
+              "labelcui": "10020710",
+              "label": 0
+            },
+            {
+              "name": "appetite excessive",
+              "labelcui": "10021654",
+              "label": 0
+            },
+            {
+              "name": "hunger abnormal",
+              "labelcui": "10060961",
+              "label": 0
+            },
+            {
+              "name": "appetite exaggerated",
+              "labelcui": "10021654",
+              "label": 0
+            },
+            {
+              "name": "appetite increased nos",
+              "labelcui": "10021654",
+              "label": 0
+            },
+            {
+              "name": "increased appetite",
+              "labelcui": "10021654",
+              "label": 0
+            },
+            {
+              "name": "effects of hunger",
+              "labelcui": "10041954",
+              "label": 0
+            },
+            {
+              "name": "stressed eating",
+              "labelcui": "10089519",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "addicted",
+          "golden_cui": "10013663",
+          "candidates": [
+            {
+              "name": "addict",
+              "labelcui": "10061111",
+              "label": 0
+            },
+            {
+              "name": "addiction",
+              "labelcui": "10012335",
+              "label": 0
+            },
+            {
+              "name": "dependence addictive",
+              "labelcui": "10013663",
+              "label": 1
+            },
+            {
+              "name": "addicted to drugs",
+              "labelcui": "10013663",
+              "label": 1
+            },
+            {
+              "name": "drug dependence",
+              "labelcui": "10013663",
+              "label": 1
+            },
+            {
+              "name": "addiction to drugs",
+              "labelcui": "10013663",
+              "label": 1
+            },
+            {
+              "name": "dependence drug (nos)",
+              "labelcui": "10013663",
+              "label": 1
+            },
+            {
+              "name": "drug dependence, unspecified",
+              "labelcui": "10013663",
+              "label": 1
+            },
+            {
+              "name": "drug dependence nos",
+              "labelcui": "10013663",
+              "label": 1
+            },
+            {
+              "name": "drug addiction",
+              "labelcui": "10013663",
+              "label": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "migraine",
+          "golden_cui": "10027599",
+          "candidates": [
+            {
+              "name": "migraine",
+              "labelcui": "10027599",
+              "label": 1
+            },
+            {
+              "name": "migraine nos",
+              "labelcui": "10027599",
+              "label": 1
+            },
+            {
+              "name": "migraine, unspecified",
+              "labelcui": "10027599",
+              "label": 1
+            },
+            {
+              "name": "migraine headache",
+              "labelcui": "10027599",
+              "label": 1
+            },
+            {
+              "name": "common migraine",
+              "labelcui": "10052787",
+              "label": 0
+            },
+            {
+              "name": "migraine type headaches",
+              "labelcui": "10027599",
+              "label": 1
+            },
+            {
+              "name": "classical migraine",
+              "labelcui": "10027607",
+              "label": 0
+            },
+            {
+              "name": "acute migraine",
+              "labelcui": "10027599",
+              "label": 1
+            },
+            {
+              "name": "migraine with aura",
+              "labelcui": "10027607",
+              "label": 0
+            },
+            {
+              "name": "variants of migraine",
+              "labelcui": "10027599",
+              "label": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "seizure",
+          "golden_cui": "10039906",
+          "candidates": [
+            {
+              "name": "seizure",
+              "labelcui": "10039906",
+              "label": 1
+            },
+            {
+              "name": "seizures",
+              "labelcui": "10039906",
+              "label": 1
+            },
+            {
+              "name": "convulsive seizure",
+              "labelcui": "10039906",
+              "label": 1
+            },
+            {
+              "name": "epileptic seizure",
+              "labelcui": "10015037",
+              "label": 0
+            },
+            {
+              "name": "seizure like phenomena",
+              "labelcui": "10071048",
+              "label": 0
+            },
+            {
+              "name": "seizure cerebral",
+              "labelcui": "10039906",
+              "label": 1
+            },
+            {
+              "name": "seizures cerebral",
+              "labelcui": "10039906",
+              "label": 1
+            },
+            {
+              "name": "non-epileptic seizure",
+              "labelcui": "10039906",
+              "label": 1
+            },
+            {
+              "name": "afebrile seizure",
+              "labelcui": "10039906",
+              "label": 1
+            },
+            {
+              "name": "epileptic fit",
+              "labelcui": "10015037",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "sleep but maaaaan that shit be having me dead ass asleep",
+          "golden_cui": "10020765",
+          "candidates": [
+            {
+              "name": "insomnia with sleep apnea",
+              "labelcui": "10040979",
+              "label": 0
+            },
+            {
+              "name": "trouble falling asleep",
+              "labelcui": "10022035",
+              "label": 0
+            },
+            {
+              "name": "secondary insomnia",
+              "labelcui": "10022437",
+              "label": 0
+            },
+            {
+              "name": "middle insomnia",
+              "labelcui": "10027590",
+              "label": 0
+            },
+            {
+              "name": "terminal insomnia",
+              "labelcui": "10068932",
+              "label": 0
+            },
+            {
+              "name": "died in sleep",
+              "labelcui": "10011906",
+              "label": 0
+            },
+            {
+              "name": "primary insomnia",
+              "labelcui": "10022437",
+              "label": 0
+            },
+            {
+              "name": "early morning awakening",
+              "labelcui": "10068932",
+              "label": 0
+            },
+            {
+              "name": "paradoxical insomnia",
+              "labelcui": "10083337",
+              "label": 0
+            },
+            {
+              "name": "fatal familial insomnia",
+              "labelcui": "10072077",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "withdrawal",
+          "golden_cui": "10048010",
+          "candidates": [
+            {
+              "name": "withdrawal syndrome",
+              "labelcui": "10048010",
+              "label": 1
+            },
+            {
+              "name": "syndrome withdrawal",
+              "labelcui": "10048010",
+              "label": 1
+            },
+            {
+              "name": "withdrawal symptom",
+              "labelcui": "10048010",
+              "label": 1
+            },
+            {
+              "name": "withdrawal reaction",
+              "labelcui": "10048010",
+              "label": 1
+            },
+            {
+              "name": "withdrawn",
+              "labelcui": "10041243",
+              "label": 0
+            },
+            {
+              "name": "adjustment reaction with withdrawal",
+              "labelcui": "10061621",
+              "label": 0
+            },
+            {
+              "name": "withdrawal psychosis",
+              "labelcui": "10074833",
+              "label": 0
+            },
+            {
+              "name": "withdrawal emotional",
+              "labelcui": "10014557",
+              "label": 0
+            },
+            {
+              "name": "emotional withdrawal",
+              "labelcui": "10014557",
+              "label": 0
+            },
+            {
+              "name": "treatment withdrawal",
+              "labelcui": "10065154",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "drunk",
+          "golden_cui": "10016330",
+          "candidates": [
+            {
+              "name": "feeling drunk",
+              "labelcui": "10016330",
+              "label": 1
+            },
+            {
+              "name": "drunkenness",
+              "labelcui": "10001605",
+              "label": 0
+            },
+            {
+              "name": "drunk-like effect",
+              "labelcui": "10016330",
+              "label": 1
+            },
+            {
+              "name": "drunkenness feeling of",
+              "labelcui": "10016330",
+              "label": 1
+            },
+            {
+              "name": "pathological drunkenness",
+              "labelcui": "10021249",
+              "label": 0
+            },
+            {
+              "name": "alcohol intoxication",
+              "labelcui": "10001605",
+              "label": 0
+            },
+            {
+              "name": "alcoholism",
+              "labelcui": "10001639",
+              "label": 0
+            },
+            {
+              "name": "alcoholic",
+              "labelcui": "10001612",
+              "label": 0
+            },
+            {
+              "name": "heavy drinker",
+              "labelcui": "10001612",
+              "label": 0
+            },
+            {
+              "name": "alcohol abuse",
+              "labelcui": "10001584",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "depressed",
+          "golden_cui": "10012378",
+          "candidates": [
+            {
+              "name": "depressed state",
+              "labelcui": "10012378",
+              "label": 1
+            },
+            {
+              "name": "depressed mood",
+              "labelcui": "10012374",
+              "label": 0
+            },
+            {
+              "name": "depression",
+              "labelcui": "10012378",
+              "label": 1
+            },
+            {
+              "name": "depression nos",
+              "labelcui": "10012378",
+              "label": 1
+            },
+            {
+              "name": "mood depression",
+              "labelcui": "10012374",
+              "label": 0
+            },
+            {
+              "name": "depression mental",
+              "labelcui": "10012378",
+              "label": 1
+            },
+            {
+              "name": "mood depressions",
+              "labelcui": "10012374",
+              "label": 0
+            },
+            {
+              "name": "clinical depression",
+              "labelcui": "10057840",
+              "label": 0
+            },
+            {
+              "name": "depression psychic",
+              "labelcui": "10012378",
+              "label": 1
+            },
+            {
+              "name": "depressive state",
+              "labelcui": "10012378",
+              "label": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "haven't slept much",
+          "golden_cui": "10022437",
+          "candidates": [
+            {
+              "name": "insomnia nos",
+              "labelcui": "10022437",
+              "label": 1
+            },
+            {
+              "name": "insomnia",
+              "labelcui": "10022437",
+              "label": 1
+            },
+            {
+              "name": "insomnia disorder",
+              "labelcui": "10022437",
+              "label": 1
+            },
+            {
+              "name": "insomnia (non-organic)",
+              "labelcui": "10022437",
+              "label": 1
+            },
+            {
+              "name": "short term insomnia",
+              "labelcui": "10022437",
+              "label": 1
+            },
+            {
+              "name": "initial insomnia",
+              "labelcui": "10022035",
+              "label": 0
+            },
+            {
+              "name": "chronic insomnia",
+              "labelcui": "10022437",
+              "label": 1
+            },
+            {
+              "name": "middle insomnia",
+              "labelcui": "10027590",
+              "label": 0
+            },
+            {
+              "name": "terminal insomnia",
+              "labelcui": "10068932",
+              "label": 0
+            },
+            {
+              "name": "transient insomnia",
+              "labelcui": "10022437",
+              "label": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "ca n't sleep",
+          "golden_cui": "10022437",
+          "candidates": [
+            {
+              "name": "insomnia",
+              "labelcui": "10022437",
+              "label": 1
+            },
+            {
+              "name": "insomnia nos",
+              "labelcui": "10022437",
+              "label": 1
+            },
+            {
+              "name": "insomnia (non-organic)",
+              "labelcui": "10022437",
+              "label": 1
+            },
+            {
+              "name": "insomnia disorder",
+              "labelcui": "10022437",
+              "label": 1
+            },
+            {
+              "name": "initial insomnia",
+              "labelcui": "10022035",
+              "label": 0
+            },
+            {
+              "name": "terminal insomnia",
+              "labelcui": "10068932",
+              "label": 0
+            },
+            {
+              "name": "chronic insomnia",
+              "labelcui": "10022437",
+              "label": 1
+            },
+            {
+              "name": "psychophysiologic insomnia",
+              "labelcui": "10082004",
+              "label": 0
+            },
+            {
+              "name": "primary insomnia",
+              "labelcui": "10022437",
+              "label": 1
+            },
+            {
+              "name": "middle insomnia",
+              "labelcui": "10027590",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "zombie",
+          "golden_cui": "10016322",
+          "candidates": [
+            {
+              "name": "felt like a zombie",
+              "labelcui": "10016322",
+              "label": 1
+            },
+            {
+              "name": "feeling abnormal",
+              "labelcui": "10016322",
+              "label": 1
+            },
+            {
+              "name": "lack of feeling",
+              "labelcui": "10016759",
+              "label": 0
+            },
+            {
+              "name": "zoophilia",
+              "labelcui": "10033888",
+              "label": 0
+            },
+            {
+              "name": "feeling bad",
+              "labelcui": "10016322",
+              "label": 1
+            },
+            {
+              "name": "feels bad",
+              "labelcui": "10016322",
+              "label": 1
+            },
+            {
+              "name": "unstable feeling",
+              "labelcui": "10016322",
+              "label": 1
+            },
+            {
+              "name": "zonaesthesia",
+              "labelcui": "10013886",
+              "label": 0
+            },
+            {
+              "name": "ill feeling",
+              "labelcui": "10025482",
+              "label": 0
+            },
+            {
+              "name": "felt vague",
+              "labelcui": "10013496",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "ca n't settle enough to go bk to sleep",
+          "golden_cui": "10001497",
+          "candidates": [
+            {
+              "name": "insomnia",
+              "labelcui": "10022437",
+              "label": 0
+            },
+            {
+              "name": "insomnia (non-organic)",
+              "labelcui": "10022437",
+              "label": 0
+            },
+            {
+              "name": "insomnia nos",
+              "labelcui": "10022437",
+              "label": 0
+            },
+            {
+              "name": "insomnia disorder",
+              "labelcui": "10022437",
+              "label": 0
+            },
+            {
+              "name": "initial insomnia",
+              "labelcui": "10022035",
+              "label": 0
+            },
+            {
+              "name": "chronic insomnia",
+              "labelcui": "10022437",
+              "label": 0
+            },
+            {
+              "name": "middle insomnia",
+              "labelcui": "10027590",
+              "label": 0
+            },
+            {
+              "name": "psychophysiologic insomnia",
+              "labelcui": "10082004",
+              "label": 0
+            },
+            {
+              "name": "terminal insomnia",
+              "labelcui": "10068932",
+              "label": 0
+            },
+            {
+              "name": "short term insomnia",
+              "labelcui": "10022437",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "weight gain",
+          "golden_cui": "10047899",
+          "candidates": [
+            {
+              "name": "weight gain",
+              "labelcui": "10047899",
+              "label": 1
+            },
+            {
+              "name": "weight increase",
+              "labelcui": "10047899",
+              "label": 1
+            },
+            {
+              "name": "weight increased",
+              "labelcui": "10047899",
+              "label": 1
+            },
+            {
+              "name": "unintentional weight gain",
+              "labelcui": "10000188",
+              "label": 0
+            },
+            {
+              "name": "high weight",
+              "labelcui": "10033307",
+              "label": 0
+            },
+            {
+              "name": "weight above normal",
+              "labelcui": "10047899",
+              "label": 1
+            },
+            {
+              "name": "abnormal weight gain",
+              "labelcui": "10000188",
+              "label": 0
+            },
+            {
+              "name": "body mass index increased",
+              "labelcui": "10005897",
+              "label": 0
+            },
+            {
+              "name": "overweight",
+              "labelcui": "10033307",
+              "label": 0
+            },
+            {
+              "name": "wt gain",
+              "labelcui": "10047899",
+              "label": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "jittery",
+          "golden_cui": "10016338",
+          "candidates": [
+            {
+              "name": "feeling jittery",
+              "labelcui": "10016338",
+              "label": 1
+            },
+            {
+              "name": "jitteriness",
+              "labelcui": "10016338",
+              "label": 1
+            },
+            {
+              "name": "jittery baby",
+              "labelcui": "10001500",
+              "label": 0
+            },
+            {
+              "name": "phonation difficulty",
+              "labelcui": "10013952",
+              "label": 0
+            },
+            {
+              "name": "voice instructions difficult to hear",
+              "labelcui": "10086310",
+              "label": 0
+            },
+            {
+              "name": "reduced dexterity",
+              "labelcui": "10076288",
+              "label": 0
+            },
+            {
+              "name": "time perception altered",
+              "labelcui": "10074073",
+              "label": 0
+            },
+            {
+              "name": "poor writer",
+              "labelcui": "10021401",
+              "label": 0
+            },
+            {
+              "name": "auditory perseveration",
+              "labelcui": "10071059",
+              "label": 0
+            },
+            {
+              "name": "phonological disorder",
+              "labelcui": "10077803",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "withdrawal",
+          "golden_cui": "10048010",
+          "candidates": [
+            {
+              "name": "withdrawal syndrome",
+              "labelcui": "10048010",
+              "label": 1
+            },
+            {
+              "name": "syndrome withdrawal",
+              "labelcui": "10048010",
+              "label": 1
+            },
+            {
+              "name": "withdrawal symptom",
+              "labelcui": "10048010",
+              "label": 1
+            },
+            {
+              "name": "withdrawal reaction",
+              "labelcui": "10048010",
+              "label": 1
+            },
+            {
+              "name": "withdrawn",
+              "labelcui": "10041243",
+              "label": 0
+            },
+            {
+              "name": "adjustment reaction with withdrawal",
+              "labelcui": "10061621",
+              "label": 0
+            },
+            {
+              "name": "withdrawal psychosis",
+              "labelcui": "10074833",
+              "label": 0
+            },
+            {
+              "name": "withdrawal emotional",
+              "labelcui": "10014557",
+              "label": 0
+            },
+            {
+              "name": "emotional withdrawal",
+              "labelcui": "10014557",
+              "label": 0
+            },
+            {
+              "name": "treatment withdrawal",
+              "labelcui": "10065154",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "itch",
+          "golden_cui": "10037087",
+          "candidates": [
+            {
+              "name": "itch",
+              "labelcui": "10037087",
+              "label": 1
+            },
+            {
+              "name": "itching",
+              "labelcui": "10037087",
+              "label": 1
+            },
+            {
+              "name": "itchy",
+              "labelcui": "10037087",
+              "label": 1
+            },
+            {
+              "name": "itchy skin",
+              "labelcui": "10037087",
+              "label": 1
+            },
+            {
+              "name": "itching all over",
+              "labelcui": "10037087",
+              "label": 1
+            },
+            {
+              "name": "localised itching",
+              "labelcui": "10037087",
+              "label": 1
+            },
+            {
+              "name": "localized itching",
+              "labelcui": "10037087",
+              "label": 1
+            },
+            {
+              "name": "itching - generalised",
+              "labelcui": "10037087",
+              "label": 1
+            },
+            {
+              "name": "itchy rash",
+              "labelcui": "10037884",
+              "label": 0
+            },
+            {
+              "name": "pruritus",
+              "labelcui": "10037087",
+              "label": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "foggy",
+          "golden_cui": "10041349",
+          "candidates": [
+            {
+              "name": "brain fog",
+              "labelcui": "10088940",
+              "label": 0
+            },
+            {
+              "name": "foggy feeling in head",
+              "labelcui": "10088940",
+              "label": 0
+            },
+            {
+              "name": "groggy",
+              "labelcui": "10041349",
+              "label": 1
+            },
+            {
+              "name": "fog in front of eyes",
+              "labelcui": "10047513",
+              "label": 0
+            },
+            {
+              "name": "macrogyria",
+              "labelcui": "10048910",
+              "label": 0
+            },
+            {
+              "name": "floppy",
+              "labelcui": "10021118",
+              "label": 0
+            },
+            {
+              "name": "groggy and sluggish",
+              "labelcui": "10041349",
+              "label": 1
+            },
+            {
+              "name": "frigidity and impotence",
+              "labelcui": "10061461",
+              "label": 0
+            },
+            {
+              "name": "frigidity",
+              "labelcui": "10062641",
+              "label": 0
+            },
+            {
+              "name": "clumsiness",
+              "labelcui": "10009696",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "breath tastes",
+          "golden_cui": "10006326",
+          "candidates": [
+            {
+              "name": "breath odor",
+              "labelcui": "10006326",
+              "label": 1
+            },
+            {
+              "name": "breath odour nos",
+              "labelcui": "10006326",
+              "label": 1
+            },
+            {
+              "name": "breath odour",
+              "labelcui": "10006326",
+              "label": 1
+            },
+            {
+              "name": "odor breath",
+              "labelcui": "10006326",
+              "label": 1
+            },
+            {
+              "name": "odour breath",
+              "labelcui": "10006326",
+              "label": 1
+            },
+            {
+              "name": "medicinal breath odour",
+              "labelcui": "10006326",
+              "label": 1
+            },
+            {
+              "name": "taste peculiar",
+              "labelcui": "10013911",
+              "label": 0
+            },
+            {
+              "name": "medicinal breath odor",
+              "labelcui": "10006326",
+              "label": 1
+            },
+            {
+              "name": "taste chemical",
+              "labelcui": "10013911",
+              "label": 0
+            },
+            {
+              "name": "smelly breath",
+              "labelcui": "10006326",
+              "label": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "hand?  pain",
+          "golden_cui": "10033425",
+          "candidates": [
+            {
+              "name": "pain in hand",
+              "labelcui": "10033425",
+              "label": 1
+            },
+            {
+              "name": "hand pain",
+              "labelcui": "10033425",
+              "label": 1
+            },
+            {
+              "name": "painful hand",
+              "labelcui": "10033425",
+              "label": 1
+            },
+            {
+              "name": "pain in joint involving hand",
+              "labelcui": "10003239",
+              "label": 0
+            },
+            {
+              "name": "arthropathy unspecified, involving hand",
+              "labelcui": "10003285",
+              "label": 0
+            },
+            {
+              "name": "hand arthritis",
+              "labelcui": "10003246",
+              "label": 0
+            },
+            {
+              "name": "pain in fingers",
+              "labelcui": "10033425",
+              "label": 1
+            },
+            {
+              "name": "paresthesia hand",
+              "labelcui": "10033775",
+              "label": 0
+            },
+            {
+              "name": "cramp in hand",
+              "labelcui": "10028334",
+              "label": 0
+            },
+            {
+              "name": "injury to hand nos",
+              "labelcui": "10061225",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "lose my weight",
+          "golden_cui": "10047895",
+          "candidates": [
+            {
+              "name": "lost weight",
+              "labelcui": "10047895",
+              "label": 1
+            },
+            {
+              "name": "weight loss",
+              "labelcui": "10047895",
+              "label": 1
+            },
+            {
+              "name": "loss of weight",
+              "labelcui": "10047895",
+              "label": 1
+            },
+            {
+              "name": "weight decrease",
+              "labelcui": "10047895",
+              "label": 1
+            },
+            {
+              "name": "weight decreased",
+              "labelcui": "10047895",
+              "label": 1
+            },
+            {
+              "name": "weight loss poor",
+              "labelcui": "10049084",
+              "label": 0
+            },
+            {
+              "name": "inability to lose weight",
+              "labelcui": "10049084",
+              "label": 0
+            },
+            {
+              "name": "abnormal loss of weight",
+              "labelcui": "10000159",
+              "label": 0
+            },
+            {
+              "name": "unintentional weight loss",
+              "labelcui": "10000159",
+              "label": 0
+            },
+            {
+              "name": "failure to reduce weight",
+              "labelcui": "10049084",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "comedown",
+          "golden_cui": "10048010",
+          "candidates": [
+            {
+              "name": "comedo",
+              "labelcui": "10000496",
+              "label": 0
+            },
+            {
+              "name": "comedone",
+              "labelcui": "10000496",
+              "label": 0
+            },
+            {
+              "name": "comedome",
+              "labelcui": "10000496",
+              "label": 0
+            },
+            {
+              "name": "abscences",
+              "labelcui": "10034759",
+              "label": 0
+            },
+            {
+              "name": "acne comedonal",
+              "labelcui": "10000496",
+              "label": 0
+            },
+            {
+              "name": "withdrawal syndrome",
+              "labelcui": "10048010",
+              "label": 1
+            },
+            {
+              "name": "withdrawn",
+              "labelcui": "10041243",
+              "label": 0
+            },
+            {
+              "name": "syndrome withdrawal",
+              "labelcui": "10048010",
+              "label": 1
+            },
+            {
+              "name": "withdrawal symptom",
+              "labelcui": "10048010",
+              "label": 1
+            },
+            {
+              "name": "lateropulsion",
+              "labelcui": "10081515",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "dreamin",
+          "golden_cui": "10000125",
+          "candidates": [
+            {
+              "name": "abnormal dreams",
+              "labelcui": "10000125",
+              "label": 1
+            },
+            {
+              "name": "dreams abnormal",
+              "labelcui": "10000125",
+              "label": 1
+            },
+            {
+              "name": "dreaming abnormal",
+              "labelcui": "10000125",
+              "label": 1
+            },
+            {
+              "name": "bizarre dreams",
+              "labelcui": "10000125",
+              "label": 1
+            },
+            {
+              "name": "dream anxiety disorder",
+              "labelcui": "10029412",
+              "label": 0
+            },
+            {
+              "name": "bad dreams",
+              "labelcui": "10029412",
+              "label": 0
+            },
+            {
+              "name": "terrifying dreams",
+              "labelcui": "10029412",
+              "label": 0
+            },
+            {
+              "name": "morbid dreams",
+              "labelcui": "10000125",
+              "label": 1
+            },
+            {
+              "name": "dream delirium",
+              "labelcui": "10000125",
+              "label": 1
+            },
+            {
+              "name": "dreams bizarre unusual or frightening",
+              "labelcui": "10000125",
+              "label": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "withdrawal",
+          "golden_cui": "10048010",
+          "candidates": [
+            {
+              "name": "withdrawal syndrome",
+              "labelcui": "10048010",
+              "label": 1
+            },
+            {
+              "name": "syndrome withdrawal",
+              "labelcui": "10048010",
+              "label": 1
+            },
+            {
+              "name": "withdrawal symptom",
+              "labelcui": "10048010",
+              "label": 1
+            },
+            {
+              "name": "withdrawal reaction",
+              "labelcui": "10048010",
+              "label": 1
+            },
+            {
+              "name": "withdrawn",
+              "labelcui": "10041243",
+              "label": 0
+            },
+            {
+              "name": "adjustment reaction with withdrawal",
+              "labelcui": "10061621",
+              "label": 0
+            },
+            {
+              "name": "withdrawal psychosis",
+              "labelcui": "10074833",
+              "label": 0
+            },
+            {
+              "name": "withdrawal emotional",
+              "labelcui": "10014557",
+              "label": 0
+            },
+            {
+              "name": "emotional withdrawal",
+              "labelcui": "10014557",
+              "label": 0
+            },
+            {
+              "name": "treatment withdrawal",
+              "labelcui": "10065154",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "withdrawal",
+          "golden_cui": "10048010",
+          "candidates": [
+            {
+              "name": "withdrawal syndrome",
+              "labelcui": "10048010",
+              "label": 1
+            },
+            {
+              "name": "syndrome withdrawal",
+              "labelcui": "10048010",
+              "label": 1
+            },
+            {
+              "name": "withdrawal symptom",
+              "labelcui": "10048010",
+              "label": 1
+            },
+            {
+              "name": "withdrawal reaction",
+              "labelcui": "10048010",
+              "label": 1
+            },
+            {
+              "name": "withdrawn",
+              "labelcui": "10041243",
+              "label": 0
+            },
+            {
+              "name": "adjustment reaction with withdrawal",
+              "labelcui": "10061621",
+              "label": 0
+            },
+            {
+              "name": "withdrawal psychosis",
+              "labelcui": "10074833",
+              "label": 0
+            },
+            {
+              "name": "withdrawal emotional",
+              "labelcui": "10014557",
+              "label": 0
+            },
+            {
+              "name": "emotional withdrawal",
+              "labelcui": "10014557",
+              "label": 0
+            },
+            {
+              "name": "treatment withdrawal",
+              "labelcui": "10065154",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "tinnitus",
+          "golden_cui": "10043882",
+          "candidates": [
+            {
+              "name": "tinnitus",
+              "labelcui": "10043882",
+              "label": 1
+            },
+            {
+              "name": "tinnitus, unspecified",
+              "labelcui": "10043882",
+              "label": 1
+            },
+            {
+              "name": "objective tinnitus",
+              "labelcui": "10043882",
+              "label": 1
+            },
+            {
+              "name": "subjective tinnitus",
+              "labelcui": "10043882",
+              "label": 1
+            },
+            {
+              "name": "ear noises",
+              "labelcui": "10043882",
+              "label": 1
+            },
+            {
+              "name": "pulsatile tinnitus",
+              "labelcui": "10043882",
+              "label": 1
+            },
+            {
+              "name": "worsening of tinnitus",
+              "labelcui": "10043882",
+              "label": 1
+            },
+            {
+              "name": "tinnitus aggravated",
+              "labelcui": "10043882",
+              "label": 1
+            },
+            {
+              "name": "ear ringing",
+              "labelcui": "10043882",
+              "label": 1
+            },
+            {
+              "name": "ringing in ears",
+              "labelcui": "10043882",
+              "label": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "bounce off the walls with excitement",
+          "golden_cui": "10015535",
+          "candidates": [
+            {
+              "name": "carbuncle and furuncle",
+              "labelcui": "10007247",
+              "label": 0
+            },
+            {
+              "name": "boop",
+              "labelcui": "10067472",
+              "label": 0
+            },
+            {
+              "name": "furuncle",
+              "labelcui": "10017553",
+              "label": 0
+            },
+            {
+              "name": "projectile emesis",
+              "labelcui": "10047708",
+              "label": 0
+            },
+            {
+              "name": "flatulence, eructation, and gas pain",
+              "labelcui": "10016766",
+              "label": 0
+            },
+            {
+              "name": "carbuncle and furuncle of unspecified site",
+              "labelcui": "10007247",
+              "label": 0
+            },
+            {
+              "name": "tussive syncope",
+              "labelcui": "10042772",
+              "label": 0
+            },
+            {
+              "name": "vomiting projectile",
+              "labelcui": "10047708",
+              "label": 0
+            },
+            {
+              "name": "epigastric cramp",
+              "labelcui": "10000087",
+              "label": 0
+            },
+            {
+              "name": "carbuncle",
+              "labelcui": "10007247",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "withdrawal",
+          "golden_cui": "10048010",
+          "candidates": [
+            {
+              "name": "withdrawal syndrome",
+              "labelcui": "10048010",
+              "label": 1
+            },
+            {
+              "name": "syndrome withdrawal",
+              "labelcui": "10048010",
+              "label": 1
+            },
+            {
+              "name": "withdrawal symptom",
+              "labelcui": "10048010",
+              "label": 1
+            },
+            {
+              "name": "withdrawal reaction",
+              "labelcui": "10048010",
+              "label": 1
+            },
+            {
+              "name": "withdrawn",
+              "labelcui": "10041243",
+              "label": 0
+            },
+            {
+              "name": "adjustment reaction with withdrawal",
+              "labelcui": "10061621",
+              "label": 0
+            },
+            {
+              "name": "withdrawal psychosis",
+              "labelcui": "10074833",
+              "label": 0
+            },
+            {
+              "name": "withdrawal emotional",
+              "labelcui": "10014557",
+              "label": 0
+            },
+            {
+              "name": "emotional withdrawal",
+              "labelcui": "10014557",
+              "label": 0
+            },
+            {
+              "name": "treatment withdrawal",
+              "labelcui": "10065154",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "sleep",
+          "golden_cui": "10020765",
+          "candidates": [
+            {
+              "name": "hypersomnia",
+              "labelcui": "10020765",
+              "label": 1
+            },
+            {
+              "name": "parasomnia",
+              "labelcui": "10061910",
+              "label": 0
+            },
+            {
+              "name": "parasomnia nos",
+              "labelcui": "10061910",
+              "label": 0
+            },
+            {
+              "name": "sleep study",
+              "labelcui": "10053319",
+              "label": 0
+            },
+            {
+              "name": "primary hypersomnia",
+              "labelcui": "10020765",
+              "label": 1
+            },
+            {
+              "name": "idiopathic hypersomnia",
+              "labelcui": "10020765",
+              "label": 1
+            },
+            {
+              "name": "nonorganic hypersomnia",
+              "labelcui": "10020765",
+              "label": 1
+            },
+            {
+              "name": "hypersomnolence",
+              "labelcui": "10020765",
+              "label": 1
+            },
+            {
+              "name": "wakefulness",
+              "labelcui": "10062519",
+              "label": 0
+            },
+            {
+              "name": "polysomnography",
+              "labelcui": "10053319",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "fuzzy headed",
+          "golden_cui": "10016322",
+          "candidates": [
+            {
+              "name": "fuzzy head",
+              "labelcui": "10016322",
+              "label": 1
+            },
+            {
+              "name": "tight band round head",
+              "labelcui": "10043269",
+              "label": 0
+            },
+            {
+              "name": "thick head",
+              "labelcui": "10016322",
+              "label": 1
+            },
+            {
+              "name": "dolichocephaly",
+              "labelcui": "10085104",
+              "label": 0
+            },
+            {
+              "name": "fuzzy",
+              "labelcui": "10016322",
+              "label": 1
+            },
+            {
+              "name": "light-headed",
+              "labelcui": "10013573",
+              "label": 0
+            },
+            {
+              "name": "high foetal head",
+              "labelcui": "10020065",
+              "label": 0
+            },
+            {
+              "name": "high fetal head",
+              "labelcui": "10020065",
+              "label": 0
+            },
+            {
+              "name": "brachycephaly",
+              "labelcui": "10053682",
+              "label": 0
+            },
+            {
+              "name": "arhinencephaly",
+              "labelcui": "10087157",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "shake",
+          "golden_cui": "10044565",
+          "candidates": [
+            {
+              "name": "tremor",
+              "labelcui": "10044565",
+              "label": 1
+            },
+            {
+              "name": "shakiness",
+              "labelcui": "10044565",
+              "label": 1
+            },
+            {
+              "name": "tremor muscle",
+              "labelcui": "10044565",
+              "label": 1
+            },
+            {
+              "name": "shaking",
+              "labelcui": "10044565",
+              "label": 1
+            },
+            {
+              "name": "action tremor",
+              "labelcui": "10072413",
+              "label": 0
+            },
+            {
+              "name": "tremor semirrhythmic",
+              "labelcui": "10044565",
+              "label": 1
+            },
+            {
+              "name": "tremor intention",
+              "labelcui": "10022520",
+              "label": 0
+            },
+            {
+              "name": "tremor limb",
+              "labelcui": "10044565",
+              "label": 1
+            },
+            {
+              "name": "intention tremor",
+              "labelcui": "10022520",
+              "label": 0
+            },
+            {
+              "name": "tremor coarse",
+              "labelcui": "10044565",
+              "label": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "no sleep",
+          "golden_cui": "10022437",
+          "candidates": [
+            {
+              "name": "insomnia",
+              "labelcui": "10022437",
+              "label": 1
+            },
+            {
+              "name": "insomnia nos",
+              "labelcui": "10022437",
+              "label": 1
+            },
+            {
+              "name": "insomnia (non-organic)",
+              "labelcui": "10022437",
+              "label": 1
+            },
+            {
+              "name": "insomnia disorder",
+              "labelcui": "10022437",
+              "label": 1
+            },
+            {
+              "name": "initial insomnia",
+              "labelcui": "10022035",
+              "label": 0
+            },
+            {
+              "name": "chronic insomnia",
+              "labelcui": "10022437",
+              "label": 1
+            },
+            {
+              "name": "terminal insomnia",
+              "labelcui": "10068932",
+              "label": 0
+            },
+            {
+              "name": "psychophysiologic insomnia",
+              "labelcui": "10082004",
+              "label": 0
+            },
+            {
+              "name": "short term insomnia",
+              "labelcui": "10022437",
+              "label": 1
+            },
+            {
+              "name": "middle insomnia",
+              "labelcui": "10027590",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "zombie",
+          "golden_cui": "10016322",
+          "candidates": [
+            {
+              "name": "felt like a zombie",
+              "labelcui": "10016322",
+              "label": 1
+            },
+            {
+              "name": "feeling abnormal",
+              "labelcui": "10016322",
+              "label": 1
+            },
+            {
+              "name": "lack of feeling",
+              "labelcui": "10016759",
+              "label": 0
+            },
+            {
+              "name": "zoophilia",
+              "labelcui": "10033888",
+              "label": 0
+            },
+            {
+              "name": "feeling bad",
+              "labelcui": "10016322",
+              "label": 1
+            },
+            {
+              "name": "feels bad",
+              "labelcui": "10016322",
+              "label": 1
+            },
+            {
+              "name": "unstable feeling",
+              "labelcui": "10016322",
+              "label": 1
+            },
+            {
+              "name": "zonaesthesia",
+              "labelcui": "10013886",
+              "label": 0
+            },
+            {
+              "name": "ill feeling",
+              "labelcui": "10025482",
+              "label": 0
+            },
+            {
+              "name": "felt vague",
+              "labelcui": "10013496",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "abcesses",
+          "golden_cui": "10000269",
+          "candidates": [
+            {
+              "name": "abscences",
+              "labelcui": "10034759",
+              "label": 0
+            },
+            {
+              "name": "device burst",
+              "labelcui": "10012575",
+              "label": 0
+            },
+            {
+              "name": "rebound effect",
+              "labelcui": "10038001",
+              "label": 0
+            },
+            {
+              "name": "rebound & guarding",
+              "labelcui": "10000090",
+              "label": 0
+            },
+            {
+              "name": "collapse fleeting",
+              "labelcui": "10009192",
+              "label": 0
+            },
+            {
+              "name": "failure of child resistant product closure",
+              "labelcui": "10084008",
+              "label": 0
+            },
+            {
+              "name": "syndrome screaming",
+              "labelcui": "10039740",
+              "label": 0
+            },
+            {
+              "name": "anniversary reaction",
+              "labelcui": "10074066",
+              "label": 0
+            },
+            {
+              "name": "antecollis",
+              "labelcui": "10044074",
+              "label": 0
+            },
+            {
+              "name": "habituation",
+              "labelcui": "10052804",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "violent",
+          "golden_cui": "10001488",
+          "candidates": [
+            {
+              "name": "violent",
+              "labelcui": "10001488",
+              "label": 1
+            },
+            {
+              "name": "violent behavior",
+              "labelcui": "10001488",
+              "label": 1
+            },
+            {
+              "name": "violent behaviour",
+              "labelcui": "10001488",
+              "label": 1
+            },
+            {
+              "name": "violence",
+              "labelcui": "10001488",
+              "label": 1
+            },
+            {
+              "name": "violent ideation",
+              "labelcui": "10047426",
+              "label": 0
+            },
+            {
+              "name": "violent thoughts",
+              "labelcui": "10047426",
+              "label": 0
+            },
+            {
+              "name": "exposure to violent event",
+              "labelcui": "10072083",
+              "label": 0
+            },
+            {
+              "name": "violence-related symptom",
+              "labelcui": "10047426",
+              "label": 0
+            },
+            {
+              "name": "aggression",
+              "labelcui": "10001488",
+              "label": 1
+            },
+            {
+              "name": "physical aggression",
+              "labelcui": "10001488",
+              "label": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "hyper",
+          "golden_cui": "10037211",
+          "candidates": [
+            {
+              "name": "hyper",
+              "labelcui": "10037211",
+              "label": 1
+            },
+            {
+              "name": "psychomotor hyperactivity",
+              "labelcui": "10037211",
+              "label": 1
+            },
+            {
+              "name": "hyperactivity",
+              "labelcui": "10037211",
+              "label": 1
+            },
+            {
+              "name": "behavior hyperactive",
+              "labelcui": "10037211",
+              "label": 1
+            },
+            {
+              "name": "hyperactive",
+              "labelcui": "10037211",
+              "label": 1
+            },
+            {
+              "name": "behaviour hyperactive",
+              "labelcui": "10037211",
+              "label": 1
+            },
+            {
+              "name": "adhd, predominantly hyperactive-impulsive type",
+              "labelcui": "10083622",
+              "label": 0
+            },
+            {
+              "name": "attention deficit-hyperactivity disorder",
+              "labelcui": "10083622",
+              "label": 0
+            },
+            {
+              "name": "attention deficit hyperactivity disorder",
+              "labelcui": "10083622",
+              "label": 0
+            },
+            {
+              "name": "attention deficit/hyperactivity disorder",
+              "labelcui": "10083622",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "lazy and lame",
+          "golden_cui": "10051602",
+          "candidates": [
+            {
+              "name": "laziness",
+              "labelcui": "10051602",
+              "label": 1
+            },
+            {
+              "name": "clumsy child syndrome",
+              "labelcui": "10009697",
+              "label": 0
+            },
+            {
+              "name": "cyclothymia",
+              "labelcui": "10011724",
+              "label": 0
+            },
+            {
+              "name": "lethargic tendency",
+              "labelcui": "10024264",
+              "label": 0
+            },
+            {
+              "name": "lethargic",
+              "labelcui": "10024264",
+              "label": 0
+            },
+            {
+              "name": "atypical autism",
+              "labelcui": "10063844",
+              "label": 0
+            },
+            {
+              "name": "lethargy",
+              "labelcui": "10024264",
+              "label": 0
+            },
+            {
+              "name": "autism",
+              "labelcui": "10063844",
+              "label": 0
+            },
+            {
+              "name": "apathy",
+              "labelcui": "10002942",
+              "label": 0
+            },
+            {
+              "name": "disorder cyclothymic",
+              "labelcui": "10011724",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "headaches",
+          "golden_cui": "10019211",
+          "candidates": [
+            {
+              "name": "headache",
+              "labelcui": "10019211",
+              "label": 1
+            },
+            {
+              "name": "headache nos",
+              "labelcui": "10019211",
+              "label": 1
+            },
+            {
+              "name": "headache occurring",
+              "labelcui": "10019211",
+              "label": 1
+            },
+            {
+              "name": "frequent headaches",
+              "labelcui": "10019211",
+              "label": 1
+            },
+            {
+              "name": "chronic headaches",
+              "labelcui": "10019211",
+              "label": 1
+            },
+            {
+              "name": "headache, lumbar puncture",
+              "labelcui": "10060854",
+              "label": 0
+            },
+            {
+              "name": "headache discomfort",
+              "labelcui": "10019211",
+              "label": 1
+            },
+            {
+              "name": "headaches cluster",
+              "labelcui": "10059133",
+              "label": 0
+            },
+            {
+              "name": "lumbar puncture headache",
+              "labelcui": "10060854",
+              "label": 0
+            },
+            {
+              "name": "nummular headache",
+              "labelcui": "10019211",
+              "label": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "withdrawals",
+          "golden_cui": "10048010",
+          "candidates": [
+            {
+              "name": "withdrawal syndrome",
+              "labelcui": "10048010",
+              "label": 1
+            },
+            {
+              "name": "syndrome withdrawal",
+              "labelcui": "10048010",
+              "label": 1
+            },
+            {
+              "name": "withdrawal symptom",
+              "labelcui": "10048010",
+              "label": 1
+            },
+            {
+              "name": "withdrawal reaction",
+              "labelcui": "10048010",
+              "label": 1
+            },
+            {
+              "name": "withdrawn",
+              "labelcui": "10041243",
+              "label": 0
+            },
+            {
+              "name": "adjustment reaction with withdrawal",
+              "labelcui": "10061621",
+              "label": 0
+            },
+            {
+              "name": "withdrawal psychosis",
+              "labelcui": "10074833",
+              "label": 0
+            },
+            {
+              "name": "withdrawal emotional",
+              "labelcui": "10014557",
+              "label": 0
+            },
+            {
+              "name": "emotional withdrawal",
+              "labelcui": "10014557",
+              "label": 0
+            },
+            {
+              "name": "treatment withdrawal",
+              "labelcui": "10065154",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "insomnia",
+          "golden_cui": "10022437",
+          "candidates": [
+            {
+              "name": "insomnia",
+              "labelcui": "10022437",
+              "label": 1
+            },
+            {
+              "name": "insomnia nos",
+              "labelcui": "10022437",
+              "label": 1
+            },
+            {
+              "name": "insomnia disorder",
+              "labelcui": "10022437",
+              "label": 1
+            },
+            {
+              "name": "insomnia (non-organic)",
+              "labelcui": "10022437",
+              "label": 1
+            },
+            {
+              "name": "initial insomnia",
+              "labelcui": "10022035",
+              "label": 0
+            },
+            {
+              "name": "terminal insomnia",
+              "labelcui": "10068932",
+              "label": 0
+            },
+            {
+              "name": "psychophysiologic insomnia",
+              "labelcui": "10082004",
+              "label": 0
+            },
+            {
+              "name": "chronic insomnia",
+              "labelcui": "10022437",
+              "label": 1
+            },
+            {
+              "name": "short term insomnia",
+              "labelcui": "10022437",
+              "label": 1
+            },
+            {
+              "name": "primary insomnia",
+              "labelcui": "10022437",
+              "label": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "swelling",
+          "golden_cui": "10042674",
+          "candidates": [
+            {
+              "name": "swelling",
+              "labelcui": "10042674",
+              "label": 1
+            },
+            {
+              "name": "swelling nos",
+              "labelcui": "10042674",
+              "label": 1
+            },
+            {
+              "name": "local swelling",
+              "labelcui": "10042674",
+              "label": 1
+            },
+            {
+              "name": "skin swelling",
+              "labelcui": "10053262",
+              "label": 0
+            },
+            {
+              "name": "skin swelling of",
+              "labelcui": "10053262",
+              "label": 0
+            },
+            {
+              "name": "swelling non-inflammatory",
+              "labelcui": "10042674",
+              "label": 1
+            },
+            {
+              "name": "neoplasm swelling",
+              "labelcui": "10059049",
+              "label": 0
+            },
+            {
+              "name": "generalized swelling",
+              "labelcui": "10018092",
+              "label": 0
+            },
+            {
+              "name": "feeling swollen",
+              "labelcui": "10042674",
+              "label": 1
+            },
+            {
+              "name": "generalised swelling",
+              "labelcui": "10018092",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "function not sleep all day",
+          "golden_cui": "10020765",
+          "candidates": [
+            {
+              "name": "insomnia disorder",
+              "labelcui": "10022437",
+              "label": 0
+            },
+            {
+              "name": "insomnia",
+              "labelcui": "10022437",
+              "label": 0
+            },
+            {
+              "name": "insomnia (non-organic)",
+              "labelcui": "10022437",
+              "label": 0
+            },
+            {
+              "name": "insomnia nos",
+              "labelcui": "10022437",
+              "label": 0
+            },
+            {
+              "name": "chronic insomnia",
+              "labelcui": "10022437",
+              "label": 0
+            },
+            {
+              "name": "short term insomnia",
+              "labelcui": "10022437",
+              "label": 0
+            },
+            {
+              "name": "psychophysiologic insomnia",
+              "labelcui": "10082004",
+              "label": 0
+            },
+            {
+              "name": "primary insomnia",
+              "labelcui": "10022437",
+              "label": 0
+            },
+            {
+              "name": "initial insomnia",
+              "labelcui": "10022035",
+              "label": 0
+            },
+            {
+              "name": "terminal insomnia",
+              "labelcui": "10068932",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "not gonna sleep",
+          "golden_cui": "10022437",
+          "candidates": [
+            {
+              "name": "insomnia nos",
+              "labelcui": "10022437",
+              "label": 1
+            },
+            {
+              "name": "insomnia",
+              "labelcui": "10022437",
+              "label": 1
+            },
+            {
+              "name": "insomnia disorder",
+              "labelcui": "10022437",
+              "label": 1
+            },
+            {
+              "name": "insomnia (non-organic)",
+              "labelcui": "10022437",
+              "label": 1
+            },
+            {
+              "name": "initial insomnia",
+              "labelcui": "10022035",
+              "label": 0
+            },
+            {
+              "name": "chronic insomnia",
+              "labelcui": "10022437",
+              "label": 1
+            },
+            {
+              "name": "short term insomnia",
+              "labelcui": "10022437",
+              "label": 1
+            },
+            {
+              "name": "psychophysiologic insomnia",
+              "labelcui": "10082004",
+              "label": 0
+            },
+            {
+              "name": "terminal insomnia",
+              "labelcui": "10068932",
+              "label": 0
+            },
+            {
+              "name": "middle insomnia",
+              "labelcui": "10027590",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "awake 50 hours straight",
+          "golden_cui": "10022437",
+          "candidates": [
+            {
+              "name": "early morning awakening",
+              "labelcui": "10068932",
+              "label": 0
+            },
+            {
+              "name": "hard to awaken",
+              "labelcui": "10041349",
+              "label": 0
+            },
+            {
+              "name": "primary insomnia",
+              "labelcui": "10022437",
+              "label": 1
+            },
+            {
+              "name": "drowsy on awakening",
+              "labelcui": "10041349",
+              "label": 0
+            },
+            {
+              "name": "awakening early",
+              "labelcui": "10068932",
+              "label": 0
+            },
+            {
+              "name": "groggy on awakening",
+              "labelcui": "10041349",
+              "label": 0
+            },
+            {
+              "name": "paradoxical insomnia",
+              "labelcui": "10083337",
+              "label": 0
+            },
+            {
+              "name": "middle insomnia",
+              "labelcui": "10027590",
+              "label": 0
+            },
+            {
+              "name": "nocturnal awakening",
+              "labelcui": "10027590",
+              "label": 0
+            },
+            {
+              "name": "matutinal awakening",
+              "labelcui": "10068932",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "slept all",
+          "golden_cui": "10020765",
+          "candidates": [
+            {
+              "name": "hypersomnia",
+              "labelcui": "10020765",
+              "label": 1
+            },
+            {
+              "name": "parasomnia",
+              "labelcui": "10061910",
+              "label": 0
+            },
+            {
+              "name": "parasomnia nos",
+              "labelcui": "10061910",
+              "label": 0
+            },
+            {
+              "name": "primary hypersomnia",
+              "labelcui": "10020765",
+              "label": 1
+            },
+            {
+              "name": "wakefulness",
+              "labelcui": "10062519",
+              "label": 0
+            },
+            {
+              "name": "co-sleeping",
+              "labelcui": "10069595",
+              "label": 0
+            },
+            {
+              "name": "idiopathic hypersomnia",
+              "labelcui": "10020765",
+              "label": 1
+            },
+            {
+              "name": "nonorganic hypersomnia",
+              "labelcui": "10020765",
+              "label": 1
+            },
+            {
+              "name": "hypersomnolence",
+              "labelcui": "10020765",
+              "label": 1
+            },
+            {
+              "name": "sleep walking",
+              "labelcui": "10041347",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "nauseous",
+          "golden_cui": "10028813",
+          "candidates": [
+            {
+              "name": "nauseous",
+              "labelcui": "10028813",
+              "label": 1
+            },
+            {
+              "name": "nausea",
+              "labelcui": "10028813",
+              "label": 1
+            },
+            {
+              "name": "nauseated",
+              "labelcui": "10028813",
+              "label": 1
+            },
+            {
+              "name": "nausea alone",
+              "labelcui": "10028813",
+              "label": 1
+            },
+            {
+              "name": "sickness/nausea",
+              "labelcui": "10028813",
+              "label": 1
+            },
+            {
+              "name": "anticipatory nausea",
+              "labelcui": "10028813",
+              "label": 1
+            },
+            {
+              "name": "nausea aggravated",
+              "labelcui": "10028813",
+              "label": 1
+            },
+            {
+              "name": "nausea gravidarum",
+              "labelcui": "10027975",
+              "label": 0
+            },
+            {
+              "name": "postprandial nausea",
+              "labelcui": "10028813",
+              "label": 1
+            },
+            {
+              "name": "nausea and vomiting",
+              "labelcui": "10047700",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "panicked",
+          "golden_cui": "10033670",
+          "candidates": [
+            {
+              "name": "panic reaction",
+              "labelcui": "10033670",
+              "label": 1
+            },
+            {
+              "name": "reaction panic",
+              "labelcui": "10033670",
+              "label": 1
+            },
+            {
+              "name": "panic attack",
+              "labelcui": "10033664",
+              "label": 0
+            },
+            {
+              "name": "panic attacks",
+              "labelcui": "10033664",
+              "label": 0
+            },
+            {
+              "name": "panic disorder",
+              "labelcui": "10033666",
+              "label": 0
+            },
+            {
+              "name": "panic disorder nos",
+              "labelcui": "10033666",
+              "label": 0
+            },
+            {
+              "name": "agoraphobia with panic attacks",
+              "labelcui": "10033666",
+              "label": 0
+            },
+            {
+              "name": "panic disorder without agoraphobia",
+              "labelcui": "10033666",
+              "label": 0
+            },
+            {
+              "name": "panic disorder with agoraphobia",
+              "labelcui": "10033666",
+              "label": 0
+            },
+            {
+              "name": "panic reaction aggravated",
+              "labelcui": "10033670",
+              "label": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "sleep for 14",
+          "golden_cui": "10020765",
+          "candidates": [
+            {
+              "name": "sleep study",
+              "labelcui": "10053319",
+              "label": 0
+            },
+            {
+              "name": "parasomnia",
+              "labelcui": "10061910",
+              "label": 0
+            },
+            {
+              "name": "hypersomnia",
+              "labelcui": "10020765",
+              "label": 1
+            },
+            {
+              "name": "parasomnia nos",
+              "labelcui": "10061910",
+              "label": 0
+            },
+            {
+              "name": "hypersomnolence",
+              "labelcui": "10020765",
+              "label": 1
+            },
+            {
+              "name": "co-sleeping",
+              "labelcui": "10069595",
+              "label": 0
+            },
+            {
+              "name": "primary hypersomnia",
+              "labelcui": "10020765",
+              "label": 1
+            },
+            {
+              "name": "idiopathic hypersomnia",
+              "labelcui": "10020765",
+              "label": 1
+            },
+            {
+              "name": "sleeping baby",
+              "labelcui": "10028923",
+              "label": 0
+            },
+            {
+              "name": "sleep endoscopy",
+              "labelcui": "10078868",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "cough",
+          "golden_cui": "10011224",
+          "candidates": [
+            {
+              "name": "cough",
+              "labelcui": "10011224",
+              "label": 1
+            },
+            {
+              "name": "coughing",
+              "labelcui": "10011224",
+              "label": 1
+            },
+            {
+              "name": "productive cough",
+              "labelcui": "10036790",
+              "label": 0
+            },
+            {
+              "name": "cough increased",
+              "labelcui": "10011224",
+              "label": 1
+            },
+            {
+              "name": "habit cough",
+              "labelcui": "10082913",
+              "label": 0
+            },
+            {
+              "name": "cough resembling asthma",
+              "labelcui": "10011224",
+              "label": 1
+            },
+            {
+              "name": "whooping cough",
+              "labelcui": "10034738",
+              "label": 0
+            },
+            {
+              "name": "dry cough",
+              "labelcui": "10011224",
+              "label": 1
+            },
+            {
+              "name": "acute cough",
+              "labelcui": "10011224",
+              "label": 1
+            },
+            {
+              "name": "coughing on induction",
+              "labelcui": "10049979",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "binge eat",
+          "golden_cui": "10004716",
+          "candidates": [
+            {
+              "name": "binge eating",
+              "labelcui": "10004716",
+              "label": 1
+            },
+            {
+              "name": "excessive eating",
+              "labelcui": "10020710",
+              "label": 0
+            },
+            {
+              "name": "binge drinking",
+              "labelcui": "10071238",
+              "label": 0
+            },
+            {
+              "name": "eating disorder",
+              "labelcui": "10014062",
+              "label": 0
+            },
+            {
+              "name": "appetite excessive",
+              "labelcui": "10021654",
+              "label": 0
+            },
+            {
+              "name": "eating disorder symptom",
+              "labelcui": "10061832",
+              "label": 0
+            },
+            {
+              "name": "markedly increased food intake",
+              "labelcui": "10020710",
+              "label": 0
+            },
+            {
+              "name": "eating disorder symptom nos",
+              "labelcui": "10061832",
+              "label": 0
+            },
+            {
+              "name": "eating disorder, unspecified",
+              "labelcui": "10014062",
+              "label": 0
+            },
+            {
+              "name": "bulimia",
+              "labelcui": "10006550",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "tendon injuries",
+          "golden_cui": "10043242",
+          "candidates": [
+            {
+              "name": "tendon injury",
+              "labelcui": "10043242",
+              "label": 1
+            },
+            {
+              "name": "tendon rupture nos",
+              "labelcui": "10043248",
+              "label": 0
+            },
+            {
+              "name": "tendon rupture",
+              "labelcui": "10043248",
+              "label": 0
+            },
+            {
+              "name": "rupture tendon",
+              "labelcui": "10043248",
+              "label": 0
+            },
+            {
+              "name": "tendon dislocation",
+              "labelcui": "10079547",
+              "label": 0
+            },
+            {
+              "name": "late effect of tendon injury",
+              "labelcui": "10043242",
+              "label": 1
+            },
+            {
+              "name": "tendon operation nos",
+              "labelcui": "10062121",
+              "label": 0
+            },
+            {
+              "name": "tendon disorder nos",
+              "labelcui": "10043239",
+              "label": 0
+            },
+            {
+              "name": "tendon operation",
+              "labelcui": "10062121",
+              "label": 0
+            },
+            {
+              "name": "rupture of tendon, non-traumatic",
+              "labelcui": "10043248",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "zero appetite",
+          "golden_cui": "10061428",
+          "candidates": [
+            {
+              "name": "decreased appetite",
+              "labelcui": "10061428",
+              "label": 1
+            },
+            {
+              "name": "appetite absent",
+              "labelcui": "10061428",
+              "label": 1
+            },
+            {
+              "name": "appetite decreased nos",
+              "labelcui": "10061428",
+              "label": 1
+            },
+            {
+              "name": "appetite lost",
+              "labelcui": "10061428",
+              "label": 1
+            },
+            {
+              "name": "appetite suppressed",
+              "labelcui": "10061428",
+              "label": 1
+            },
+            {
+              "name": "unable to eat",
+              "labelcui": "10061148",
+              "label": 0
+            },
+            {
+              "name": "appetite impaired",
+              "labelcui": "10061428",
+              "label": 1
+            },
+            {
+              "name": "appetite suppression",
+              "labelcui": "10061428",
+              "label": 1
+            },
+            {
+              "name": "anorexia",
+              "labelcui": "10061428",
+              "label": 1
+            },
+            {
+              "name": "lack of satiety",
+              "labelcui": "10064720",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "awful night 's sleep",
+          "golden_cui": "10062519",
+          "candidates": [
+            {
+              "name": "sleep unwell",
+              "labelcui": "10062519",
+              "label": 1
+            },
+            {
+              "name": "difficulty sleeping",
+              "labelcui": "10022437",
+              "label": 0
+            },
+            {
+              "name": "sleeplessness",
+              "labelcui": "10022437",
+              "label": 0
+            },
+            {
+              "name": "trouble falling asleep",
+              "labelcui": "10022035",
+              "label": 0
+            },
+            {
+              "name": "middle insomnia",
+              "labelcui": "10027590",
+              "label": 0
+            },
+            {
+              "name": "insomnia nos",
+              "labelcui": "10022437",
+              "label": 0
+            },
+            {
+              "name": "hard to awaken",
+              "labelcui": "10041349",
+              "label": 0
+            },
+            {
+              "name": "insomnia disorder",
+              "labelcui": "10022437",
+              "label": 0
+            },
+            {
+              "name": "insomnia",
+              "labelcui": "10022437",
+              "label": 0
+            },
+            {
+              "name": "groggy on awakening",
+              "labelcui": "10041349",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "ca n't function",
+          "golden_cui": "10041349",
+          "candidates": [
+            {
+              "name": "not as effective",
+              "labelcui": "10043414",
+              "label": 0
+            },
+            {
+              "name": "therapeutic product ineffective",
+              "labelcui": "10060769",
+              "label": 0
+            },
+            {
+              "name": "inappetence",
+              "labelcui": "10061428",
+              "label": 0
+            },
+            {
+              "name": "unable to walk",
+              "labelcui": "10017581",
+              "label": 0
+            },
+            {
+              "name": "feeling lack of",
+              "labelcui": "10016759",
+              "label": 0
+            },
+            {
+              "name": "therapeutic product ineffective for unapproved indication",
+              "labelcui": "10060770",
+              "label": 0
+            },
+            {
+              "name": "inarticulateness",
+              "labelcui": "10013887",
+              "label": 0
+            },
+            {
+              "name": "impairment level not further specified",
+              "labelcui": "10005169",
+              "label": 0
+            },
+            {
+              "name": "no therapeutic response",
+              "labelcui": "10051082",
+              "label": 0
+            },
+            {
+              "name": "unevaluable therapy",
+              "labelcui": "10077754",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "wanna go back to sleep",
+          "golden_cui": "10022437",
+          "candidates": [
+            {
+              "name": "nocturnal disorientation",
+              "labelcui": "10013395",
+              "label": 0
+            },
+            {
+              "name": "sleeplessness",
+              "labelcui": "10022437",
+              "label": 1
+            },
+            {
+              "name": "wandering",
+              "labelcui": "10084569",
+              "label": 0
+            },
+            {
+              "name": "trouble falling asleep",
+              "labelcui": "10022035",
+              "label": 0
+            },
+            {
+              "name": "paradoxical insomnia",
+              "labelcui": "10083337",
+              "label": 0
+            },
+            {
+              "name": "psychophysiologic insomnia",
+              "labelcui": "10082004",
+              "label": 0
+            },
+            {
+              "name": "chronic insomnia",
+              "labelcui": "10022437",
+              "label": 1
+            },
+            {
+              "name": "initial insomnia",
+              "labelcui": "10022035",
+              "label": 0
+            },
+            {
+              "name": "sleep maintenance insomnia",
+              "labelcui": "10027590",
+              "label": 0
+            },
+            {
+              "name": "middle insomnia",
+              "labelcui": "10027590",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "dont think im sleeping tonight",
+          "golden_cui": "10022437",
+          "candidates": [
+            {
+              "name": "psychophysiologic insomnia",
+              "labelcui": "10082004",
+              "label": 0
+            },
+            {
+              "name": "initial insomnia",
+              "labelcui": "10022035",
+              "label": 0
+            },
+            {
+              "name": "sleep maintenance insomnia",
+              "labelcui": "10027590",
+              "label": 0
+            },
+            {
+              "name": "insomnia disorder",
+              "labelcui": "10022437",
+              "label": 1
+            },
+            {
+              "name": "middle insomnia",
+              "labelcui": "10027590",
+              "label": 0
+            },
+            {
+              "name": "insomnia",
+              "labelcui": "10022437",
+              "label": 1
+            },
+            {
+              "name": "chronic insomnia",
+              "labelcui": "10022437",
+              "label": 1
+            },
+            {
+              "name": "trouble falling asleep",
+              "labelcui": "10022035",
+              "label": 0
+            },
+            {
+              "name": "paradoxical insomnia",
+              "labelcui": "10083337",
+              "label": 0
+            },
+            {
+              "name": "insomnia nos",
+              "labelcui": "10022437",
+              "label": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "have n't eaten anything at all today",
+          "golden_cui": "10061428",
+          "candidates": [
+            {
+              "name": "unable to eat",
+              "labelcui": "10061148",
+              "label": 0
+            },
+            {
+              "name": "appetite absent",
+              "labelcui": "10061428",
+              "label": 1
+            },
+            {
+              "name": "lack of satiety",
+              "labelcui": "10064720",
+              "label": 0
+            },
+            {
+              "name": "decreased appetite",
+              "labelcui": "10061428",
+              "label": 1
+            },
+            {
+              "name": "appetite decreased nos",
+              "labelcui": "10061428",
+              "label": 1
+            },
+            {
+              "name": "appetite lost",
+              "labelcui": "10061428",
+              "label": 1
+            },
+            {
+              "name": "diet refusal",
+              "labelcui": "10012775",
+              "label": 0
+            },
+            {
+              "name": "food refusal",
+              "labelcui": "10080283",
+              "label": 0
+            },
+            {
+              "name": "diet failure",
+              "labelcui": "10075213",
+              "label": 0
+            },
+            {
+              "name": "anorexia",
+              "labelcui": "10061428",
+              "label": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "not sleeping",
+          "golden_cui": "10022437",
+          "candidates": [
+            {
+              "name": "insomnia nos",
+              "labelcui": "10022437",
+              "label": 1
+            },
+            {
+              "name": "insomnia",
+              "labelcui": "10022437",
+              "label": 1
+            },
+            {
+              "name": "insomnia disorder",
+              "labelcui": "10022437",
+              "label": 1
+            },
+            {
+              "name": "insomnia (non-organic)",
+              "labelcui": "10022437",
+              "label": 1
+            },
+            {
+              "name": "difficulty sleeping",
+              "labelcui": "10022437",
+              "label": 1
+            },
+            {
+              "name": "short term insomnia",
+              "labelcui": "10022437",
+              "label": 1
+            },
+            {
+              "name": "initial insomnia",
+              "labelcui": "10022035",
+              "label": 0
+            },
+            {
+              "name": "sleep loss",
+              "labelcui": "10022437",
+              "label": 1
+            },
+            {
+              "name": "chronic insomnia",
+              "labelcui": "10022437",
+              "label": 1
+            },
+            {
+              "name": "terminal insomnia",
+              "labelcui": "10068932",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "numbed my ability to think",
+          "golden_cui": "10027374",
+          "candidates": [
+            {
+              "name": "thinking reduced",
+              "labelcui": "10027374",
+              "label": 1
+            },
+            {
+              "name": "difficulty thinking",
+              "labelcui": "10027374",
+              "label": 1
+            },
+            {
+              "name": "thought block",
+              "labelcui": "10043495",
+              "label": 0
+            },
+            {
+              "name": "thought blocking",
+              "labelcui": "10043495",
+              "label": 0
+            },
+            {
+              "name": "slowed thinking",
+              "labelcui": "10050012",
+              "label": 0
+            },
+            {
+              "name": "thinking sluggish",
+              "labelcui": "10050012",
+              "label": 0
+            },
+            {
+              "name": "thinking slowed",
+              "labelcui": "10050012",
+              "label": 0
+            },
+            {
+              "name": "thinking slow",
+              "labelcui": "10050012",
+              "label": 0
+            },
+            {
+              "name": "abnormal thinking",
+              "labelcui": "10043431",
+              "label": 0
+            },
+            {
+              "name": "thinking abnormal",
+              "labelcui": "10043431",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "ain't tryna sleep",
+          "golden_cui": "10022437",
+          "candidates": [
+            {
+              "name": "insomnia nos",
+              "labelcui": "10022437",
+              "label": 1
+            },
+            {
+              "name": "insomnia",
+              "labelcui": "10022437",
+              "label": 1
+            },
+            {
+              "name": "insomnia (non-organic)",
+              "labelcui": "10022437",
+              "label": 1
+            },
+            {
+              "name": "insomnia disorder",
+              "labelcui": "10022437",
+              "label": 1
+            },
+            {
+              "name": "initial insomnia",
+              "labelcui": "10022035",
+              "label": 0
+            },
+            {
+              "name": "primary insomnia",
+              "labelcui": "10022437",
+              "label": 1
+            },
+            {
+              "name": "middle insomnia",
+              "labelcui": "10027590",
+              "label": 0
+            },
+            {
+              "name": "psychophysiologic insomnia",
+              "labelcui": "10082004",
+              "label": 0
+            },
+            {
+              "name": "terminal insomnia",
+              "labelcui": "10068932",
+              "label": 0
+            },
+            {
+              "name": "transient insomnia",
+              "labelcui": "10022437",
+              "label": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "withdrawal",
+          "golden_cui": "10048010",
+          "candidates": [
+            {
+              "name": "withdrawal syndrome",
+              "labelcui": "10048010",
+              "label": 1
+            },
+            {
+              "name": "syndrome withdrawal",
+              "labelcui": "10048010",
+              "label": 1
+            },
+            {
+              "name": "withdrawal symptom",
+              "labelcui": "10048010",
+              "label": 1
+            },
+            {
+              "name": "withdrawal reaction",
+              "labelcui": "10048010",
+              "label": 1
+            },
+            {
+              "name": "withdrawn",
+              "labelcui": "10041243",
+              "label": 0
+            },
+            {
+              "name": "adjustment reaction with withdrawal",
+              "labelcui": "10061621",
+              "label": 0
+            },
+            {
+              "name": "withdrawal psychosis",
+              "labelcui": "10074833",
+              "label": 0
+            },
+            {
+              "name": "withdrawal emotional",
+              "labelcui": "10014557",
+              "label": 0
+            },
+            {
+              "name": "emotional withdrawal",
+              "labelcui": "10014557",
+              "label": 0
+            },
+            {
+              "name": "treatment withdrawal",
+              "labelcui": "10065154",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "headaches",
+          "golden_cui": "10019211",
+          "candidates": [
+            {
+              "name": "headache",
+              "labelcui": "10019211",
+              "label": 1
+            },
+            {
+              "name": "headache nos",
+              "labelcui": "10019211",
+              "label": 1
+            },
+            {
+              "name": "headache occurring",
+              "labelcui": "10019211",
+              "label": 1
+            },
+            {
+              "name": "frequent headaches",
+              "labelcui": "10019211",
+              "label": 1
+            },
+            {
+              "name": "chronic headaches",
+              "labelcui": "10019211",
+              "label": 1
+            },
+            {
+              "name": "headache, lumbar puncture",
+              "labelcui": "10060854",
+              "label": 0
+            },
+            {
+              "name": "headache discomfort",
+              "labelcui": "10019211",
+              "label": 1
+            },
+            {
+              "name": "headaches cluster",
+              "labelcui": "10059133",
+              "label": 0
+            },
+            {
+              "name": "lumbar puncture headache",
+              "labelcui": "10060854",
+              "label": 0
+            },
+            {
+              "name": "nummular headache",
+              "labelcui": "10019211",
+              "label": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "nauseas",
+          "golden_cui": "10028813",
+          "candidates": [
+            {
+              "name": "nausea",
+              "labelcui": "10028813",
+              "label": 1
+            },
+            {
+              "name": "nauseated",
+              "labelcui": "10028813",
+              "label": 1
+            },
+            {
+              "name": "nausea alone",
+              "labelcui": "10028813",
+              "label": 1
+            },
+            {
+              "name": "sickness/nausea",
+              "labelcui": "10028813",
+              "label": 1
+            },
+            {
+              "name": "nauseous",
+              "labelcui": "10028813",
+              "label": 1
+            },
+            {
+              "name": "nausea aggravated",
+              "labelcui": "10028813",
+              "label": 1
+            },
+            {
+              "name": "anticipatory nausea",
+              "labelcui": "10028813",
+              "label": 1
+            },
+            {
+              "name": "nausea gravidarum",
+              "labelcui": "10027975",
+              "label": 0
+            },
+            {
+              "name": "postprandial nausea",
+              "labelcui": "10028813",
+              "label": 1
+            },
+            {
+              "name": "nausea and vomiting",
+              "labelcui": "10047700",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "body overheating",
+          "golden_cui": "10037660",
+          "candidates": [
+            {
+              "name": "product overheating",
+              "labelcui": "10071134",
+              "label": 0
+            },
+            {
+              "name": "device overheating",
+              "labelcui": "10083711",
+              "label": 0
+            },
+            {
+              "name": "overhydration",
+              "labelcui": "10020919",
+              "label": 0
+            },
+            {
+              "name": "hyperthermia",
+              "labelcui": "10020843",
+              "label": 0
+            },
+            {
+              "name": "body temperature increased",
+              "labelcui": "10005911",
+              "label": 0
+            },
+            {
+              "name": "temperature elevation",
+              "labelcui": "10005911",
+              "label": 0
+            },
+            {
+              "name": "heat oedema",
+              "labelcui": "10019340",
+              "label": 0
+            },
+            {
+              "name": "high temperature",
+              "labelcui": "10037660",
+              "label": 1
+            },
+            {
+              "name": "heat edema",
+              "labelcui": "10019340",
+              "label": 0
+            },
+            {
+              "name": "heat intolerance",
+              "labelcui": "10057040",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "groggy",
+          "golden_cui": "10041349",
+          "candidates": [
+            {
+              "name": "groggy",
+              "labelcui": "10041349",
+              "label": 1
+            },
+            {
+              "name": "groaning",
+              "labelcui": "10027783",
+              "label": 0
+            },
+            {
+              "name": "groggy and sluggish",
+              "labelcui": "10041349",
+              "label": 1
+            },
+            {
+              "name": "somnolence",
+              "labelcui": "10041349",
+              "label": 1
+            },
+            {
+              "name": "nocturnal groaning",
+              "labelcui": "10085704",
+              "label": 0
+            },
+            {
+              "name": "groans",
+              "labelcui": "10027783",
+              "label": 0
+            },
+            {
+              "name": "somniloquy",
+              "labelcui": "10041009",
+              "label": 0
+            },
+            {
+              "name": "wooziness",
+              "labelcui": "10013573",
+              "label": 0
+            },
+            {
+              "name": "macrogyria",
+              "labelcui": "10048910",
+              "label": 0
+            },
+            {
+              "name": "sleepy",
+              "labelcui": "10041349",
+              "label": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "withdrawal",
+          "golden_cui": "10048010",
+          "candidates": [
+            {
+              "name": "withdrawal syndrome",
+              "labelcui": "10048010",
+              "label": 1
+            },
+            {
+              "name": "syndrome withdrawal",
+              "labelcui": "10048010",
+              "label": 1
+            },
+            {
+              "name": "withdrawal symptom",
+              "labelcui": "10048010",
+              "label": 1
+            },
+            {
+              "name": "withdrawal reaction",
+              "labelcui": "10048010",
+              "label": 1
+            },
+            {
+              "name": "withdrawn",
+              "labelcui": "10041243",
+              "label": 0
+            },
+            {
+              "name": "adjustment reaction with withdrawal",
+              "labelcui": "10061621",
+              "label": 0
+            },
+            {
+              "name": "withdrawal psychosis",
+              "labelcui": "10074833",
+              "label": 0
+            },
+            {
+              "name": "withdrawal emotional",
+              "labelcui": "10014557",
+              "label": 0
+            },
+            {
+              "name": "emotional withdrawal",
+              "labelcui": "10014557",
+              "label": 0
+            },
+            {
+              "name": "treatment withdrawal",
+              "labelcui": "10065154",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "hyper",
+          "golden_cui": "10037211",
+          "candidates": [
+            {
+              "name": "hyper",
+              "labelcui": "10037211",
+              "label": 1
+            },
+            {
+              "name": "psychomotor hyperactivity",
+              "labelcui": "10037211",
+              "label": 1
+            },
+            {
+              "name": "hyperactivity",
+              "labelcui": "10037211",
+              "label": 1
+            },
+            {
+              "name": "behavior hyperactive",
+              "labelcui": "10037211",
+              "label": 1
+            },
+            {
+              "name": "hyperactive",
+              "labelcui": "10037211",
+              "label": 1
+            },
+            {
+              "name": "behaviour hyperactive",
+              "labelcui": "10037211",
+              "label": 1
+            },
+            {
+              "name": "adhd, predominantly hyperactive-impulsive type",
+              "labelcui": "10083622",
+              "label": 0
+            },
+            {
+              "name": "attention deficit-hyperactivity disorder",
+              "labelcui": "10083622",
+              "label": 0
+            },
+            {
+              "name": "attention deficit hyperactivity disorder",
+              "labelcui": "10083622",
+              "label": 0
+            },
+            {
+              "name": "attention deficit/hyperactivity disorder",
+              "labelcui": "10083622",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "crying",
+          "golden_cui": "10011469",
+          "candidates": [
+            {
+              "name": "crying",
+              "labelcui": "10011469",
+              "label": 1
+            },
+            {
+              "name": "crying abnormal",
+              "labelcui": "10011469",
+              "label": 1
+            },
+            {
+              "name": "crying uncontrollable",
+              "labelcui": "10011469",
+              "label": 1
+            },
+            {
+              "name": "uncontrollable crying",
+              "labelcui": "10011469",
+              "label": 1
+            },
+            {
+              "name": "persistent crying",
+              "labelcui": "10011469",
+              "label": 1
+            },
+            {
+              "name": "crying abnormal neonatal",
+              "labelcui": "10028934",
+              "label": 0
+            },
+            {
+              "name": "inappropriate crying",
+              "labelcui": "10021588",
+              "label": 0
+            },
+            {
+              "name": "inconsolable crying",
+              "labelcui": "10011469",
+              "label": 1
+            },
+            {
+              "name": "high-pitched crying",
+              "labelcui": "10052286",
+              "label": 0
+            },
+            {
+              "name": "crying dpt vaccine related",
+              "labelcui": "10052286",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "angry",
+          "golden_cui": "10002368",
+          "candidates": [
+            {
+              "name": "anger",
+              "labelcui": "10002368",
+              "label": 1
+            },
+            {
+              "name": "outburst of anger",
+              "labelcui": "10002368",
+              "label": 1
+            },
+            {
+              "name": "aggression",
+              "labelcui": "10001488",
+              "label": 0
+            },
+            {
+              "name": "aggressive behavior",
+              "labelcui": "10001488",
+              "label": 0
+            },
+            {
+              "name": "aggressive behaviour",
+              "labelcui": "10001488",
+              "label": 0
+            },
+            {
+              "name": "aggressive reaction",
+              "labelcui": "10001488",
+              "label": 0
+            },
+            {
+              "name": "agonal death struggle",
+              "labelcui": "10048664",
+              "label": 0
+            },
+            {
+              "name": "aggressive personality",
+              "labelcui": "10034721",
+              "label": 0
+            },
+            {
+              "name": "feeling sad",
+              "labelcui": "10012374",
+              "label": 0
+            },
+            {
+              "name": "physical aggression",
+              "labelcui": "10001488",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "withdrawals",
+          "golden_cui": "10048010",
+          "candidates": [
+            {
+              "name": "withdrawal syndrome",
+              "labelcui": "10048010",
+              "label": 1
+            },
+            {
+              "name": "syndrome withdrawal",
+              "labelcui": "10048010",
+              "label": 1
+            },
+            {
+              "name": "withdrawal symptom",
+              "labelcui": "10048010",
+              "label": 1
+            },
+            {
+              "name": "withdrawal reaction",
+              "labelcui": "10048010",
+              "label": 1
+            },
+            {
+              "name": "withdrawn",
+              "labelcui": "10041243",
+              "label": 0
+            },
+            {
+              "name": "adjustment reaction with withdrawal",
+              "labelcui": "10061621",
+              "label": 0
+            },
+            {
+              "name": "withdrawal psychosis",
+              "labelcui": "10074833",
+              "label": 0
+            },
+            {
+              "name": "withdrawal emotional",
+              "labelcui": "10014557",
+              "label": 0
+            },
+            {
+              "name": "emotional withdrawal",
+              "labelcui": "10014557",
+              "label": 0
+            },
+            {
+              "name": "treatment withdrawal",
+              "labelcui": "10065154",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "fatigued",
+          "golden_cui": "10016256",
+          "candidates": [
+            {
+              "name": "fatigue",
+              "labelcui": "10016256",
+              "label": 1
+            },
+            {
+              "name": "muscle fatigue",
+              "labelcui": "10049565",
+              "label": 0
+            },
+            {
+              "name": "tired all the time",
+              "labelcui": "10016256",
+              "label": 1
+            },
+            {
+              "name": "tiredness",
+              "labelcui": "10016256",
+              "label": 1
+            },
+            {
+              "name": "tired out",
+              "labelcui": "10016256",
+              "label": 1
+            },
+            {
+              "name": "battle fatigue",
+              "labelcui": "10036316",
+              "label": 0
+            },
+            {
+              "name": "mental fatigue",
+              "labelcui": "10076757",
+              "label": 0
+            },
+            {
+              "name": "tired and heavy",
+              "labelcui": "10016256",
+              "label": 1
+            },
+            {
+              "name": "fatigue extreme",
+              "labelcui": "10016256",
+              "label": 1
+            },
+            {
+              "name": "fatigability",
+              "labelcui": "10016256",
+              "label": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "thought i had a heart attack",
+          "golden_cui": "10028596",
+          "candidates": [
+            {
+              "name": "heart attack",
+              "labelcui": "10028596",
+              "label": 1
+            },
+            {
+              "name": "attack heart (nos)",
+              "labelcui": "10028596",
+              "label": 1
+            },
+            {
+              "name": "attack coronary",
+              "labelcui": "10051592",
+              "label": 0
+            },
+            {
+              "name": "widowmaker heart attack",
+              "labelcui": "10000891",
+              "label": 0
+            },
+            {
+              "name": "anginal attack",
+              "labelcui": "10002383",
+              "label": 0
+            },
+            {
+              "name": "angina attack",
+              "labelcui": "10002383",
+              "label": 0
+            },
+            {
+              "name": "nonhaemorrhagic stroke",
+              "labelcui": "10061256",
+              "label": 0
+            },
+            {
+              "name": "vasovagal attack",
+              "labelcui": "10036653",
+              "label": 0
+            },
+            {
+              "name": "cardioembolic stroke",
+              "labelcui": "10014498",
+              "label": 0
+            },
+            {
+              "name": "myocardial infarction",
+              "labelcui": "10028596",
+              "label": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "numb my emotions",
+          "golden_cui": "10016322",
+          "candidates": [
+            {
+              "name": "lack of feeling emotions",
+              "labelcui": "10014557",
+              "label": 0
+            },
+            {
+              "name": "affect loss",
+              "labelcui": "10016759",
+              "label": 0
+            },
+            {
+              "name": "affective blunting",
+              "labelcui": "10005885",
+              "label": 0
+            },
+            {
+              "name": "loss of affect",
+              "labelcui": "10016759",
+              "label": 0
+            },
+            {
+              "name": "affect lack",
+              "labelcui": "10016759",
+              "label": 0
+            },
+            {
+              "name": "emotional withdrawal",
+              "labelcui": "10014557",
+              "label": 0
+            },
+            {
+              "name": "withdrawal emotional",
+              "labelcui": "10014557",
+              "label": 0
+            },
+            {
+              "name": "blunted affect",
+              "labelcui": "10005885",
+              "label": 0
+            },
+            {
+              "name": "numbness",
+              "labelcui": "10020937",
+              "label": 0
+            },
+            {
+              "name": "low mood",
+              "labelcui": "10012374",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "headache",
+          "golden_cui": "10019211",
+          "candidates": [
+            {
+              "name": "headache",
+              "labelcui": "10019211",
+              "label": 1
+            },
+            {
+              "name": "headache nos",
+              "labelcui": "10019211",
+              "label": 1
+            },
+            {
+              "name": "headache occurring",
+              "labelcui": "10019211",
+              "label": 1
+            },
+            {
+              "name": "headache discomfort",
+              "labelcui": "10019211",
+              "label": 1
+            },
+            {
+              "name": "nummular headache",
+              "labelcui": "10019211",
+              "label": 1
+            },
+            {
+              "name": "headache, lumbar puncture",
+              "labelcui": "10060854",
+              "label": 0
+            },
+            {
+              "name": "lumbar puncture headache",
+              "labelcui": "10060854",
+              "label": 0
+            },
+            {
+              "name": "headache fullness",
+              "labelcui": "10019211",
+              "label": 1
+            },
+            {
+              "name": "psychogenic headache",
+              "labelcui": "10043269",
+              "label": 0
+            },
+            {
+              "name": "frequent headaches",
+              "labelcui": "10019211",
+              "label": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "withdrawal",
+          "golden_cui": "10048010",
+          "candidates": [
+            {
+              "name": "withdrawal syndrome",
+              "labelcui": "10048010",
+              "label": 1
+            },
+            {
+              "name": "syndrome withdrawal",
+              "labelcui": "10048010",
+              "label": 1
+            },
+            {
+              "name": "withdrawal symptom",
+              "labelcui": "10048010",
+              "label": 1
+            },
+            {
+              "name": "withdrawal reaction",
+              "labelcui": "10048010",
+              "label": 1
+            },
+            {
+              "name": "withdrawn",
+              "labelcui": "10041243",
+              "label": 0
+            },
+            {
+              "name": "adjustment reaction with withdrawal",
+              "labelcui": "10061621",
+              "label": 0
+            },
+            {
+              "name": "withdrawal psychosis",
+              "labelcui": "10074833",
+              "label": 0
+            },
+            {
+              "name": "withdrawal emotional",
+              "labelcui": "10014557",
+              "label": 0
+            },
+            {
+              "name": "emotional withdrawal",
+              "labelcui": "10014557",
+              "label": 0
+            },
+            {
+              "name": "treatment withdrawal",
+              "labelcui": "10065154",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "shaking",
+          "golden_cui": "10044565",
+          "candidates": [
+            {
+              "name": "shaking",
+              "labelcui": "10044565",
+              "label": 1
+            },
+            {
+              "name": "palsy shaking",
+              "labelcui": "10061536",
+              "label": 0
+            },
+            {
+              "name": "shakiness",
+              "labelcui": "10044565",
+              "label": 1
+            },
+            {
+              "name": "shaking inside",
+              "labelcui": "10029216",
+              "label": 0
+            },
+            {
+              "name": "tremor",
+              "labelcui": "10044565",
+              "label": 1
+            },
+            {
+              "name": "shaking of hands",
+              "labelcui": "10044565",
+              "label": 1
+            },
+            {
+              "name": "tremor muscle",
+              "labelcui": "10044565",
+              "label": 1
+            },
+            {
+              "name": "action tremor",
+              "labelcui": "10072413",
+              "label": 0
+            },
+            {
+              "name": "tremor limb",
+              "labelcui": "10044565",
+              "label": 1
+            },
+            {
+              "name": "tremor semirrhythmic",
+              "labelcui": "10044565",
+              "label": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "brain zaps",
+          "golden_cui": "10033775",
+          "candidates": [
+            {
+              "name": "brain zaps",
+              "labelcui": "10014358",
+              "label": 0
+            },
+            {
+              "name": "porencephalia",
+              "labelcui": "10036172",
+              "label": 0
+            },
+            {
+              "name": "porencephaly",
+              "labelcui": "10036172",
+              "label": 0
+            },
+            {
+              "name": "porencephalus",
+              "labelcui": "10036172",
+              "label": 0
+            },
+            {
+              "name": "brain satellitosis",
+              "labelcui": "10080525",
+              "label": 0
+            },
+            {
+              "name": "fuzzy head",
+              "labelcui": "10016322",
+              "label": 0
+            },
+            {
+              "name": "bathrocephaly",
+              "labelcui": "10086695",
+              "label": 0
+            },
+            {
+              "name": "brain fog",
+              "labelcui": "10088940",
+              "label": 0
+            },
+            {
+              "name": "brain syndrome (nos)",
+              "labelcui": "10031077",
+              "label": 0
+            },
+            {
+              "name": "oxycephaly",
+              "labelcui": "10080833",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "losing so much weight",
+          "golden_cui": "10047895",
+          "candidates": [
+            {
+              "name": "loss of weight",
+              "labelcui": "10047895",
+              "label": 1
+            },
+            {
+              "name": "lost weight",
+              "labelcui": "10047895",
+              "label": 1
+            },
+            {
+              "name": "weight loss",
+              "labelcui": "10047895",
+              "label": 1
+            },
+            {
+              "name": "weight decrease",
+              "labelcui": "10047895",
+              "label": 1
+            },
+            {
+              "name": "inability to lose weight",
+              "labelcui": "10049084",
+              "label": 0
+            },
+            {
+              "name": "weight decreased",
+              "labelcui": "10047895",
+              "label": 1
+            },
+            {
+              "name": "abnormal loss of weight",
+              "labelcui": "10000159",
+              "label": 0
+            },
+            {
+              "name": "weight loss poor",
+              "labelcui": "10049084",
+              "label": 0
+            },
+            {
+              "name": "unintentional weight loss",
+              "labelcui": "10000159",
+              "label": 0
+            },
+            {
+              "name": "failure to reduce weight",
+              "labelcui": "10049084",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "withdrawal",
+          "golden_cui": "10048010",
+          "candidates": [
+            {
+              "name": "withdrawal syndrome",
+              "labelcui": "10048010",
+              "label": 1
+            },
+            {
+              "name": "syndrome withdrawal",
+              "labelcui": "10048010",
+              "label": 1
+            },
+            {
+              "name": "withdrawal symptom",
+              "labelcui": "10048010",
+              "label": 1
+            },
+            {
+              "name": "withdrawal reaction",
+              "labelcui": "10048010",
+              "label": 1
+            },
+            {
+              "name": "withdrawn",
+              "labelcui": "10041243",
+              "label": 0
+            },
+            {
+              "name": "adjustment reaction with withdrawal",
+              "labelcui": "10061621",
+              "label": 0
+            },
+            {
+              "name": "withdrawal psychosis",
+              "labelcui": "10074833",
+              "label": 0
+            },
+            {
+              "name": "withdrawal emotional",
+              "labelcui": "10014557",
+              "label": 0
+            },
+            {
+              "name": "emotional withdrawal",
+              "labelcui": "10014557",
+              "label": 0
+            },
+            {
+              "name": "treatment withdrawal",
+              "labelcui": "10065154",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "twitching",
+          "golden_cui": "10028347",
+          "candidates": [
+            {
+              "name": "twitching",
+              "labelcui": "10028347",
+              "label": 1
+            },
+            {
+              "name": "twitches",
+              "labelcui": "10028347",
+              "label": 1
+            },
+            {
+              "name": "muscle twitching",
+              "labelcui": "10028347",
+              "label": 1
+            },
+            {
+              "name": "muscle twitch",
+              "labelcui": "10028347",
+              "label": 1
+            },
+            {
+              "name": "twitching of limbs",
+              "labelcui": "10028347",
+              "label": 1
+            },
+            {
+              "name": "twitching flexor",
+              "labelcui": "10028347",
+              "label": 1
+            },
+            {
+              "name": "twitch skeletal muscle",
+              "labelcui": "10028347",
+              "label": 1
+            },
+            {
+              "name": "trousseau's twitching",
+              "labelcui": "10071284",
+              "label": 0
+            },
+            {
+              "name": "twitching facial",
+              "labelcui": "10028347",
+              "label": 1
+            },
+            {
+              "name": "twitching of neck and face",
+              "labelcui": "10028347",
+              "label": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "barely better than placebo",
+          "golden_cui": "10013709",
+          "candidates": [
+            {
+              "name": "efficacy none",
+              "labelcui": "10013709",
+              "label": 1
+            },
+            {
+              "name": "not as effective",
+              "labelcui": "10043414",
+              "label": 0
+            },
+            {
+              "name": "therapeutic product effect decreased",
+              "labelcui": "10082201",
+              "label": 0
+            },
+            {
+              "name": "unusual failure in efficacy",
+              "labelcui": "10060769",
+              "label": 0
+            },
+            {
+              "name": "efficacy lack of",
+              "labelcui": "10013709",
+              "label": 1
+            },
+            {
+              "name": "efficacy, lack of",
+              "labelcui": "10013709",
+              "label": 1
+            },
+            {
+              "name": "therapy non-responder",
+              "labelcui": "10051082",
+              "label": 0
+            },
+            {
+              "name": "unexpected therapeutic benefit",
+              "labelcui": "10043417",
+              "label": 0
+            },
+            {
+              "name": "unevaluable therapy",
+              "labelcui": "10077754",
+              "label": 0
+            },
+            {
+              "name": "unexpected benefit",
+              "labelcui": "10043417",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "not sleeping",
+          "golden_cui": "10022437",
+          "candidates": [
+            {
+              "name": "insomnia nos",
+              "labelcui": "10022437",
+              "label": 1
+            },
+            {
+              "name": "insomnia",
+              "labelcui": "10022437",
+              "label": 1
+            },
+            {
+              "name": "insomnia disorder",
+              "labelcui": "10022437",
+              "label": 1
+            },
+            {
+              "name": "insomnia (non-organic)",
+              "labelcui": "10022437",
+              "label": 1
+            },
+            {
+              "name": "difficulty sleeping",
+              "labelcui": "10022437",
+              "label": 1
+            },
+            {
+              "name": "short term insomnia",
+              "labelcui": "10022437",
+              "label": 1
+            },
+            {
+              "name": "initial insomnia",
+              "labelcui": "10022035",
+              "label": 0
+            },
+            {
+              "name": "sleep loss",
+              "labelcui": "10022437",
+              "label": 1
+            },
+            {
+              "name": "chronic insomnia",
+              "labelcui": "10022437",
+              "label": 1
+            },
+            {
+              "name": "terminal insomnia",
+              "labelcui": "10068932",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "two inches of my spine hurts like hell",
+          "golden_cui": "10003988",
+          "candidates": [
+            {
+              "name": "kissing spine",
+              "labelcui": "10078014",
+              "label": 0
+            },
+            {
+              "name": "lumbodynia",
+              "labelcui": "10003988",
+              "label": 1
+            },
+            {
+              "name": "kyphosis, post laminectomy",
+              "labelcui": "10056490",
+              "label": 0
+            },
+            {
+              "name": "bent spine syndrome",
+              "labelcui": "10069646",
+              "label": 0
+            },
+            {
+              "name": "lordosis, post laminectomy",
+              "labelcui": "10024846",
+              "label": 0
+            },
+            {
+              "name": "kyphosis (acquired) (postural)",
+              "labelcui": "10023509",
+              "label": 0
+            },
+            {
+              "name": "kyphosis (acquired)",
+              "labelcui": "10023509",
+              "label": 0
+            },
+            {
+              "name": "lordosis (acquired)",
+              "labelcui": "10024842",
+              "label": 0
+            },
+            {
+              "name": "lumbar hyperlordosis",
+              "labelcui": "10024842",
+              "label": 0
+            },
+            {
+              "name": "spinal stabilization",
+              "labelcui": "10088626",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "panic attacks",
+          "golden_cui": "10033664",
+          "candidates": [
+            {
+              "name": "panic attacks",
+              "labelcui": "10033664",
+              "label": 1
+            },
+            {
+              "name": "panic attack",
+              "labelcui": "10033664",
+              "label": 1
+            },
+            {
+              "name": "panic disorder",
+              "labelcui": "10033666",
+              "label": 0
+            },
+            {
+              "name": "panic disorder nos",
+              "labelcui": "10033666",
+              "label": 0
+            },
+            {
+              "name": "panic reaction",
+              "labelcui": "10033670",
+              "label": 0
+            },
+            {
+              "name": "agoraphobia with panic attacks",
+              "labelcui": "10033666",
+              "label": 0
+            },
+            {
+              "name": "reaction panic",
+              "labelcui": "10033670",
+              "label": 0
+            },
+            {
+              "name": "panic disorder without agoraphobia",
+              "labelcui": "10033666",
+              "label": 0
+            },
+            {
+              "name": "panic disorder with agoraphobia",
+              "labelcui": "10033666",
+              "label": 0
+            },
+            {
+              "name": "limited symptom panic attack",
+              "labelcui": "10024511",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "cramps",
+          "golden_cui": "10028334",
+          "candidates": [
+            {
+              "name": "cramps",
+              "labelcui": "10028334",
+              "label": 1
+            },
+            {
+              "name": "cramp",
+              "labelcui": "10028334",
+              "label": 1
+            },
+            {
+              "name": "muscle cramps",
+              "labelcui": "10028334",
+              "label": 1
+            },
+            {
+              "name": "muscle cramp",
+              "labelcui": "10028334",
+              "label": 1
+            },
+            {
+              "name": "cramps of extremities",
+              "labelcui": "10028334",
+              "label": 1
+            },
+            {
+              "name": "cramp muscle",
+              "labelcui": "10028334",
+              "label": 1
+            },
+            {
+              "name": "cramps in legs",
+              "labelcui": "10028334",
+              "label": 1
+            },
+            {
+              "name": "cramp of limb",
+              "labelcui": "10028334",
+              "label": 1
+            },
+            {
+              "name": "abdominal cramp",
+              "labelcui": "10000081",
+              "label": 0
+            },
+            {
+              "name": "bowel cramps",
+              "labelcui": "10017999",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "didn't sleep for a week or eat or be nice",
+          "golden_cui": "10034721",
+          "candidates": [
+            {
+              "name": "decreased appetite",
+              "labelcui": "10061428",
+              "label": 0
+            },
+            {
+              "name": "appetite decreased nos",
+              "labelcui": "10061428",
+              "label": 0
+            },
+            {
+              "name": "appetite impaired",
+              "labelcui": "10061428",
+              "label": 0
+            },
+            {
+              "name": "diet failure",
+              "labelcui": "10075213",
+              "label": 0
+            },
+            {
+              "name": "appetite absent",
+              "labelcui": "10061428",
+              "label": 0
+            },
+            {
+              "name": "markedly reduced dietary intake",
+              "labelcui": "10063743",
+              "label": 0
+            },
+            {
+              "name": "diet refusal",
+              "labelcui": "10012775",
+              "label": 0
+            },
+            {
+              "name": "unable to eat",
+              "labelcui": "10061148",
+              "label": 0
+            },
+            {
+              "name": "lack of satiety",
+              "labelcui": "10064720",
+              "label": 0
+            },
+            {
+              "name": "markedly reduced food intake",
+              "labelcui": "10063743",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "hangover",
+          "golden_cui": "10019133",
+          "candidates": [
+            {
+              "name": "hangover",
+              "labelcui": "10019133",
+              "label": 1
+            },
+            {
+              "name": "hangover effect",
+              "labelcui": "10019133",
+              "label": 1
+            },
+            {
+              "name": "hangover (excl alcohol)",
+              "labelcui": "10019133",
+              "label": 1
+            },
+            {
+              "name": "hangover alcoholic",
+              "labelcui": "10001623",
+              "label": 0
+            },
+            {
+              "name": "alcoholic hangover",
+              "labelcui": "10001623",
+              "label": 0
+            },
+            {
+              "name": "hangnail",
+              "labelcui": "10058109",
+              "label": 0
+            },
+            {
+              "name": "pill hangover",
+              "labelcui": "10019133",
+              "label": 1
+            },
+            {
+              "name": "hanging",
+              "labelcui": "10081101",
+              "label": 0
+            },
+            {
+              "name": "elder abuser",
+              "labelcui": "10014347",
+              "label": 0
+            },
+            {
+              "name": "elder abuse",
+              "labelcui": "10014347",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "are n't i tired",
+          "golden_cui": "10016256",
+          "candidates": [
+            {
+              "name": "tired all the time",
+              "labelcui": "10016256",
+              "label": 1
+            },
+            {
+              "name": "tired out",
+              "labelcui": "10016256",
+              "label": 1
+            },
+            {
+              "name": "tiredness",
+              "labelcui": "10016256",
+              "label": 1
+            },
+            {
+              "name": "fatigue",
+              "labelcui": "10016256",
+              "label": 1
+            },
+            {
+              "name": "tired and heavy",
+              "labelcui": "10016256",
+              "label": 1
+            },
+            {
+              "name": "mental fatigue",
+              "labelcui": "10076757",
+              "label": 0
+            },
+            {
+              "name": "battle fatigue",
+              "labelcui": "10036316",
+              "label": 0
+            },
+            {
+              "name": "muscle fatigue",
+              "labelcui": "10049565",
+              "label": 0
+            },
+            {
+              "name": "exhaustion",
+              "labelcui": "10016256",
+              "label": 1
+            },
+            {
+              "name": "chronic fatigue",
+              "labelcui": "10016256",
+              "label": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "insomnia",
+          "golden_cui": "10022437",
+          "candidates": [
+            {
+              "name": "insomnia",
+              "labelcui": "10022437",
+              "label": 1
+            },
+            {
+              "name": "insomnia nos",
+              "labelcui": "10022437",
+              "label": 1
+            },
+            {
+              "name": "insomnia disorder",
+              "labelcui": "10022437",
+              "label": 1
+            },
+            {
+              "name": "insomnia (non-organic)",
+              "labelcui": "10022437",
+              "label": 1
+            },
+            {
+              "name": "initial insomnia",
+              "labelcui": "10022035",
+              "label": 0
+            },
+            {
+              "name": "terminal insomnia",
+              "labelcui": "10068932",
+              "label": 0
+            },
+            {
+              "name": "psychophysiologic insomnia",
+              "labelcui": "10082004",
+              "label": 0
+            },
+            {
+              "name": "chronic insomnia",
+              "labelcui": "10022437",
+              "label": 1
+            },
+            {
+              "name": "short term insomnia",
+              "labelcui": "10022437",
+              "label": 1
+            },
+            {
+              "name": "primary insomnia",
+              "labelcui": "10022437",
+              "label": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "tired",
+          "golden_cui": "10016256",
+          "candidates": [
+            {
+              "name": "tired all the time",
+              "labelcui": "10016256",
+              "label": 1
+            },
+            {
+              "name": "tiredness",
+              "labelcui": "10016256",
+              "label": 1
+            },
+            {
+              "name": "tired out",
+              "labelcui": "10016256",
+              "label": 1
+            },
+            {
+              "name": "fatigue",
+              "labelcui": "10016256",
+              "label": 1
+            },
+            {
+              "name": "tired and heavy",
+              "labelcui": "10016256",
+              "label": 1
+            },
+            {
+              "name": "mental fatigue",
+              "labelcui": "10076757",
+              "label": 0
+            },
+            {
+              "name": "battle fatigue",
+              "labelcui": "10036316",
+              "label": 0
+            },
+            {
+              "name": "fatigue extreme",
+              "labelcui": "10016256",
+              "label": 1
+            },
+            {
+              "name": "muscle fatigue",
+              "labelcui": "10049565",
+              "label": 0
+            },
+            {
+              "name": "exhaustion",
+              "labelcui": "10016256",
+              "label": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "headache",
+          "golden_cui": "10019211",
+          "candidates": [
+            {
+              "name": "headache",
+              "labelcui": "10019211",
+              "label": 1
+            },
+            {
+              "name": "headache nos",
+              "labelcui": "10019211",
+              "label": 1
+            },
+            {
+              "name": "headache occurring",
+              "labelcui": "10019211",
+              "label": 1
+            },
+            {
+              "name": "headache discomfort",
+              "labelcui": "10019211",
+              "label": 1
+            },
+            {
+              "name": "nummular headache",
+              "labelcui": "10019211",
+              "label": 1
+            },
+            {
+              "name": "headache, lumbar puncture",
+              "labelcui": "10060854",
+              "label": 0
+            },
+            {
+              "name": "lumbar puncture headache",
+              "labelcui": "10060854",
+              "label": 0
+            },
+            {
+              "name": "headache fullness",
+              "labelcui": "10019211",
+              "label": 1
+            },
+            {
+              "name": "psychogenic headache",
+              "labelcui": "10043269",
+              "label": 0
+            },
+            {
+              "name": "frequent headaches",
+              "labelcui": "10019211",
+              "label": 1
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "acc1": 0.8,
+  "acc2": 0.83,
+  "acc3": 0.87,
+  "acc4": 0.88,
+  "acc5": 0.88,
+  "acc6": 0.89,
+  "acc7": 0.9,
+  "acc8": 0.91,
+  "acc9": 0.91,
+  "acc10": 0.91
+}

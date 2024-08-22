@@ -1,0 +1,6014 @@
+{
+  "queries": [
+    {
+      "mentions": [
+        {
+          "mention": "vigabatrin",
+          "golden_cui": "D020888",
+          "candidates": [
+            {
+              "name": "vigilon",
+              "labelcui": "C000595125",
+              "label": 0
+            },
+            {
+              "name": "mv gaba",
+              "labelcui": "C052852",
+              "label": 0
+            },
+            {
+              "name": "vigulariol",
+              "labelcui": "C517746",
+              "label": 0
+            },
+            {
+              "name": "mesylate gabexate",
+              "labelcui": "D016670",
+              "label": 0
+            },
+            {
+              "name": "gabaculine",
+              "labelcui": "C012987",
+              "label": 0
+            },
+            {
+              "name": "vigconic vi 28",
+              "labelcui": "C492949",
+              "label": 0
+            },
+            {
+              "name": "gaba glu",
+              "labelcui": "C088077",
+              "label": 0
+            },
+            {
+              "name": "3 methyl gabapentin",
+              "labelcui": "C420103",
+              "label": 0
+            },
+            {
+              "name": "gaba stearamide",
+              "labelcui": "C046380",
+              "label": 0
+            },
+            {
+              "name": "gaba palmitamide",
+              "labelcui": "C046381",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "haloperidol",
+          "golden_cui": "D006220",
+          "candidates": [
+            {
+              "name": "sila haloperidol",
+              "labelcui": "C547832",
+              "label": 0
+            },
+            {
+              "name": "haloperidol hemisuccinate",
+              "labelcui": "C049001",
+              "label": 0
+            },
+            {
+              "name": "thioketal haloperidol",
+              "labelcui": "C094606",
+              "label": 0
+            },
+            {
+              "name": "haldol",
+              "labelcui": "D006220",
+              "label": 1
+            },
+            {
+              "name": "haloperidol decanoate",
+              "labelcui": "C033563",
+              "label": 0
+            },
+            {
+              "name": "n n butyl haloperidol iodide",
+              "labelcui": "C482574",
+              "label": 0
+            },
+            {
+              "name": "halidor",
+              "labelcui": "D001537",
+              "label": 0
+            },
+            {
+              "name": "haloperidol 4 azidobenzoate",
+              "labelcui": "C057173",
+              "label": 0
+            },
+            {
+              "name": "n 4 tert butylbenzyl haloperidol",
+              "labelcui": "C542462",
+              "label": 0
+            },
+            {
+              "name": "halazepam",
+              "labelcui": "C010175",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "stroke",
+          "golden_cui": "D020521",
+          "candidates": [
+            {
+              "name": "acute stroke",
+              "labelcui": "D020521",
+              "label": 1
+            },
+            {
+              "name": "infarctions",
+              "labelcui": "D007238",
+              "label": 0
+            },
+            {
+              "name": "infarction cerebral",
+              "labelcui": "D002544",
+              "label": 0
+            },
+            {
+              "name": "stroke posterior cerebral artery",
+              "labelcui": "D020762",
+              "label": 0
+            },
+            {
+              "name": "rehabilitation stroke",
+              "labelcui": "D000071939",
+              "label": 0
+            },
+            {
+              "name": "sun strokes",
+              "labelcui": "D013474",
+              "label": 0
+            },
+            {
+              "name": "infarcts myocardial",
+              "labelcui": "D009203",
+              "label": 0
+            },
+            {
+              "name": "anterior spinal artery stroke",
+              "labelcui": "C537776",
+              "label": 0
+            },
+            {
+              "name": "stroke lightning",
+              "labelcui": "D015168",
+              "label": 0
+            },
+            {
+              "name": "infarctions lacunar",
+              "labelcui": "D059409",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "methadone",
+          "golden_cui": "D008691",
+          "candidates": [
+            {
+              "name": "o n didesmethyltramadol",
+              "labelcui": "C527977",
+              "label": 0
+            },
+            {
+              "name": "diamorphine",
+              "labelcui": "D003932",
+              "label": 0
+            },
+            {
+              "name": "metadoxyl",
+              "labelcui": "C037845",
+              "label": 0
+            },
+            {
+              "name": "metadrenaline",
+              "labelcui": "D008676",
+              "label": 0
+            },
+            {
+              "name": "desmethylanethol dithiolthione",
+              "labelcui": "C040976",
+              "label": 0
+            },
+            {
+              "name": "dmmpm",
+              "labelcui": "C064731",
+              "label": 0
+            },
+            {
+              "name": "monodesmethyldiphenhydramine",
+              "labelcui": "C050322",
+              "label": 0
+            },
+            {
+              "name": "methiadene",
+              "labelcui": "C036722",
+              "label": 0
+            },
+            {
+              "name": "10 11 didehydroepothilone d",
+              "labelcui": "C465909",
+              "label": 0
+            },
+            {
+              "name": "methyl tmdd",
+              "labelcui": "C101367",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "protamine sulfate",
+          "golden_cui": "D011479",
+          "candidates": [
+            {
+              "name": "protamine sulfate",
+              "labelcui": "D011479",
+              "label": 1
+            },
+            {
+              "name": "protamine st1",
+              "labelcui": "C052908",
+              "label": 0
+            },
+            {
+              "name": "sulfate cystamine",
+              "labelcui": "D003538",
+              "label": 0
+            },
+            {
+              "name": "tyramine o sulfate",
+              "labelcui": "C027957",
+              "label": 0
+            },
+            {
+              "name": "ethanolamine o sulfate",
+              "labelcui": "C020619",
+              "label": 0
+            },
+            {
+              "name": "aminopentamide sulfate",
+              "labelcui": "C012725",
+              "label": 0
+            },
+            {
+              "name": "4 5 6 triaminopyrimidine sulfate",
+              "labelcui": "C062565",
+              "label": 0
+            },
+            {
+              "name": "2 6 diaminopurine sulfate",
+              "labelcui": "C007300",
+              "label": 0
+            },
+            {
+              "name": "peptidochondroitin sulfate",
+              "labelcui": "C062473",
+              "label": 0
+            },
+            {
+              "name": "serine o sulfate",
+              "labelcui": "C036040",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "cerebral ischemic infarction",
+          "golden_cui": "D002544",
+          "candidates": [
+            {
+              "name": "infarction cerebral",
+              "labelcui": "D002544",
+              "label": 1
+            },
+            {
+              "name": "infarcts myocardial",
+              "labelcui": "D009203",
+              "label": 0
+            },
+            {
+              "name": "ischemia brain",
+              "labelcui": "D002545",
+              "label": 0
+            },
+            {
+              "name": "heubners artery infarct",
+              "labelcui": "D020243",
+              "label": 0
+            },
+            {
+              "name": "infarctions lacunar",
+              "labelcui": "D059409",
+              "label": 0
+            },
+            {
+              "name": "cerebral artery disease",
+              "labelcui": "D002539",
+              "label": 0
+            },
+            {
+              "name": "infarctions",
+              "labelcui": "D007238",
+              "label": 0
+            },
+            {
+              "name": "stroke posterior cerebral artery",
+              "labelcui": "D020762",
+              "label": 0
+            },
+            {
+              "name": "middle cerebral artery",
+              "labelcui": "D020768",
+              "label": 0
+            },
+            {
+              "name": "posterior circulation infarction brain",
+              "labelcui": "D020520",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "accelerated junctional rhythms",
+          "golden_cui": "D001145",
+          "candidates": [
+            {
+              "name": "tachycardias junctional ectopic",
+              "labelcui": "D013613",
+              "label": 0
+            },
+            {
+              "name": "alpha rhythms",
+              "labelcui": "D000513",
+              "label": 0
+            },
+            {
+              "name": "pre excitation mahaim type",
+              "labelcui": "D011227",
+              "label": 0
+            },
+            {
+              "name": "pre excitation syndrome",
+              "labelcui": "D011226",
+              "label": 0
+            },
+            {
+              "name": "ultradian rhythm",
+              "labelcui": "D000071218",
+              "label": 0
+            },
+            {
+              "name": "gamma rhythm",
+              "labelcui": "D065818",
+              "label": 0
+            },
+            {
+              "name": "long qt syndrome",
+              "labelcui": "D008133",
+              "label": 0
+            },
+            {
+              "name": "reciprocal tachycardias",
+              "labelcui": "D054139",
+              "label": 0
+            },
+            {
+              "name": "atrial tachycardias ectopic",
+              "labelcui": "D013612",
+              "label": 0
+            },
+            {
+              "name": "rhythms delta",
+              "labelcui": "D003700",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "toxicity",
+          "golden_cui": "D064420",
+          "candidates": [
+            {
+              "name": "drug side effects",
+              "labelcui": "D064420",
+              "label": 1
+            },
+            {
+              "name": "poisoning",
+              "labelcui": "D011041",
+              "label": 0
+            },
+            {
+              "name": "adverse effects",
+              "labelcui": "Q000009",
+              "label": 0
+            },
+            {
+              "name": "phenomena toxicologic",
+              "labelcui": "D000069436",
+              "label": 0
+            },
+            {
+              "name": "poisons",
+              "labelcui": "D011042",
+              "label": 0
+            },
+            {
+              "name": "pharmacologic and toxicologic phenomena",
+              "labelcui": "D002620",
+              "label": 0
+            },
+            {
+              "name": "toxinology",
+              "labelcui": "D014116",
+              "label": 0
+            },
+            {
+              "name": "pharmacologic effects",
+              "labelcui": "Q000187",
+              "label": 0
+            },
+            {
+              "name": "biological toxins",
+              "labelcui": "D014118",
+              "label": 0
+            },
+            {
+              "name": "diseases",
+              "labelcui": "D004194",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "alternating sinus rhythm",
+          "golden_cui": "D001146",
+          "candidates": [
+            {
+              "name": "sinus arrhythmias",
+              "labelcui": "D001146",
+              "label": 1
+            },
+            {
+              "name": "respiratory sinus arrhythmia",
+              "labelcui": "D065809",
+              "label": 0
+            },
+            {
+              "name": "cardiac sinus pause",
+              "labelcui": "D054138",
+              "label": 0
+            },
+            {
+              "name": "sick sinus syndrome",
+              "labelcui": "D012804",
+              "label": 0
+            },
+            {
+              "name": "sinus bradycardia syndrome familial autosomal dominant",
+              "labelcui": "C563513",
+              "label": 0
+            },
+            {
+              "name": "atrial septal defect sinus venosus",
+              "labelcui": "C548009",
+              "label": 0
+            },
+            {
+              "name": "atrial tachyarrhythmia with short pr interval",
+              "labelcui": "C566237",
+              "label": 0
+            },
+            {
+              "name": "tachycardia sinus",
+              "labelcui": "D013616",
+              "label": 0
+            },
+            {
+              "name": "sick sinus syndrome 1 autosomal recessive",
+              "labelcui": "C563907",
+              "label": 0
+            },
+            {
+              "name": "atrial septal defect with atrioventricular conduction defects",
+              "labelcui": "C566238",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "lidocaine",
+          "golden_cui": "D008012",
+          "candidates": [
+            {
+              "name": "lidocaine monohydrochloride",
+              "labelcui": "D008012",
+              "label": 1
+            },
+            {
+              "name": "lidocaine ethiodide",
+              "labelcui": "C042385",
+              "label": 0
+            },
+            {
+              "name": "lidocaine iminodiacetic acid",
+              "labelcui": "C015321",
+              "label": 0
+            },
+            {
+              "name": "lidan",
+              "labelcui": "C531143",
+              "label": 0
+            },
+            {
+              "name": "lignocaine n oxide",
+              "labelcui": "C049290",
+              "label": 0
+            },
+            {
+              "name": "o 2 diethylaminoethyl 2 6 mandeloxylidide",
+              "labelcui": "C028606",
+              "label": 0
+            },
+            {
+              "name": "leocaine",
+              "labelcui": "C098919",
+              "label": 0
+            },
+            {
+              "name": "2 chloro n 2 6 diethylphenyl acetamide",
+              "labelcui": "C093872",
+              "label": 0
+            },
+            {
+              "name": "lidofenin",
+              "labelcui": "C049470",
+              "label": 0
+            },
+            {
+              "name": "n 2 diethylaminoethyl 2 6 mandeloxylidide",
+              "labelcui": "C028607",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "sodium bicarbonate",
+          "golden_cui": "D017693",
+          "candidates": [
+            {
+              "name": "sodium carbonate hydrate",
+              "labelcui": "C005686",
+              "label": 0
+            },
+            {
+              "name": "carbonic acid monosodium salt",
+              "labelcui": "D017693",
+              "label": 1
+            },
+            {
+              "name": "citric acid sodium bicarbonate",
+              "labelcui": "C031210",
+              "label": 0
+            },
+            {
+              "name": "potassium bicarbonate",
+              "labelcui": "C026329",
+              "label": 0
+            },
+            {
+              "name": "potassium carbonate sesquihydrate",
+              "labelcui": "C037593",
+              "label": 0
+            },
+            {
+              "name": "ammonium bicarbonate",
+              "labelcui": "C027043",
+              "label": 0
+            },
+            {
+              "name": "carbonic acid disilver 1 salt",
+              "labelcui": "C033260",
+              "label": 0
+            },
+            {
+              "name": "caustic soda",
+              "labelcui": "D012972",
+              "label": 0
+            },
+            {
+              "name": "lakes soda",
+              "labelcui": "D060106",
+              "label": 0
+            },
+            {
+              "name": "ethyl carbonate",
+              "labelcui": "C017858",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "mitomycin c",
+          "golden_cui": "D016685",
+          "candidates": [
+            {
+              "name": "mitomycin g",
+              "labelcui": "C101072",
+              "label": 0
+            },
+            {
+              "name": "mitomycins",
+              "labelcui": "D008937",
+              "label": 0
+            },
+            {
+              "name": "7 n mercaptoethyl mitomycin c",
+              "labelcui": "C118152",
+              "label": 0
+            },
+            {
+              "name": "mitomycin phosphate",
+              "labelcui": "C061399",
+              "label": 0
+            },
+            {
+              "name": "mitomycin c dna adduct",
+              "labelcui": "C056417",
+              "label": 0
+            },
+            {
+              "name": "mitomycin d 1as 1aalpha 8beta 8aalpha 8balpha isomer",
+              "labelcui": "C102065",
+              "label": 0
+            },
+            {
+              "name": "mitomycin a 1as 1aalpha 8alpha 8aalpha 8balpha isomer",
+              "labelcui": "C046000",
+              "label": 0
+            },
+            {
+              "name": "1a docosahexaenoyl mitomycin c",
+              "labelcui": "C114019",
+              "label": 0
+            },
+            {
+              "name": "7 n p hydroxyphenyl mitomycin c",
+              "labelcui": "C027281",
+              "label": 0
+            },
+            {
+              "name": "mitomycin c dextran",
+              "labelcui": "C042790",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "caffeine",
+          "golden_cui": "D002110",
+          "candidates": [
+            {
+              "name": "1 3 7 trimethylxanthine",
+              "labelcui": "D002110",
+              "label": 1
+            },
+            {
+              "name": "caffeine benzoate",
+              "labelcui": "C025741",
+              "label": 0
+            },
+            {
+              "name": "8 3 4 5 trimethoxystyryl caffeine",
+              "labelcui": "C009569",
+              "label": 0
+            },
+            {
+              "name": "cafilon",
+              "labelcui": "C012224",
+              "label": 0
+            },
+            {
+              "name": "caffeidine",
+              "labelcui": "C051079",
+              "label": 0
+            },
+            {
+              "name": "caffeine citrate",
+              "labelcui": "C026189",
+              "label": 0
+            },
+            {
+              "name": "caffea",
+              "labelcui": "D040503",
+              "label": 0
+            },
+            {
+              "name": "7 methylxanthine",
+              "labelcui": "C064273",
+              "label": 0
+            },
+            {
+              "name": "caffeinol",
+              "labelcui": "C503306",
+              "label": 0
+            },
+            {
+              "name": "convergine",
+              "labelcui": "C520394",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "acetic acid",
+          "golden_cui": "D019342",
+          "candidates": [
+            {
+              "name": "glacial acetic acid",
+              "labelcui": "D019342",
+              "label": 1
+            },
+            {
+              "name": "acetic anhydrides",
+              "labelcui": "D000089",
+              "label": 0
+            },
+            {
+              "name": "esters acetic acid",
+              "labelcui": "D000085",
+              "label": 0
+            },
+            {
+              "name": "odiq acetic acid",
+              "labelcui": "C475515",
+              "label": 0
+            },
+            {
+              "name": "ethyl acetate",
+              "labelcui": "C007650",
+              "label": 0
+            },
+            {
+              "name": "himh acetic acid",
+              "labelcui": "C424914",
+              "label": 0
+            },
+            {
+              "name": "aceturic acid",
+              "labelcui": "C006368",
+              "label": 0
+            },
+            {
+              "name": "acetylenedicarboxylic acid",
+              "labelcui": "C024060",
+              "label": 0
+            },
+            {
+              "name": "propanoic anhydride",
+              "labelcui": "C096126",
+              "label": 0
+            },
+            {
+              "name": "propionic acid",
+              "labelcui": "C029658",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "stroke",
+          "golden_cui": "D020521",
+          "candidates": [
+            {
+              "name": "acute stroke",
+              "labelcui": "D020521",
+              "label": 1
+            },
+            {
+              "name": "infarctions",
+              "labelcui": "D007238",
+              "label": 0
+            },
+            {
+              "name": "infarction cerebral",
+              "labelcui": "D002544",
+              "label": 0
+            },
+            {
+              "name": "stroke posterior cerebral artery",
+              "labelcui": "D020762",
+              "label": 0
+            },
+            {
+              "name": "rehabilitation stroke",
+              "labelcui": "D000071939",
+              "label": 0
+            },
+            {
+              "name": "sun strokes",
+              "labelcui": "D013474",
+              "label": 0
+            },
+            {
+              "name": "infarcts myocardial",
+              "labelcui": "D009203",
+              "label": 0
+            },
+            {
+              "name": "anterior spinal artery stroke",
+              "labelcui": "C537776",
+              "label": 0
+            },
+            {
+              "name": "stroke lightning",
+              "labelcui": "D015168",
+              "label": 0
+            },
+            {
+              "name": "infarctions lacunar",
+              "labelcui": "D059409",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "norepinephrine",
+          "golden_cui": "D009638",
+          "candidates": [
+            {
+              "name": "norepinephrinechrome",
+              "labelcui": "C405003",
+              "label": 0
+            },
+            {
+              "name": "norepinephrine glucuronide",
+              "labelcui": "C046910",
+              "label": 0
+            },
+            {
+              "name": "norepinephrine sulfate",
+              "labelcui": "C017574",
+              "label": 0
+            },
+            {
+              "name": "levarterenol",
+              "labelcui": "D009638",
+              "label": 1
+            },
+            {
+              "name": "epinodosinol",
+              "labelcui": "C065529",
+              "label": 0
+            },
+            {
+              "name": "aminomenthylnorepinephrine",
+              "labelcui": "C047506",
+              "label": 0
+            },
+            {
+              "name": "butanephrine",
+              "labelcui": "C004887",
+              "label": 0
+            },
+            {
+              "name": "norparanephrine",
+              "labelcui": "C002755",
+              "label": 0
+            },
+            {
+              "name": "methylnorepinephrine",
+              "labelcui": "D008771",
+              "label": 0
+            },
+            {
+              "name": "beta hydroxynorvaline",
+              "labelcui": "C010994",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "epinephrine",
+          "golden_cui": "D004837",
+          "candidates": [
+            {
+              "name": "epinemin",
+              "labelcui": "C039902",
+              "label": 0
+            },
+            {
+              "name": "epinectin",
+              "labelcui": "C042449",
+              "label": 0
+            },
+            {
+              "name": "epinephrinechrome",
+              "labelcui": "C405004",
+              "label": 0
+            },
+            {
+              "name": "adrenaline bitartrate",
+              "labelcui": "D004837",
+              "label": 1
+            },
+            {
+              "name": "epinephrine glucuronide",
+              "labelcui": "C046911",
+              "label": 0
+            },
+            {
+              "name": "r beta o methylsynephrine",
+              "labelcui": "C400713",
+              "label": 0
+            },
+            {
+              "name": "epimyrtine",
+              "labelcui": "C482086",
+              "label": 0
+            },
+            {
+              "name": "norparanephrine",
+              "labelcui": "C002755",
+              "label": 0
+            },
+            {
+              "name": "epinephrine sulfoconjugate",
+              "labelcui": "C036526",
+              "label": 0
+            },
+            {
+              "name": "methylnorepinephrine",
+              "labelcui": "D008771",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "hepatic impairment",
+          "golden_cui": "D008107",
+          "candidates": [
+            {
+              "name": "liver diseases",
+              "labelcui": "D008107",
+              "label": 1
+            },
+            {
+              "name": "insufficiency liver",
+              "labelcui": "D048550",
+              "label": 0
+            },
+            {
+              "name": "constitutional liver dysfunction",
+              "labelcui": "D005878",
+              "label": 0
+            },
+            {
+              "name": "liver dis alcoholic",
+              "labelcui": "D008108",
+              "label": 0
+            },
+            {
+              "name": "hepatic failure",
+              "labelcui": "D017093",
+              "label": 0
+            },
+            {
+              "name": "liver",
+              "labelcui": "D008099",
+              "label": 0
+            },
+            {
+              "name": "failure chronic liver",
+              "labelcui": "D058625",
+              "label": 0
+            },
+            {
+              "name": "tests liver function",
+              "labelcui": "D008111",
+              "label": 0
+            },
+            {
+              "name": "liver extracts",
+              "labelcui": "D008110",
+              "label": 0
+            },
+            {
+              "name": "hepatitides",
+              "labelcui": "D006505",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "cephalexin",
+          "golden_cui": "D002506",
+          "candidates": [
+            {
+              "name": "cephalexin monohydrate",
+              "labelcui": "D002506",
+              "label": 1
+            },
+            {
+              "name": "cephalexin pivaloxymethyl ester",
+              "labelcui": "C014253",
+              "label": 0
+            },
+            {
+              "name": "lysine cephalexin",
+              "labelcui": "C022152",
+              "label": 0
+            },
+            {
+              "name": "cephaloridin",
+              "labelcui": "D002509",
+              "label": 0
+            },
+            {
+              "name": "cephalocyclidin a",
+              "labelcui": "C459662",
+              "label": 0
+            },
+            {
+              "name": "cephalotaxine",
+              "labelcui": "C001597",
+              "label": 0
+            },
+            {
+              "name": "cephaloplastin reagent",
+              "labelcui": "C045602",
+              "label": 0
+            },
+            {
+              "name": "cephaloglycin",
+              "labelcui": "D002507",
+              "label": 0
+            },
+            {
+              "name": "neutrexin",
+              "labelcui": "C056321",
+              "label": 0
+            },
+            {
+              "name": "cephalexin synthesizing enzyme",
+              "labelcui": "C019862",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "phenylpropanolamine",
+          "golden_cui": "D010665",
+          "candidates": [
+            {
+              "name": "hydroxyphenylpropanolamine",
+              "labelcui": "C401902",
+              "label": 0
+            },
+            {
+              "name": "benzenepropanol alpha 1 methylethyl amino methyl gamma phenyl",
+              "labelcui": "C017275",
+              "label": 0
+            },
+            {
+              "name": "2 phenylpropanol 1 r isomer",
+              "labelcui": "C017622",
+              "label": 0
+            },
+            {
+              "name": "oxypropanolamine",
+              "labelcui": "C507551",
+              "label": 0
+            },
+            {
+              "name": "3 phenylpropanol 1",
+              "labelcui": "C016655",
+              "label": 0
+            },
+            {
+              "name": "ppaa",
+              "labelcui": "C045870",
+              "label": 0
+            },
+            {
+              "name": "triisopropanolamine",
+              "labelcui": "C056255",
+              "label": 0
+            },
+            {
+              "name": "hydrochloride phenylpropanolamine",
+              "labelcui": "D010665",
+              "label": 1
+            },
+            {
+              "name": "1 phenylpropanol",
+              "labelcui": "C439395",
+              "label": 0
+            },
+            {
+              "name": "phenylpropiolic acid",
+              "labelcui": "C019521",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "nitrite",
+          "golden_cui": "D009573",
+          "candidates": [
+            {
+              "name": "nitrites",
+              "labelcui": "D009573",
+              "label": 1
+            },
+            {
+              "name": "ethyl nitrite",
+              "labelcui": "C032712",
+              "label": 0
+            },
+            {
+              "name": "methyl nitrite",
+              "labelcui": "C037538",
+              "label": 0
+            },
+            {
+              "name": "sulfinyl nitrite",
+              "labelcui": "C569942",
+              "label": 0
+            },
+            {
+              "name": "potassium nitrite",
+              "labelcui": "C041349",
+              "label": 0
+            },
+            {
+              "name": "isobutyl nitrite",
+              "labelcui": "C018086",
+              "label": 0
+            },
+            {
+              "name": "nitric oxide",
+              "labelcui": "D009569",
+              "label": 0
+            },
+            {
+              "name": "no ion",
+              "labelcui": "C504137",
+              "label": 0
+            },
+            {
+              "name": "cyclohexyl nitrite",
+              "labelcui": "C110493",
+              "label": 0
+            },
+            {
+              "name": "acid nitric",
+              "labelcui": "D017942",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "ant mi",
+          "golden_cui": "D056988",
+          "candidates": [
+            {
+              "name": "ami mixture",
+              "labelcui": "C038592",
+              "label": 0
+            },
+            {
+              "name": "amtt",
+              "labelcui": "C054749",
+              "label": 0
+            },
+            {
+              "name": "amt cpd",
+              "labelcui": "C488155",
+              "label": 0
+            },
+            {
+              "name": "antx a",
+              "labelcui": "C509783",
+              "label": 0
+            },
+            {
+              "name": "amr me",
+              "labelcui": "C530744",
+              "label": 0
+            },
+            {
+              "name": "aacnm",
+              "labelcui": "C065474",
+              "label": 0
+            },
+            {
+              "name": "amtm compound",
+              "labelcui": "C000607600",
+              "label": 0
+            },
+            {
+              "name": "antaib cpd",
+              "labelcui": "C526778",
+              "label": 0
+            },
+            {
+              "name": "atam compound",
+              "labelcui": "C507036",
+              "label": 0
+            },
+            {
+              "name": "antmhspd",
+              "labelcui": "C529696",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "warfarin",
+          "golden_cui": "D014859",
+          "candidates": [
+            {
+              "name": "warfarin",
+              "labelcui": "D014859",
+              "label": 1
+            },
+            {
+              "name": "warfarin hexadecyl ether",
+              "labelcui": "C094088",
+              "label": 0
+            },
+            {
+              "name": "artoflavanocoumarin",
+              "labelcui": "C574105",
+              "label": 0
+            },
+            {
+              "name": "3 alpha acetonyl p chlorobenzyl 4 hydroxycoumarin",
+              "labelcui": "C412550",
+              "label": 0
+            },
+            {
+              "name": "licofuranocoumarin",
+              "labelcui": "C420346",
+              "label": 0
+            },
+            {
+              "name": "licopyranocoumarin",
+              "labelcui": "C063348",
+              "label": 0
+            },
+            {
+              "name": "6 allyl 8 5 allyl 2 hydroxyphenyl coumarin",
+              "labelcui": "C525792",
+              "label": 0
+            },
+            {
+              "name": "4 acetylisocoumarin",
+              "labelcui": "C091814",
+              "label": 0
+            },
+            {
+              "name": "isoepiphyllocoumarin",
+              "labelcui": "C585654",
+              "label": 0
+            },
+            {
+              "name": "8 hydroxy 3 4 hydroxypentyl 3 4 dihydroisocoumarin",
+              "labelcui": "C581276",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "hyperthyroidism",
+          "golden_cui": "D006980",
+          "candidates": [
+            {
+              "name": "primary hyperthyroidism",
+              "labelcui": "D006980",
+              "label": 1
+            },
+            {
+              "name": "thyrotoxicosis",
+              "labelcui": "D013971",
+              "label": 0
+            },
+            {
+              "name": "hyperthyroidism familial due to inappropriate thyrotropin secretion",
+              "labelcui": "C564154",
+              "label": 0
+            },
+            {
+              "name": "hyperthyroidism familial gestational",
+              "labelcui": "C566384",
+              "label": 0
+            },
+            {
+              "name": "hyperthyroxinemia",
+              "labelcui": "D006981",
+              "label": 0
+            },
+            {
+              "name": "thyroid crisis",
+              "labelcui": "D013958",
+              "label": 0
+            },
+            {
+              "name": "thyroid adenoma hyperfunctioning",
+              "labelcui": "C566386",
+              "label": 0
+            },
+            {
+              "name": "intrathoracic goiters",
+              "labelcui": "D006045",
+              "label": 0
+            },
+            {
+              "name": "hyperthyroxinemia eumetabolic due to t4 plasma membrane transport",
+              "labelcui": "C536916",
+              "label": 0
+            },
+            {
+              "name": "disease thyroid",
+              "labelcui": "D013959",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "myocardial damage",
+          "golden_cui": "D009202",
+          "candidates": [
+            {
+              "name": "cardiac toxicities",
+              "labelcui": "D066126",
+              "label": 0
+            },
+            {
+              "name": "diseases cardiac",
+              "labelcui": "D006331",
+              "label": 0
+            },
+            {
+              "name": "cardiomyopathies diabetic",
+              "labelcui": "D058065",
+              "label": 0
+            },
+            {
+              "name": "infarcts myocardial",
+              "labelcui": "D009203",
+              "label": 0
+            },
+            {
+              "name": "myocardial ischemias",
+              "labelcui": "D017202",
+              "label": 0
+            },
+            {
+              "name": "dilated cardiomyopathy",
+              "labelcui": "D002311",
+              "label": 0
+            },
+            {
+              "name": "disease cardiovascular",
+              "labelcui": "D002318",
+              "label": 0
+            },
+            {
+              "name": "ventricular dysfunction",
+              "labelcui": "D018754",
+              "label": 0
+            },
+            {
+              "name": "disease coronary heart",
+              "labelcui": "D003327",
+              "label": 0
+            },
+            {
+              "name": "cardiomyopathy primary",
+              "labelcui": "D009202",
+              "label": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "hypotension",
+          "golden_cui": "D007022",
+          "candidates": [
+            {
+              "name": "hypotension vascular",
+              "labelcui": "D007022",
+              "label": 1
+            },
+            {
+              "name": "hypotension postural",
+              "labelcui": "D007024",
+              "label": 0
+            },
+            {
+              "name": "hypotension controlled",
+              "labelcui": "D007023",
+              "label": 0
+            },
+            {
+              "name": "hypotensions post exercise",
+              "labelcui": "D057774",
+              "label": 0
+            },
+            {
+              "name": "ocular hypotension",
+              "labelcui": "D015814",
+              "label": 0
+            },
+            {
+              "name": "hypovolemia",
+              "labelcui": "D020896",
+              "label": 0
+            },
+            {
+              "name": "blood pressure venous",
+              "labelcui": "D014690",
+              "label": 0
+            },
+            {
+              "name": "shock hypovolemic",
+              "labelcui": "D012769",
+              "label": 0
+            },
+            {
+              "name": "shock hemorrhagic",
+              "labelcui": "D012771",
+              "label": 0
+            },
+            {
+              "name": "vasoconstriction",
+              "labelcui": "D014661",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "neutropenia",
+          "golden_cui": "D009503",
+          "candidates": [
+            {
+              "name": "neutropenias",
+              "labelcui": "D009503",
+              "label": 1
+            },
+            {
+              "name": "neutropenia malignant",
+              "labelcui": "C538171",
+              "label": 0
+            },
+            {
+              "name": "neutropenia febrile",
+              "labelcui": "D064147",
+              "label": 0
+            },
+            {
+              "name": "granulocytopenias",
+              "labelcui": "D000380",
+              "label": 0
+            },
+            {
+              "name": "neutropenia cyclic",
+              "labelcui": "C536227",
+              "label": 0
+            },
+            {
+              "name": "neutropenia chronic familial",
+              "labelcui": "C535815",
+              "label": 0
+            },
+            {
+              "name": "neutropenia nonimmune chronic idiopathic adult",
+              "labelcui": "C564320",
+              "label": 0
+            },
+            {
+              "name": "neutropenia severe congenital autosomal dominant 1",
+              "labelcui": "C565969",
+              "label": 0
+            },
+            {
+              "name": "neutropenia severe congenital x linked",
+              "labelcui": "C564539",
+              "label": 0
+            },
+            {
+              "name": "leukocytopenias",
+              "labelcui": "D007970",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "n 2 hydroxypropyl methacrylamide",
+          "golden_cui": "C032976",
+          "candidates": [
+            {
+              "name": "poly n 2 hydroxypropyl methacrylamide",
+              "labelcui": "C011533",
+              "label": 0
+            },
+            {
+              "name": "poly n 1 hydroxymethyl propylmethacrylamide",
+              "labelcui": "C499796",
+              "label": 0
+            },
+            {
+              "name": "n hydroxymethylacrylamide",
+              "labelcui": "C066443",
+              "label": 0
+            },
+            {
+              "name": "poly n 2 hydroxypropyl methacrylamide dilactate",
+              "labelcui": "C525969",
+              "label": 0
+            },
+            {
+              "name": "poly n 2 hydroxypropyl methacrylamide b n 3 dimethylamino propyl methacrylamide",
+              "labelcui": "C523539",
+              "label": 0
+            },
+            {
+              "name": "poly n 2 hydroxypropyl methacrylamide lactate",
+              "labelcui": "C509680",
+              "label": 0
+            },
+            {
+              "name": "hpma polymer",
+              "labelcui": "C032976",
+              "label": 1
+            },
+            {
+              "name": "hpma",
+              "labelcui": "C032802",
+              "label": 0
+            },
+            {
+              "name": "poly n isopropylacrylamide co n hydroxylmethylacrylamide",
+              "labelcui": "C483328",
+              "label": 0
+            },
+            {
+              "name": "n isopropyl n methacryloxyethyl methacrylamide",
+              "labelcui": "C425605",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "thrombocytopenia",
+          "golden_cui": "D013921",
+          "candidates": [
+            {
+              "name": "thrombocytopenia cyclic",
+              "labelcui": "C536899",
+              "label": 0
+            },
+            {
+              "name": "thrombocytopenia 1",
+              "labelcui": "C564052",
+              "label": 0
+            },
+            {
+              "name": "thrombocythemia",
+              "labelcui": "D013922",
+              "label": 0
+            },
+            {
+              "name": "thrombopenias",
+              "labelcui": "D013921",
+              "label": 1
+            },
+            {
+              "name": "immune thrombocytopenias",
+              "labelcui": "D016553",
+              "label": 0
+            },
+            {
+              "name": "thrombocytopenia 2",
+              "labelcui": "C536519",
+              "label": 0
+            },
+            {
+              "name": "thrombocytopenia paris trousseau type",
+              "labelcui": "C538617",
+              "label": 0
+            },
+            {
+              "name": "hemorrhagic thrombocythemias",
+              "labelcui": "D013920",
+              "label": 0
+            },
+            {
+              "name": "giant platelet syndrome with thrombocytopenia",
+              "labelcui": "C564237",
+              "label": 0
+            },
+            {
+              "name": "thrombocytopenic purpura",
+              "labelcui": "D011696",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "binasal visual field defects",
+          "golden_cui": "D014786",
+          "candidates": [
+            {
+              "name": "binoculars",
+              "labelcui": "D061351",
+              "label": 0
+            },
+            {
+              "name": "binocular vision",
+              "labelcui": "D015348",
+              "label": 0
+            },
+            {
+              "name": "horizontal diplopias",
+              "labelcui": "D004172",
+              "label": 0
+            },
+            {
+              "name": "rodrigues blindness",
+              "labelcui": "C535865",
+              "label": 0
+            },
+            {
+              "name": "word blindness pure",
+              "labelcui": "D020237",
+              "label": 0
+            },
+            {
+              "name": "flicker fusions",
+              "labelcui": "D005425",
+              "label": 0
+            },
+            {
+              "name": "reversible cortical blindnesses",
+              "labelcui": "D019575",
+              "label": 0
+            },
+            {
+              "name": "hemianopias altidudinal",
+              "labelcui": "D006423",
+              "label": 0
+            },
+            {
+              "name": "ectopia lentis spontaneous filtering blebs and craniofacial dysmorphism",
+              "labelcui": "C563293",
+              "label": 0
+            },
+            {
+              "name": "monocular blindness transient",
+              "labelcui": "D020757",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "lithium",
+          "golden_cui": "D008094",
+          "candidates": [
+            {
+              "name": "lithium",
+              "labelcui": "D008094",
+              "label": 1
+            },
+            {
+              "name": "lithium citrate",
+              "labelcui": "C070669",
+              "label": 0
+            },
+            {
+              "name": "lithium hydroxide",
+              "labelcui": "C028467",
+              "label": 0
+            },
+            {
+              "name": "lithium compounds",
+              "labelcui": "D018020",
+              "label": 0
+            },
+            {
+              "name": "bicarbonate lithium",
+              "labelcui": "D016651",
+              "label": 0
+            },
+            {
+              "name": "lithium succinate",
+              "labelcui": "C038377",
+              "label": 0
+            },
+            {
+              "name": "lithium chloride licl",
+              "labelcui": "D018021",
+              "label": 0
+            },
+            {
+              "name": "lithium hypochlorite",
+              "labelcui": "C066876",
+              "label": 0
+            },
+            {
+              "name": "lithium acetate",
+              "labelcui": "C488804",
+              "label": 0
+            },
+            {
+              "name": "phenylethynyl lithium",
+              "labelcui": "C528990",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "breast cancer",
+          "golden_cui": "D001943",
+          "candidates": [
+            {
+              "name": "male breast cancer",
+              "labelcui": "D018567",
+              "label": 0
+            },
+            {
+              "name": "breast cancer familial",
+              "labelcui": "C562840",
+              "label": 0
+            },
+            {
+              "name": "breast",
+              "labelcui": "D001940",
+              "label": 0
+            },
+            {
+              "name": "breast disease",
+              "labelcui": "D001941",
+              "label": 0
+            },
+            {
+              "name": "mammary neoplasm",
+              "labelcui": "D015674",
+              "label": 0
+            },
+            {
+              "name": "human mammary neoplasms",
+              "labelcui": "D001943",
+              "label": 1
+            },
+            {
+              "name": "breast cancer familial male",
+              "labelcui": "C566178",
+              "label": 0
+            },
+            {
+              "name": "mammary ductal carcinomas",
+              "labelcui": "D018270",
+              "label": 0
+            },
+            {
+              "name": "breast cancer 3",
+              "labelcui": "C565336",
+              "label": 0
+            },
+            {
+              "name": "breast cancers unilateral",
+              "labelcui": "D000069584",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "tranexamic acid",
+          "golden_cui": "D014148",
+          "candidates": [
+            {
+              "name": "amca",
+              "labelcui": "D014148",
+              "label": 1
+            },
+            {
+              "name": "3 acetyltetramic acid",
+              "labelcui": "C066006",
+              "label": 0
+            },
+            {
+              "name": "cyclamic acid",
+              "labelcui": "D003494",
+              "label": 0
+            },
+            {
+              "name": "n benzoylglutamic acid",
+              "labelcui": "C000591740",
+              "label": 0
+            },
+            {
+              "name": "maleamic acid",
+              "labelcui": "C008311",
+              "label": 0
+            },
+            {
+              "name": "terreic acid",
+              "labelcui": "C009400",
+              "label": 0
+            },
+            {
+              "name": "3 acetyl 5 iso butyltetramic acid",
+              "labelcui": "C546643",
+              "label": 0
+            },
+            {
+              "name": "n troponyloxamic acid",
+              "labelcui": "C022170",
+              "label": 0
+            },
+            {
+              "name": "thiirancarboxylic acid",
+              "labelcui": "C419887",
+              "label": 0
+            },
+            {
+              "name": "trans communic acid",
+              "labelcui": "C461919",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "testosterone",
+          "golden_cui": "D013739",
+          "candidates": [
+            {
+              "name": "1 testosterone",
+              "labelcui": "C520094",
+              "label": 0
+            },
+            {
+              "name": "hauck brand of testosterone",
+              "labelcui": "D013739",
+              "label": 1
+            },
+            {
+              "name": "4 androsten 3 one",
+              "labelcui": "C115050",
+              "label": 0
+            },
+            {
+              "name": "3 hydroxy 4 androsten 17 one",
+              "labelcui": "C047746",
+              "label": 0
+            },
+            {
+              "name": "androst 4 en 3 one 17 hydroxy 17alpha",
+              "labelcui": "D004845",
+              "label": 0
+            },
+            {
+              "name": "4 androsten 4 ol 3 17 dione",
+              "labelcui": "C488413",
+              "label": 0
+            },
+            {
+              "name": "hydroxytestosterones",
+              "labelcui": "D006915",
+              "label": 0
+            },
+            {
+              "name": "5beta androst 1 en 17beta ol 3 one",
+              "labelcui": "C551446",
+              "label": 0
+            },
+            {
+              "name": "androst 5 en 17 one",
+              "labelcui": "C097404",
+              "label": 0
+            },
+            {
+              "name": "androstan 17 one",
+              "labelcui": "C018454",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "depression",
+          "golden_cui": "D003866",
+          "candidates": [
+            {
+              "name": "emotional depressions",
+              "labelcui": "D003863",
+              "label": 0
+            },
+            {
+              "name": "depressions neurotic",
+              "labelcui": "D003866",
+              "label": 1
+            },
+            {
+              "name": "depression chemical",
+              "labelcui": "D003864",
+              "label": 0
+            },
+            {
+              "name": "long term depression physiologic",
+              "labelcui": "D036881",
+              "label": 0
+            },
+            {
+              "name": "depressan",
+              "labelcui": "D004078",
+              "label": 0
+            },
+            {
+              "name": "post natal depression",
+              "labelcui": "D019052",
+              "label": 0
+            },
+            {
+              "name": "major depressive disorder 1",
+              "labelcui": "C563919",
+              "label": 0
+            },
+            {
+              "name": "disorder dysthymic",
+              "labelcui": "D019263",
+              "label": 0
+            },
+            {
+              "name": "didemethylcitalopram",
+              "labelcui": "C514710",
+              "label": 0
+            },
+            {
+              "name": "affective dis",
+              "labelcui": "D019964",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "chronic renal failure",
+          "golden_cui": "D007676",
+          "candidates": [
+            {
+              "name": "chronic renal failure",
+              "labelcui": "D007676",
+              "label": 1
+            },
+            {
+              "name": "failure renal",
+              "labelcui": "D051437",
+              "label": 0
+            },
+            {
+              "name": "disease chronic kidney",
+              "labelcui": "D051436",
+              "label": 0
+            },
+            {
+              "name": "renal failure adult onset",
+              "labelcui": "C562889",
+              "label": 0
+            },
+            {
+              "name": "failure chronic liver",
+              "labelcui": "D058625",
+              "label": 0
+            },
+            {
+              "name": "myocardial failure",
+              "labelcui": "D006333",
+              "label": 0
+            },
+            {
+              "name": "renal failure and sensorineural hearing loss",
+              "labelcui": "C536586",
+              "label": 0
+            },
+            {
+              "name": "heart failures diastolic",
+              "labelcui": "D054144",
+              "label": 0
+            },
+            {
+              "name": "elder frail",
+              "labelcui": "D016330",
+              "label": 0
+            },
+            {
+              "name": "capacity functional residual",
+              "labelcui": "D005652",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "mastodynia",
+          "golden_cui": "D059373",
+          "candidates": [
+            {
+              "name": "dyspareunia",
+              "labelcui": "D004414",
+              "label": 0
+            },
+            {
+              "name": "mastoiditides",
+              "labelcui": "D008417",
+              "label": 0
+            },
+            {
+              "name": "masturbation",
+              "labelcui": "D008418",
+              "label": 0
+            },
+            {
+              "name": "mastitis",
+              "labelcui": "D008413",
+              "label": 0
+            },
+            {
+              "name": "mastodynon",
+              "labelcui": "C012413",
+              "label": 0
+            },
+            {
+              "name": "paget s disease of the breast",
+              "labelcui": "D010144",
+              "label": 0
+            },
+            {
+              "name": "plegias",
+              "labelcui": "D010243",
+              "label": 0
+            },
+            {
+              "name": "mammea",
+              "labelcui": "D031252",
+              "label": 0
+            },
+            {
+              "name": "facial pain",
+              "labelcui": "D005157",
+              "label": 0
+            },
+            {
+              "name": "vulvitis",
+              "labelcui": "D014847",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "learning",
+          "golden_cui": "D007859",
+          "candidates": [
+            {
+              "name": "instrum learning",
+              "labelcui": "D003216",
+              "label": 0
+            },
+            {
+              "name": "learnings association",
+              "labelcui": "D001245",
+              "label": 0
+            },
+            {
+              "name": "learning social",
+              "labelcui": "D000067570",
+              "label": 0
+            },
+            {
+              "name": "educational activity",
+              "labelcui": "D004493",
+              "label": 0
+            },
+            {
+              "name": "verbal learning",
+              "labelcui": "D014706",
+              "label": 0
+            },
+            {
+              "name": "learning curves",
+              "labelcui": "D059032",
+              "label": 0
+            },
+            {
+              "name": "learning interactive",
+              "labelcui": "D000066908",
+              "label": 0
+            },
+            {
+              "name": "spatial learning",
+              "labelcui": "D065853",
+              "label": 0
+            },
+            {
+              "name": "material teaching",
+              "labelcui": "D013664",
+              "label": 0
+            },
+            {
+              "name": "disorder specific learning",
+              "labelcui": "D000067559",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "hemorrhagic",
+          "golden_cui": "D020300",
+          "candidates": [
+            {
+              "name": "hemorrhagic disorders",
+              "labelcui": "D006474",
+              "label": 0
+            },
+            {
+              "name": "hemorrhages",
+              "labelcui": "D006470",
+              "label": 0
+            },
+            {
+              "name": "hematemeses",
+              "labelcui": "D006396",
+              "label": 0
+            },
+            {
+              "name": "hemorrhage surg",
+              "labelcui": "D016063",
+              "label": 0
+            },
+            {
+              "name": "hematomas",
+              "labelcui": "D006406",
+              "label": 0
+            },
+            {
+              "name": "hematurias",
+              "labelcui": "D006417",
+              "label": 0
+            },
+            {
+              "name": "hemorrhage oral",
+              "labelcui": "D006472",
+              "label": 0
+            },
+            {
+              "name": "septicaemia haemorrhagic",
+              "labelcui": "D006483",
+              "label": 0
+            },
+            {
+              "name": "hematide",
+              "labelcui": "C514771",
+              "label": 0
+            },
+            {
+              "name": "hemorrhage exsanguinating",
+              "labelcui": "D058734",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "bemegride",
+          "golden_cui": "D001534",
+          "candidates": [
+            {
+              "name": "bemegride",
+              "labelcui": "D001534",
+              "label": 1
+            },
+            {
+              "name": "bemantane",
+              "labelcui": "C027969",
+              "label": 0
+            },
+            {
+              "name": "bemetizide",
+              "labelcui": "C010100",
+              "label": 0
+            },
+            {
+              "name": "bevasiranib",
+              "labelcui": "C554088",
+              "label": 0
+            },
+            {
+              "name": "bemeuxin",
+              "labelcui": "C087789",
+              "label": 0
+            },
+            {
+              "name": "ebiratide",
+              "labelcui": "C057139",
+              "label": 0
+            },
+            {
+              "name": "bemitradine",
+              "labelcui": "C059265",
+              "label": 0
+            },
+            {
+              "name": "bemetizide bupranolol triamterene",
+              "labelcui": "C025276",
+              "label": 0
+            },
+            {
+              "name": "bebeerine",
+              "labelcui": "C066405",
+              "label": 0
+            },
+            {
+              "name": "bevantolol",
+              "labelcui": "C021148",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "midazolam",
+          "golden_cui": "D008874",
+          "candidates": [
+            {
+              "name": "midazolam",
+              "labelcui": "D008874",
+              "label": 1
+            },
+            {
+              "name": "8 chloro 6 2 chlorophenyl 1 methyl 4h imidazo 1 5a 1 4 benzodiazepine",
+              "labelcui": "C035147",
+              "label": 0
+            },
+            {
+              "name": "4h 1 2 4 triazolo 4 3 a 1 4 benzodiazepine 1 ethanamine 8 chloro n n dimethyl 6 phenyl 4 methylbenzenesulfonate",
+              "labelcui": "C035971",
+              "label": 0
+            },
+            {
+              "name": "zolazepam hydrochloride",
+              "labelcui": "D015041",
+              "label": 0
+            },
+            {
+              "name": "medazepam",
+              "labelcui": "D008472",
+              "label": 0
+            },
+            {
+              "name": "dormax",
+              "labelcui": "C040657",
+              "label": 0
+            },
+            {
+              "name": "tert butyl 8 chloro 5 6 dihydro 5 methyl 6 oxo 4h imidazo 1 5 a 1 4 benzodiazepine 3 carboxylate",
+              "labelcui": "C084850",
+              "label": 0
+            },
+            {
+              "name": "genpharm brand of triazolam",
+              "labelcui": "D014229",
+              "label": 0
+            },
+            {
+              "name": "n desmethylquazepam",
+              "labelcui": "C049741",
+              "label": 0
+            },
+            {
+              "name": "n desmethyladinazolam mesylate",
+              "labelcui": "C050132",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "precordial pain",
+          "golden_cui": "D002637",
+          "candidates": [
+            {
+              "name": "puberty precocious",
+              "labelcui": "D011629",
+              "label": 0
+            },
+            {
+              "name": "spondylistheses",
+              "labelcui": "D013168",
+              "label": 0
+            },
+            {
+              "name": "colic ureteral",
+              "labelcui": "D056844",
+              "label": 0
+            },
+            {
+              "name": "familial precocious puberty",
+              "labelcui": "C538542",
+              "label": 0
+            },
+            {
+              "name": "posterior cervical pains",
+              "labelcui": "D019547",
+              "label": 0
+            },
+            {
+              "name": "precocious puberty central",
+              "labelcui": "C562787",
+              "label": 0
+            },
+            {
+              "name": "pains pelvic",
+              "labelcui": "D017699",
+              "label": 0
+            },
+            {
+              "name": "pericoronitides",
+              "labelcui": "D010497",
+              "label": 0
+            },
+            {
+              "name": "prodromal symptoms",
+              "labelcui": "D062706",
+              "label": 0
+            },
+            {
+              "name": "cephalopelvimetries",
+              "labelcui": "D010387",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "levodopa",
+          "golden_cui": "D007980",
+          "candidates": [
+            {
+              "name": "levodopa 4 hydroxybutyl ester",
+              "labelcui": "C064798",
+              "label": 0
+            },
+            {
+              "name": "l dopa",
+              "labelcui": "D007980",
+              "label": 1
+            },
+            {
+              "name": "levodopa isopropyl ester",
+              "labelcui": "C064799",
+              "label": 0
+            },
+            {
+              "name": "levodopa ethylester",
+              "labelcui": "C454359",
+              "label": 0
+            },
+            {
+              "name": "levodopa butyl ester",
+              "labelcui": "C064819",
+              "label": 0
+            },
+            {
+              "name": "l dopa glucoside",
+              "labelcui": "C032388",
+              "label": 0
+            },
+            {
+              "name": "2s 2 amino 3 3 4 dihydroxyphenyl 2 methylpropanoic acid",
+              "labelcui": "C579484",
+              "label": 0
+            },
+            {
+              "name": "2 4 dihydroxyphenylalanine",
+              "labelcui": "C053214",
+              "label": 0
+            },
+            {
+              "name": "l tyrosine o 5 2 amino 2 carboxyethyl 2 hydroxyphenyl",
+              "labelcui": "C035129",
+              "label": 0
+            },
+            {
+              "name": "3 hydroxymethyl tyrosine l isomer",
+              "labelcui": "C008054",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "agranulocytosis",
+          "golden_cui": "D000380",
+          "candidates": [
+            {
+              "name": "congenital agranulocytosis",
+              "labelcui": "C537592",
+              "label": 0
+            },
+            {
+              "name": "neutropenia and hyperlymphocytosis with large granular lymphocytes",
+              "labelcui": "C531649",
+              "label": 0
+            },
+            {
+              "name": "neutropenia malignant",
+              "labelcui": "C538171",
+              "label": 0
+            },
+            {
+              "name": "granulocytopenia with immunoglobulin abnormality",
+              "labelcui": "C565535",
+              "label": 0
+            },
+            {
+              "name": "pancytopenia",
+              "labelcui": "D010198",
+              "label": 0
+            },
+            {
+              "name": "poikiloderma with neutropenia",
+              "labelcui": "C565820",
+              "label": 0
+            },
+            {
+              "name": "immune thrombocytopenias",
+              "labelcui": "D016553",
+              "label": 0
+            },
+            {
+              "name": "granulocytopenias",
+              "labelcui": "D000380",
+              "label": 1
+            },
+            {
+              "name": "neutropenias",
+              "labelcui": "D009503",
+              "label": 0
+            },
+            {
+              "name": "neutropenia chronic familial",
+              "labelcui": "C535815",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "anxiety",
+          "golden_cui": "D001008",
+          "candidates": [
+            {
+              "name": "anxiety",
+              "labelcui": "D001007",
+              "label": 0
+            },
+            {
+              "name": "anxiety disorders",
+              "labelcui": "D001008",
+              "label": 1
+            },
+            {
+              "name": "fear",
+              "labelcui": "D005239",
+              "label": 0
+            },
+            {
+              "name": "test anxiety scale",
+              "labelcui": "D013732",
+              "label": 0
+            },
+            {
+              "name": "social phobias",
+              "labelcui": "D000072861",
+              "label": 0
+            },
+            {
+              "name": "agoraphobias",
+              "labelcui": "D000379",
+              "label": 0
+            },
+            {
+              "name": "phobia simple",
+              "labelcui": "C562465",
+              "label": 0
+            },
+            {
+              "name": "xenophobia",
+              "labelcui": "D065806",
+              "label": 0
+            },
+            {
+              "name": "anxieties performance",
+              "labelcui": "D060805",
+              "label": 0
+            },
+            {
+              "name": "manifest anxiety scale",
+              "labelcui": "D008347",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "dehydroepiandrosterone",
+          "golden_cui": "D003687",
+          "candidates": [
+            {
+              "name": "dehydroepiandrosterone",
+              "labelcui": "D003687",
+              "label": 1
+            },
+            {
+              "name": "dehydrotestosterone",
+              "labelcui": "C013915",
+              "label": 0
+            },
+            {
+              "name": "7beta hydroxydehydroepiandrosterone",
+              "labelcui": "C003587",
+              "label": 0
+            },
+            {
+              "name": "1 hydroxydehydroepiandrosterone",
+              "labelcui": "C075167",
+              "label": 0
+            },
+            {
+              "name": "dehydroepiandrosterone acetate",
+              "labelcui": "C028163",
+              "label": 0
+            },
+            {
+              "name": "3 hydroxyandrost 4 ene 6 17 dione",
+              "labelcui": "C061916",
+              "label": 0
+            },
+            {
+              "name": "7 oxo dehydroepiandrosterone",
+              "labelcui": "C002914",
+              "label": 0
+            },
+            {
+              "name": "14 17 dihydroxyandrost 4 en 3 one",
+              "labelcui": "C030893",
+              "label": 0
+            },
+            {
+              "name": "17 beta hydroxyandrosta 4 6 dien 3 one",
+              "labelcui": "C023630",
+              "label": 0
+            },
+            {
+              "name": "androstadienol",
+              "labelcui": "C000152",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "ethanol",
+          "golden_cui": "D000431",
+          "candidates": [
+            {
+              "name": "grain alcohol",
+              "labelcui": "D000431",
+              "label": 1
+            },
+            {
+              "name": "alcohols",
+              "labelcui": "D000438",
+              "label": 0
+            },
+            {
+              "name": "alcohols sugar",
+              "labelcui": "D013402",
+              "label": 0
+            },
+            {
+              "name": "isopropoxyethanol",
+              "labelcui": "C008204",
+              "label": 0
+            },
+            {
+              "name": "2 hydroxyethanol",
+              "labelcui": "D019855",
+              "label": 0
+            },
+            {
+              "name": "benzeneethanol",
+              "labelcui": "D010626",
+              "label": 0
+            },
+            {
+              "name": "alcohols fatty",
+              "labelcui": "D005233",
+              "label": 0
+            },
+            {
+              "name": "alcoholic beverages",
+              "labelcui": "D000434",
+              "label": 0
+            },
+            {
+              "name": "alcohol consumption",
+              "labelcui": "D000428",
+              "label": 0
+            },
+            {
+              "name": "ethyl ether",
+              "labelcui": "D004986",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "oscillopsia",
+          "golden_cui": "D015835",
+          "candidates": [
+            {
+              "name": "oscillin",
+              "labelcui": "C097705",
+              "label": 0
+            },
+            {
+              "name": "optokinetic nystagmus",
+              "labelcui": "D017120",
+              "label": 0
+            },
+            {
+              "name": "oscillatoria",
+              "labelcui": "D054300",
+              "label": 0
+            },
+            {
+              "name": "horizontal diplopias",
+              "labelcui": "D004172",
+              "label": 0
+            },
+            {
+              "name": "ametropia",
+              "labelcui": "D012030",
+              "label": 0
+            },
+            {
+              "name": "photokinesis",
+              "labelcui": "D000071444",
+              "label": 0
+            },
+            {
+              "name": "optical rotation",
+              "labelcui": "D009904",
+              "label": 0
+            },
+            {
+              "name": "vestibulo ocular reflex",
+              "labelcui": "D012027",
+              "label": 0
+            },
+            {
+              "name": "ocular adaptation",
+              "labelcui": "D000221",
+              "label": 0
+            },
+            {
+              "name": "night blindness",
+              "labelcui": "D009755",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "pain",
+          "golden_cui": "D010146",
+          "candidates": [
+            {
+              "name": "nociceptive pains",
+              "labelcui": "D059226",
+              "label": 0
+            },
+            {
+              "name": "pain perception",
+              "labelcui": "D058748",
+              "label": 0
+            },
+            {
+              "name": "analgesia",
+              "labelcui": "D000698",
+              "label": 0
+            },
+            {
+              "name": "nociception",
+              "labelcui": "D059225",
+              "label": 0
+            },
+            {
+              "name": "pain acute",
+              "labelcui": "D059787",
+              "label": 0
+            },
+            {
+              "name": "muscle pain",
+              "labelcui": "D063806",
+              "label": 0
+            },
+            {
+              "name": "pains musculoskeletal",
+              "labelcui": "D059352",
+              "label": 0
+            },
+            {
+              "name": "pains joint",
+              "labelcui": "D018771",
+              "label": 0
+            },
+            {
+              "name": "visceral pain",
+              "labelcui": "D059265",
+              "label": 0
+            },
+            {
+              "name": "paint",
+              "labelcui": "D010150",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "doxorubicin",
+          "golden_cui": "D004317",
+          "candidates": [
+            {
+              "name": "doxorubicinolone",
+              "labelcui": "C540164",
+              "label": 0
+            },
+            {
+              "name": "doxotec",
+              "labelcui": "D004317",
+              "label": 1
+            },
+            {
+              "name": "n 2 hydroxyethyl doxorubicin",
+              "labelcui": "C050337",
+              "label": 0
+            },
+            {
+              "name": "adriamycinol 8s 8alpha 8r 10alpha isomer",
+              "labelcui": "C010013",
+              "label": 0
+            },
+            {
+              "name": "doxorubicin cardiolipin complex",
+              "labelcui": "C052746",
+              "label": 0
+            },
+            {
+              "name": "doxorubicin 14 o hemiadipate",
+              "labelcui": "C465839",
+              "label": 0
+            },
+            {
+              "name": "aluminum doxorubicin complex",
+              "labelcui": "C060125",
+              "label": 0
+            },
+            {
+              "name": "4 amino 3 hydroxydoxorubicin",
+              "labelcui": "C073151",
+              "label": 0
+            },
+            {
+              "name": "7 deoxydoxorubicin aglycone",
+              "labelcui": "C049326",
+              "label": 0
+            },
+            {
+              "name": "4 o demethyl 11 deoxydoxorubicin",
+              "labelcui": "C034619",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "anxiety",
+          "golden_cui": "D001008",
+          "candidates": [
+            {
+              "name": "anxiety",
+              "labelcui": "D001007",
+              "label": 0
+            },
+            {
+              "name": "anxiety disorders",
+              "labelcui": "D001008",
+              "label": 1
+            },
+            {
+              "name": "fear",
+              "labelcui": "D005239",
+              "label": 0
+            },
+            {
+              "name": "test anxiety scale",
+              "labelcui": "D013732",
+              "label": 0
+            },
+            {
+              "name": "social phobias",
+              "labelcui": "D000072861",
+              "label": 0
+            },
+            {
+              "name": "agoraphobias",
+              "labelcui": "D000379",
+              "label": 0
+            },
+            {
+              "name": "phobia simple",
+              "labelcui": "C562465",
+              "label": 0
+            },
+            {
+              "name": "xenophobia",
+              "labelcui": "D065806",
+              "label": 0
+            },
+            {
+              "name": "anxieties performance",
+              "labelcui": "D060805",
+              "label": 0
+            },
+            {
+              "name": "manifest anxiety scale",
+              "labelcui": "D008347",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "status epilepticus",
+          "golden_cui": "D013226",
+          "candidates": [
+            {
+              "name": "status epilepticus generalized convulsive",
+              "labelcui": "D013226",
+              "label": 1
+            },
+            {
+              "name": "e 4 2 n 4 methoxybenzenesulfonyl amino stilbazole 1 oxide",
+              "labelcui": "C479799",
+              "label": 0
+            },
+            {
+              "name": "4 bis 2 methylsulfonyl oxy ethyl amino 2 methylbenzaldehyde",
+              "labelcui": "C492379",
+              "label": 0
+            },
+            {
+              "name": "methiocarb sulfoxide",
+              "labelcui": "C097911",
+              "label": 0
+            },
+            {
+              "name": "4 methylmercapto phenyl succinimidyl succinate",
+              "labelcui": "C044918",
+              "label": 0
+            },
+            {
+              "name": "methallyl sulfonate",
+              "labelcui": "C056081",
+              "label": 0
+            },
+            {
+              "name": "n succinimidyl 4 o 4 4 dimethoxytrityl butyrate",
+              "labelcui": "C061473",
+              "label": 0
+            },
+            {
+              "name": "bis 2 succinimidooxycarbonyloxy ethyl sulfone",
+              "labelcui": "C011683",
+              "label": 0
+            },
+            {
+              "name": "dimethylsulfoxonium methylide",
+              "labelcui": "C554865",
+              "label": 0
+            },
+            {
+              "name": "1 1 sulfonylbis 2 methylsulfinyl ethane",
+              "labelcui": "C073452",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "cutaneous reactions",
+          "golden_cui": "D003875",
+          "candidates": [
+            {
+              "name": "dermatitides",
+              "labelcui": "D003872",
+              "label": 0
+            },
+            {
+              "name": "dermatoses",
+              "labelcui": "D012871",
+              "label": 0
+            },
+            {
+              "name": "agent dermatologic",
+              "labelcui": "D003879",
+              "label": 0
+            },
+            {
+              "name": "drug administrations topical",
+              "labelcui": "D000287",
+              "label": 0
+            },
+            {
+              "name": "skin manifestation",
+              "labelcui": "D012877",
+              "label": 0
+            },
+            {
+              "name": "topical descriptor",
+              "labelcui": "U000019",
+              "label": 0
+            },
+            {
+              "name": "physiology skin",
+              "labelcui": "D012879",
+              "label": 0
+            },
+            {
+              "name": "skin",
+              "labelcui": "D012867",
+              "label": 0
+            },
+            {
+              "name": "irritant dermatitides",
+              "labelcui": "D017453",
+              "label": 0
+            },
+            {
+              "name": "dermatol",
+              "labelcui": "D003880",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "doxorubicin",
+          "golden_cui": "D004317",
+          "candidates": [
+            {
+              "name": "doxorubicinolone",
+              "labelcui": "C540164",
+              "label": 0
+            },
+            {
+              "name": "doxotec",
+              "labelcui": "D004317",
+              "label": 1
+            },
+            {
+              "name": "n 2 hydroxyethyl doxorubicin",
+              "labelcui": "C050337",
+              "label": 0
+            },
+            {
+              "name": "adriamycinol 8s 8alpha 8r 10alpha isomer",
+              "labelcui": "C010013",
+              "label": 0
+            },
+            {
+              "name": "doxorubicin cardiolipin complex",
+              "labelcui": "C052746",
+              "label": 0
+            },
+            {
+              "name": "doxorubicin 14 o hemiadipate",
+              "labelcui": "C465839",
+              "label": 0
+            },
+            {
+              "name": "aluminum doxorubicin complex",
+              "labelcui": "C060125",
+              "label": 0
+            },
+            {
+              "name": "4 amino 3 hydroxydoxorubicin",
+              "labelcui": "C073151",
+              "label": 0
+            },
+            {
+              "name": "7 deoxydoxorubicin aglycone",
+              "labelcui": "C049326",
+              "label": 0
+            },
+            {
+              "name": "4 o demethyl 11 deoxydoxorubicin",
+              "labelcui": "C034619",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "pain",
+          "golden_cui": "D010146",
+          "candidates": [
+            {
+              "name": "nociceptive pains",
+              "labelcui": "D059226",
+              "label": 0
+            },
+            {
+              "name": "pain perception",
+              "labelcui": "D058748",
+              "label": 0
+            },
+            {
+              "name": "analgesia",
+              "labelcui": "D000698",
+              "label": 0
+            },
+            {
+              "name": "nociception",
+              "labelcui": "D059225",
+              "label": 0
+            },
+            {
+              "name": "pain acute",
+              "labelcui": "D059787",
+              "label": 0
+            },
+            {
+              "name": "muscle pain",
+              "labelcui": "D063806",
+              "label": 0
+            },
+            {
+              "name": "pains musculoskeletal",
+              "labelcui": "D059352",
+              "label": 0
+            },
+            {
+              "name": "pains joint",
+              "labelcui": "D018771",
+              "label": 0
+            },
+            {
+              "name": "visceral pain",
+              "labelcui": "D059265",
+              "label": 0
+            },
+            {
+              "name": "paint",
+              "labelcui": "D010150",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "tumor",
+          "golden_cui": "D009369",
+          "candidates": [
+            {
+              "name": "neoplasm",
+              "labelcui": "D009369",
+              "label": 1
+            },
+            {
+              "name": "neoplasm site",
+              "labelcui": "D009371",
+              "label": 0
+            },
+            {
+              "name": "neoplastic processes",
+              "labelcui": "D009385",
+              "label": 0
+            },
+            {
+              "name": "experimental neoplasm",
+              "labelcui": "D009374",
+              "label": 0
+            },
+            {
+              "name": "oncogenesis",
+              "labelcui": "D063646",
+              "label": 0
+            },
+            {
+              "name": "cell lines tumor",
+              "labelcui": "D045744",
+              "label": 0
+            },
+            {
+              "name": "oncogens",
+              "labelcui": "D002273",
+              "label": 0
+            },
+            {
+              "name": "cells cultured neoplastic",
+              "labelcui": "D014407",
+              "label": 0
+            },
+            {
+              "name": "neoplasms histological type",
+              "labelcui": "D009370",
+              "label": 0
+            },
+            {
+              "name": "neoplasm transplantation",
+              "labelcui": "D009368",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "azathioprine",
+          "golden_cui": "D001379",
+          "candidates": [
+            {
+              "name": "azathiopurine",
+              "labelcui": "C488629",
+              "label": 0
+            },
+            {
+              "name": "azahx pi",
+              "labelcui": "C000607677",
+              "label": 0
+            },
+            {
+              "name": "aza ena t",
+              "labelcui": "C520287",
+              "label": 0
+            },
+            {
+              "name": "azatrux",
+              "labelcui": "C568450",
+              "label": 0
+            },
+            {
+              "name": "azaftig",
+              "labelcui": "C118838",
+              "label": 0
+            },
+            {
+              "name": "5 azauracil",
+              "labelcui": "C039856",
+              "label": 0
+            },
+            {
+              "name": "azaisoindigo",
+              "labelcui": "C529858",
+              "label": 0
+            },
+            {
+              "name": "azafrin",
+              "labelcui": "C047580",
+              "label": 0
+            },
+            {
+              "name": "azarcon",
+              "labelcui": "C028356",
+              "label": 0
+            },
+            {
+              "name": "aza epsilon adenosine monophosphate",
+              "labelcui": "C033181",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "takotsubo syndrome",
+          "golden_cui": "D054549",
+          "candidates": [
+            {
+              "name": "takao vcf syndrome",
+              "labelcui": "C566051",
+              "label": 0
+            },
+            {
+              "name": "disease takahara s",
+              "labelcui": "D020642",
+              "label": 0
+            },
+            {
+              "name": "tetralogy of fallot syndrome autosomal recessive",
+              "labelcui": "C565314",
+              "label": 0
+            },
+            {
+              "name": "tetralogy fallot",
+              "labelcui": "D013771",
+              "label": 0
+            },
+            {
+              "name": "long qt syndrome",
+              "labelcui": "D008133",
+              "label": 0
+            },
+            {
+              "name": "syndrome postural tachycardia",
+              "labelcui": "D054972",
+              "label": 0
+            },
+            {
+              "name": "short qt syndrome",
+              "labelcui": "C580439",
+              "label": 0
+            },
+            {
+              "name": "arterial tortuosity syndrome",
+              "labelcui": "C565942",
+              "label": 0
+            },
+            {
+              "name": "hypertelorism and tetralogy of fallot",
+              "labelcui": "C538386",
+              "label": 0
+            },
+            {
+              "name": "stress cardiomyopathy",
+              "labelcui": "D054549",
+              "label": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "cardiotoxicity",
+          "golden_cui": "D066126",
+          "candidates": [
+            {
+              "name": "cardiac toxicities",
+              "labelcui": "D066126",
+              "label": 1
+            },
+            {
+              "name": "diseases cardiac",
+              "labelcui": "D006331",
+              "label": 0
+            },
+            {
+              "name": "cardiovirus infection",
+              "labelcui": "D018188",
+              "label": 0
+            },
+            {
+              "name": "cardiotoxic factor leukemia",
+              "labelcui": "C033207",
+              "label": 0
+            },
+            {
+              "name": "carditis",
+              "labelcui": "D009205",
+              "label": 0
+            },
+            {
+              "name": "cardiac cancers",
+              "labelcui": "D006338",
+              "label": 0
+            },
+            {
+              "name": "disease cardiovascular",
+              "labelcui": "D002318",
+              "label": 0
+            },
+            {
+              "name": "cardiotonic drugs",
+              "labelcui": "D002316",
+              "label": 0
+            },
+            {
+              "name": "pregnancy complication cardiovascular",
+              "labelcui": "D011249",
+              "label": 0
+            },
+            {
+              "name": "cardiovascular tuberculoses",
+              "labelcui": "D014381",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "propylthiouracil",
+          "golden_cui": "D011441",
+          "candidates": [
+            {
+              "name": "propylthiouracil",
+              "labelcui": "D011441",
+              "label": 1
+            },
+            {
+              "name": "6 phenylthiouracil",
+              "labelcui": "C060320",
+              "label": 0
+            },
+            {
+              "name": "1 propyl 4 thiouracil",
+              "labelcui": "C568226",
+              "label": 0
+            },
+            {
+              "name": "6 propyl 2 selenouracil",
+              "labelcui": "C079082",
+              "label": 0
+            },
+            {
+              "name": "2 4 dithiouracil",
+              "labelcui": "C056582",
+              "label": 0
+            },
+            {
+              "name": "iodothiouracil",
+              "labelcui": "C036667",
+              "label": 0
+            },
+            {
+              "name": "5 propyluracil",
+              "labelcui": "C002652",
+              "label": 0
+            },
+            {
+              "name": "1 phenyl 3 methyl 4 1 methyl propylthio 5 aminopyrazole",
+              "labelcui": "C030380",
+              "label": 0
+            },
+            {
+              "name": "1 methyl 3 phenyl 4 1 methyl propylthio 5 aminopyrazole",
+              "labelcui": "C030381",
+              "label": 0
+            },
+            {
+              "name": "1 2 deoxyribofuranosyl 2 4 dithiouracil 5 phosphate",
+              "labelcui": "C099747",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "cycloheximide",
+          "golden_cui": "D003513",
+          "candidates": [
+            {
+              "name": "n n n dimethylcarboxamidomethyl cycloheximide",
+              "labelcui": "C511362",
+              "label": 0
+            },
+            {
+              "name": "e 73 acetoxyl cycloheximide analog",
+              "labelcui": "C416002",
+              "label": 0
+            },
+            {
+              "name": "cycloheptanone",
+              "labelcui": "C000363",
+              "label": 0
+            },
+            {
+              "name": "4 chloro 2 tolyl dithio imidocarbonic acid cyclic methylene ester",
+              "labelcui": "C006327",
+              "label": 0
+            },
+            {
+              "name": "actinomycin",
+              "labelcui": "D003609",
+              "label": 0
+            },
+            {
+              "name": "5 chloro 2 1e 3 2 4 methoxybenzoyl 4 methyl 1h pyrrol 1 yl prop 1 en 1 yl n methylsulfonyl benzamide",
+              "labelcui": "C505358",
+              "label": 0
+            },
+            {
+              "name": "cimifugin",
+              "labelcui": "C533198",
+              "label": 0
+            },
+            {
+              "name": "10 methoxy 4h benzo 4 5 cyclohepta 1 2 b thiophene 4 ylidene acetic acid",
+              "labelcui": "C061029",
+              "label": 0
+            },
+            {
+              "name": "rimocidinolide methyl ester",
+              "labelcui": "C488087",
+              "label": 0
+            },
+            {
+              "name": "ketimine",
+              "labelcui": "C542835",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "mitral regurgitation",
+          "golden_cui": "D008944",
+          "candidates": [
+            {
+              "name": "mitral valve insufficiency",
+              "labelcui": "D008944",
+              "label": 1
+            },
+            {
+              "name": "mitral valve stenosis",
+              "labelcui": "D008946",
+              "label": 0
+            },
+            {
+              "name": "aortic regurgitation",
+              "labelcui": "D001022",
+              "label": 0
+            },
+            {
+              "name": "tricuspid valve regurgitation",
+              "labelcui": "D014262",
+              "label": 0
+            },
+            {
+              "name": "prolapse mitral valve",
+              "labelcui": "D008945",
+              "label": 0
+            },
+            {
+              "name": "valves mitral",
+              "labelcui": "D008943",
+              "label": 0
+            },
+            {
+              "name": "familial restrictive cardiomyopathy",
+              "labelcui": "D002313",
+              "label": 0
+            },
+            {
+              "name": "cardiomyopathy familial restrictive 2",
+              "labelcui": "C566512",
+              "label": 0
+            },
+            {
+              "name": "cardiomyopathy familial restrictive 1",
+              "labelcui": "C566168",
+              "label": 0
+            },
+            {
+              "name": "mitral regurgitation conductive deafness and fusion of cervical vertebrae and of carpal and tarsal bones",
+              "labelcui": "C563572",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "famotidine",
+          "golden_cui": "D015738",
+          "candidates": [
+            {
+              "name": "ramixotidine dihydrochloride",
+              "labelcui": "C041784",
+              "label": 0
+            },
+            {
+              "name": "5 desmethylranitidine",
+              "labelcui": "C045908",
+              "label": 0
+            },
+            {
+              "name": "ryosidine",
+              "labelcui": "C041040",
+              "label": 0
+            },
+            {
+              "name": "cimicifugadine",
+              "labelcui": "C520153",
+              "label": 0
+            },
+            {
+              "name": "solstitialin",
+              "labelcui": "C003325",
+              "label": 0
+            },
+            {
+              "name": "11 asp 12 phe gastrin",
+              "labelcui": "C094760",
+              "label": 0
+            },
+            {
+              "name": "caerulein diethylamine",
+              "labelcui": "C032637",
+              "label": 0
+            },
+            {
+              "name": "peptite 2000",
+              "labelcui": "C076536",
+              "label": 0
+            },
+            {
+              "name": "cholecystokinin 5 pentagastrin",
+              "labelcui": "C037823",
+              "label": 0
+            },
+            {
+              "name": "ceratinamine",
+              "labelcui": "C545831",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "pentylenetetrazole",
+          "golden_cui": "D010433",
+          "candidates": [
+            {
+              "name": "pentazol",
+              "labelcui": "D010433",
+              "label": 1
+            },
+            {
+              "name": "1 methyl 4 phenyl 1h tetrazole 5 4h thione",
+              "labelcui": "C557179",
+              "label": 0
+            },
+            {
+              "name": "tetrazole",
+              "labelcui": "C045574",
+              "label": 0
+            },
+            {
+              "name": "5 1h tetrazol 1 yl 1 2 4 triazole",
+              "labelcui": "C560952",
+              "label": 0
+            },
+            {
+              "name": "1 1h benzimidazol 2 yl methyl 1h tetrazole",
+              "labelcui": "C000602491",
+              "label": 0
+            },
+            {
+              "name": "5 pyrrolidin 2 yl tetrazole",
+              "labelcui": "C540256",
+              "label": 0
+            },
+            {
+              "name": "5 benzylthio 1 cylopentyl 1h tetrazole",
+              "labelcui": "C000598817",
+              "label": 0
+            },
+            {
+              "name": "tpre co 1 methylimidazole eta 2 benzene",
+              "labelcui": "C471689",
+              "label": 0
+            },
+            {
+              "name": "5 phenylimidazole",
+              "labelcui": "C033023",
+              "label": 0
+            },
+            {
+              "name": "fomepizole",
+              "labelcui": "C010238",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "testosterone",
+          "golden_cui": "D013739",
+          "candidates": [
+            {
+              "name": "1 testosterone",
+              "labelcui": "C520094",
+              "label": 0
+            },
+            {
+              "name": "hauck brand of testosterone",
+              "labelcui": "D013739",
+              "label": 1
+            },
+            {
+              "name": "4 androsten 3 one",
+              "labelcui": "C115050",
+              "label": 0
+            },
+            {
+              "name": "3 hydroxy 4 androsten 17 one",
+              "labelcui": "C047746",
+              "label": 0
+            },
+            {
+              "name": "androst 4 en 3 one 17 hydroxy 17alpha",
+              "labelcui": "D004845",
+              "label": 0
+            },
+            {
+              "name": "4 androsten 4 ol 3 17 dione",
+              "labelcui": "C488413",
+              "label": 0
+            },
+            {
+              "name": "hydroxytestosterones",
+              "labelcui": "D006915",
+              "label": 0
+            },
+            {
+              "name": "5beta androst 1 en 17beta ol 3 one",
+              "labelcui": "C551446",
+              "label": 0
+            },
+            {
+              "name": "androst 5 en 17 one",
+              "labelcui": "C097404",
+              "label": 0
+            },
+            {
+              "name": "androstan 17 one",
+              "labelcui": "C018454",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "peripheral neuropathy",
+          "golden_cui": "D010523",
+          "candidates": [
+            {
+              "name": "peripheral nervous system disorders",
+              "labelcui": "D010523",
+              "label": 1
+            },
+            {
+              "name": "peripheral nerve injuries",
+              "labelcui": "D059348",
+              "label": 0
+            },
+            {
+              "name": "neuropathy painful",
+              "labelcui": "C564945",
+              "label": 0
+            },
+            {
+              "name": "peripheral nervous systems",
+              "labelcui": "D017933",
+              "label": 0
+            },
+            {
+              "name": "inherited peripheral neuropathy",
+              "labelcui": "C548028",
+              "label": 0
+            },
+            {
+              "name": "neuropathologies",
+              "labelcui": "D000069338",
+              "label": 0
+            },
+            {
+              "name": "peripheral nervous system effects",
+              "labelcui": "D018373",
+              "label": 0
+            },
+            {
+              "name": "neuropathy with paraprotein in serum cerebrospinal fluid and urine",
+              "labelcui": "C563516",
+              "label": 0
+            },
+            {
+              "name": "nervous system diseases",
+              "labelcui": "D009422",
+              "label": 0
+            },
+            {
+              "name": "mononeuropathy",
+              "labelcui": "D020422",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "acute tubulo interstitial nephritis",
+          "golden_cui": "C564356",
+          "candidates": [
+            {
+              "name": "acute tubulointerstitial nephritis",
+              "labelcui": "C564356",
+              "label": 1
+            },
+            {
+              "name": "acute renal injury",
+              "labelcui": "D058186",
+              "label": 0
+            },
+            {
+              "name": "tubulointerstitial nephritis and uveitis syndrome",
+              "labelcui": "C536922",
+              "label": 0
+            },
+            {
+              "name": "nephritis interstitial",
+              "labelcui": "D009395",
+              "label": 0
+            },
+            {
+              "name": "akic",
+              "labelcui": "C081431",
+              "label": 0
+            },
+            {
+              "name": "nephropathy chronic tubulointerstitial",
+              "labelcui": "C564016",
+              "label": 0
+            },
+            {
+              "name": "aki001",
+              "labelcui": "C531193",
+              "label": 0
+            },
+            {
+              "name": "alport syndrome like hereditary nephritis",
+              "labelcui": "C562890",
+              "label": 0
+            },
+            {
+              "name": "necrotizing pancreatitis acute",
+              "labelcui": "D019283",
+              "label": 0
+            },
+            {
+              "name": "nephronophthisis infantile",
+              "labelcui": "C566582",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "catalepsy",
+          "golden_cui": "D002375",
+          "candidates": [
+            {
+              "name": "catalpin",
+              "labelcui": "C062858",
+              "label": 0
+            },
+            {
+              "name": "catalin",
+              "labelcui": "C004580",
+              "label": 0
+            },
+            {
+              "name": "catalpol",
+              "labelcui": "C078040",
+              "label": 0
+            },
+            {
+              "name": "reactions cataleptic immobilization",
+              "labelcui": "D046352",
+              "label": 0
+            },
+            {
+              "name": "catalposide",
+              "labelcui": "C006928",
+              "label": 0
+            },
+            {
+              "name": "catalytin",
+              "labelcui": "C107177",
+              "label": 0
+            },
+            {
+              "name": "catalet c",
+              "labelcui": "C082987",
+              "label": 0
+            },
+            {
+              "name": "consepsis",
+              "labelcui": "C113175",
+              "label": 0
+            },
+            {
+              "name": "bradykinesia",
+              "labelcui": "D018476",
+              "label": 0
+            },
+            {
+              "name": "diaphragm eventration",
+              "labelcui": "D003965",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "methadone",
+          "golden_cui": "D008691",
+          "candidates": [
+            {
+              "name": "o n didesmethyltramadol",
+              "labelcui": "C527977",
+              "label": 0
+            },
+            {
+              "name": "diamorphine",
+              "labelcui": "D003932",
+              "label": 0
+            },
+            {
+              "name": "metadoxyl",
+              "labelcui": "C037845",
+              "label": 0
+            },
+            {
+              "name": "metadrenaline",
+              "labelcui": "D008676",
+              "label": 0
+            },
+            {
+              "name": "desmethylanethol dithiolthione",
+              "labelcui": "C040976",
+              "label": 0
+            },
+            {
+              "name": "dmmpm",
+              "labelcui": "C064731",
+              "label": 0
+            },
+            {
+              "name": "monodesmethyldiphenhydramine",
+              "labelcui": "C050322",
+              "label": 0
+            },
+            {
+              "name": "methiadene",
+              "labelcui": "C036722",
+              "label": 0
+            },
+            {
+              "name": "10 11 didehydroepothilone d",
+              "labelcui": "C465909",
+              "label": 0
+            },
+            {
+              "name": "methyl tmdd",
+              "labelcui": "C101367",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "myocardiopathy",
+          "golden_cui": "D009202",
+          "candidates": [
+            {
+              "name": "cardiomyopathy primary",
+              "labelcui": "D009202",
+              "label": 1
+            },
+            {
+              "name": "pharmacogenic myopathy",
+              "labelcui": "C531737",
+              "label": 0
+            },
+            {
+              "name": "myotilinopathy",
+              "labelcui": "C563775",
+              "label": 0
+            },
+            {
+              "name": "myocardon",
+              "labelcui": "C026863",
+              "label": 0
+            },
+            {
+              "name": "dilated cardiomyopathy",
+              "labelcui": "D002311",
+              "label": 0
+            },
+            {
+              "name": "cardiomyopathies diabetic",
+              "labelcui": "D058065",
+              "label": 0
+            },
+            {
+              "name": "muscular dystrophy cardiac type",
+              "labelcui": "C563247",
+              "label": 0
+            },
+            {
+              "name": "dmd associated dilated cardiomyopathy",
+              "labelcui": "C580047",
+              "label": 0
+            },
+            {
+              "name": "pleoconial myopathies",
+              "labelcui": "D017240",
+              "label": 0
+            },
+            {
+              "name": "dystrophy muscular",
+              "labelcui": "D009136",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "sodium",
+          "golden_cui": "D012964",
+          "candidates": [
+            {
+              "name": "sodium",
+              "labelcui": "D012964",
+              "label": 1
+            },
+            {
+              "name": "dietary sodium",
+              "labelcui": "D012982",
+              "label": 0
+            },
+            {
+              "name": "ionophores sodium",
+              "labelcui": "D061210",
+              "label": 0
+            },
+            {
+              "name": "sodium radioisotopes",
+              "labelcui": "D012979",
+              "label": 0
+            },
+            {
+              "name": "sodium hydride",
+              "labelcui": "C524957",
+              "label": 0
+            },
+            {
+              "name": "sodium cpds",
+              "labelcui": "D017670",
+              "label": 0
+            },
+            {
+              "name": "na2s",
+              "labelcui": "C033479",
+              "label": 0
+            },
+            {
+              "name": "sodium nitride na3n",
+              "labelcui": "C003320",
+              "label": 0
+            },
+            {
+              "name": "sodium nucleinate",
+              "labelcui": "C013683",
+              "label": 0
+            },
+            {
+              "name": "sodium isotopes",
+              "labelcui": "D012975",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "vincristine",
+          "golden_cui": "D014750",
+          "candidates": [
+            {
+              "name": "vincristine sulfate",
+              "labelcui": "D014750",
+              "label": 1
+            },
+            {
+              "name": "vincorine",
+              "labelcui": "C543267",
+              "label": 0
+            },
+            {
+              "name": "vinconate",
+              "labelcui": "C038627",
+              "label": 0
+            },
+            {
+              "name": "vincamedine",
+              "labelcui": "C575342",
+              "label": 0
+            },
+            {
+              "name": "vincarubine",
+              "labelcui": "C057240",
+              "label": 0
+            },
+            {
+              "name": "vincaleukoblastine 6 oxide 4 alpha",
+              "labelcui": "C027649",
+              "label": 0
+            },
+            {
+              "name": "3 beta chloroethyl 2 4 dioxo 3 5 spiro oxazolidino 4 deacetoxy vincristine",
+              "labelcui": "C118249",
+              "label": 0
+            },
+            {
+              "name": "vincathicine",
+              "labelcui": "C012096",
+              "label": 0
+            },
+            {
+              "name": "vincadifformine",
+              "labelcui": "C456406",
+              "label": 0
+            },
+            {
+              "name": "vincamine tartrate",
+              "labelcui": "C031177",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "nervous system abnormalities",
+          "golden_cui": "D009421",
+          "candidates": [
+            {
+              "name": "nervous system malformations",
+              "labelcui": "D009421",
+              "label": 1
+            },
+            {
+              "name": "nervous system diseases",
+              "labelcui": "D009422",
+              "label": 0
+            },
+            {
+              "name": "nervous systems",
+              "labelcui": "D009420",
+              "label": 0
+            },
+            {
+              "name": "neuropathologies",
+              "labelcui": "D000069338",
+              "label": 0
+            },
+            {
+              "name": "peripheral nervous system disorders",
+              "labelcui": "D010523",
+              "label": 0
+            },
+            {
+              "name": "nervous system physiol",
+              "labelcui": "D009424",
+              "label": 0
+            },
+            {
+              "name": "central nervous system diseases",
+              "labelcui": "D002493",
+              "label": 0
+            },
+            {
+              "name": "nervous tissues",
+              "labelcui": "D009417",
+              "label": 0
+            },
+            {
+              "name": "peripheral nervous systems",
+              "labelcui": "D017933",
+              "label": 0
+            },
+            {
+              "name": "injuries nervous system",
+              "labelcui": "D020196",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "myotonic condition",
+          "golden_cui": "D020967",
+          "candidates": [
+            {
+              "name": "myotonic phenomenon",
+              "labelcui": "D009222",
+              "label": 0
+            },
+            {
+              "name": "myopathy myotonic",
+              "labelcui": "D020967",
+              "label": 1
+            },
+            {
+              "name": "myopathy proximal myotonic",
+              "labelcui": "D009223",
+              "label": 0
+            },
+            {
+              "name": "nondystrophic myotonia",
+              "labelcui": "C536245",
+              "label": 0
+            },
+            {
+              "name": "myotonia generalized becker",
+              "labelcui": "D009224",
+              "label": 0
+            },
+            {
+              "name": "myotonic myopathy with cylindrical spirals",
+              "labelcui": "C563535",
+              "label": 0
+            },
+            {
+              "name": "myotonia permanens",
+              "labelcui": "C538353",
+              "label": 0
+            },
+            {
+              "name": "myopathy myosclerotic",
+              "labelcui": "C564968",
+              "label": 0
+            },
+            {
+              "name": "myotonia with skeletal abnormalities and mental retardation",
+              "labelcui": "C564967",
+              "label": 0
+            },
+            {
+              "name": "dystrophy muscular",
+              "labelcui": "D009136",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "asthmatic",
+          "golden_cui": "D001249",
+          "candidates": [
+            {
+              "name": "asthma",
+              "labelcui": "D001249",
+              "label": 1
+            },
+            {
+              "name": "asthmatic crisis",
+              "labelcui": "D013224",
+              "label": 0
+            },
+            {
+              "name": "asthmas occupational",
+              "labelcui": "D059366",
+              "label": 0
+            },
+            {
+              "name": "asthmalgine",
+              "labelcui": "C018460",
+              "label": 0
+            },
+            {
+              "name": "asthma short stature and elevated iga",
+              "labelcui": "C565934",
+              "label": 0
+            },
+            {
+              "name": "bronchial dis",
+              "labelcui": "D001982",
+              "label": 0
+            },
+            {
+              "name": "asthma and nasal polyps",
+              "labelcui": "C565739",
+              "label": 0
+            },
+            {
+              "name": "asthmopent",
+              "labelcui": "C025738",
+              "label": 0
+            },
+            {
+              "name": "obstructive pulmonary diseases",
+              "labelcui": "D008173",
+              "label": 0
+            },
+            {
+              "name": "bronchodilat",
+              "labelcui": "C011412",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "chloroacetaldehyde",
+          "golden_cui": "C004656",
+          "candidates": [
+            {
+              "name": "2 chloroacetaldehyde",
+              "labelcui": "C004656",
+              "label": 1
+            },
+            {
+              "name": "dichloroacetaldehyde",
+              "labelcui": "C015798",
+              "label": 0
+            },
+            {
+              "name": "2 chlorocinnamaldehyde",
+              "labelcui": "C522108",
+              "label": 0
+            },
+            {
+              "name": "2 chlorobenzaldehyde",
+              "labelcui": "C059341",
+              "label": 0
+            },
+            {
+              "name": "3 chlorolactaldehyde isomer",
+              "labelcui": "C045799",
+              "label": 0
+            },
+            {
+              "name": "acetylformaldehyde",
+              "labelcui": "D011765",
+              "label": 0
+            },
+            {
+              "name": "hydroxyacetaldehyde",
+              "labelcui": "C010972",
+              "label": 0
+            },
+            {
+              "name": "cyanoacetaldehyde",
+              "labelcui": "C000522",
+              "label": 0
+            },
+            {
+              "name": "2 chlorosyringaldehyde",
+              "labelcui": "C103515",
+              "label": 0
+            },
+            {
+              "name": "2 chloroacetal",
+              "labelcui": "C063478",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "post herpetic neuralgia",
+          "golden_cui": "D051474",
+          "candidates": [
+            {
+              "name": "neuralgia postherpetic",
+              "labelcui": "D051474",
+              "label": 1
+            },
+            {
+              "name": "posterior tibial nerve neuralgia",
+              "labelcui": "D013641",
+              "label": 0
+            },
+            {
+              "name": "iliohypogastric nerve neuralgias",
+              "labelcui": "D009437",
+              "label": 0
+            },
+            {
+              "name": "trigeminal neuralgias secondary",
+              "labelcui": "D014277",
+              "label": 0
+            },
+            {
+              "name": "neuralgia geniculate",
+              "labelcui": "D016697",
+              "label": 0
+            },
+            {
+              "name": "trigeminal neuropathy",
+              "labelcui": "D020433",
+              "label": 0
+            },
+            {
+              "name": "ciliary neuralgias",
+              "labelcui": "D003027",
+              "label": 0
+            },
+            {
+              "name": "headache postdural puncture",
+              "labelcui": "D051299",
+              "label": 0
+            },
+            {
+              "name": "sciatic neuralgias",
+              "labelcui": "D012585",
+              "label": 0
+            },
+            {
+              "name": "cephalalgia trigeminal autonomic",
+              "labelcui": "D051303",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "pain",
+          "golden_cui": "D010146",
+          "candidates": [
+            {
+              "name": "nociceptive pains",
+              "labelcui": "D059226",
+              "label": 0
+            },
+            {
+              "name": "pain perception",
+              "labelcui": "D058748",
+              "label": 0
+            },
+            {
+              "name": "analgesia",
+              "labelcui": "D000698",
+              "label": 0
+            },
+            {
+              "name": "nociception",
+              "labelcui": "D059225",
+              "label": 0
+            },
+            {
+              "name": "pain acute",
+              "labelcui": "D059787",
+              "label": 0
+            },
+            {
+              "name": "muscle pain",
+              "labelcui": "D063806",
+              "label": 0
+            },
+            {
+              "name": "pains musculoskeletal",
+              "labelcui": "D059352",
+              "label": 0
+            },
+            {
+              "name": "pains joint",
+              "labelcui": "D018771",
+              "label": 0
+            },
+            {
+              "name": "visceral pain",
+              "labelcui": "D059265",
+              "label": 0
+            },
+            {
+              "name": "paint",
+              "labelcui": "D010150",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "warfarin",
+          "golden_cui": "D014859",
+          "candidates": [
+            {
+              "name": "warfarin",
+              "labelcui": "D014859",
+              "label": 1
+            },
+            {
+              "name": "warfarin hexadecyl ether",
+              "labelcui": "C094088",
+              "label": 0
+            },
+            {
+              "name": "artoflavanocoumarin",
+              "labelcui": "C574105",
+              "label": 0
+            },
+            {
+              "name": "3 alpha acetonyl p chlorobenzyl 4 hydroxycoumarin",
+              "labelcui": "C412550",
+              "label": 0
+            },
+            {
+              "name": "licofuranocoumarin",
+              "labelcui": "C420346",
+              "label": 0
+            },
+            {
+              "name": "licopyranocoumarin",
+              "labelcui": "C063348",
+              "label": 0
+            },
+            {
+              "name": "6 allyl 8 5 allyl 2 hydroxyphenyl coumarin",
+              "labelcui": "C525792",
+              "label": 0
+            },
+            {
+              "name": "4 acetylisocoumarin",
+              "labelcui": "C091814",
+              "label": 0
+            },
+            {
+              "name": "isoepiphyllocoumarin",
+              "labelcui": "C585654",
+              "label": 0
+            },
+            {
+              "name": "8 hydroxy 3 4 hydroxypentyl 3 4 dihydroisocoumarin",
+              "labelcui": "C581276",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "tacrolimus",
+          "golden_cui": "D016559",
+          "candidates": [
+            {
+              "name": "tacrolimus",
+              "labelcui": "D016559",
+              "label": 1
+            },
+            {
+              "name": "13 o demethyl tacrolimus",
+              "labelcui": "C503135",
+              "label": 0
+            },
+            {
+              "name": "ozagrel",
+              "labelcui": "C034364",
+              "label": 0
+            },
+            {
+              "name": "31 o demethyl fk506",
+              "labelcui": "C107028",
+              "label": 0
+            },
+            {
+              "name": "19 hydroxy pgf1 alpha",
+              "labelcui": "C025183",
+              "label": 0
+            },
+            {
+              "name": "rapamycin tris epoxide metabolite",
+              "labelcui": "C117998",
+              "label": 0
+            },
+            {
+              "name": "raparin",
+              "labelcui": "C072900",
+              "label": 0
+            },
+            {
+              "name": "amphotericin a",
+              "labelcui": "C041989",
+              "label": 0
+            },
+            {
+              "name": "tifenagrel",
+              "labelcui": "C059718",
+              "label": 0
+            },
+            {
+              "name": "3 oxo 19 o 2 4 hydroxypiperidino acetyl dehydroandrographolide",
+              "labelcui": "C000592740",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "blindness",
+          "golden_cui": "D001766",
+          "candidates": [
+            {
+              "name": "blindness",
+              "labelcui": "D001766",
+              "label": 1
+            },
+            {
+              "name": "blind person",
+              "labelcui": "D019987",
+              "label": 0
+            },
+            {
+              "name": "vision diminished",
+              "labelcui": "D015354",
+              "label": 0
+            },
+            {
+              "name": "rodrigues blindness",
+              "labelcui": "C535865",
+              "label": 0
+            },
+            {
+              "name": "entoptic vision",
+              "labelcui": "D014788",
+              "label": 0
+            },
+            {
+              "name": "binocular vision",
+              "labelcui": "D015348",
+              "label": 0
+            },
+            {
+              "name": "night blindness",
+              "labelcui": "D009755",
+              "label": 0
+            },
+            {
+              "name": "eye diseases",
+              "labelcui": "D005128",
+              "label": 0
+            },
+            {
+              "name": "binoculars",
+              "labelcui": "D061351",
+              "label": 0
+            },
+            {
+              "name": "utopia",
+              "labelcui": "D014601",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "cancer",
+          "golden_cui": "D009369",
+          "candidates": [
+            {
+              "name": "neoplasm",
+              "labelcui": "D009369",
+              "label": 1
+            },
+            {
+              "name": "neoplastic processes",
+              "labelcui": "D009385",
+              "label": 0
+            },
+            {
+              "name": "gene cancer",
+              "labelcui": "D052138",
+              "label": 0
+            },
+            {
+              "name": "oncogenesis",
+              "labelcui": "D063646",
+              "label": 0
+            },
+            {
+              "name": "neoplasm site",
+              "labelcui": "D009371",
+              "label": 0
+            },
+            {
+              "name": "cells cultured neoplastic",
+              "labelcui": "D014407",
+              "label": 0
+            },
+            {
+              "name": "oncology medical",
+              "labelcui": "D008495",
+              "label": 0
+            },
+            {
+              "name": "tumor malignant epithelial",
+              "labelcui": "D002277",
+              "label": 0
+            },
+            {
+              "name": "experimental neoplasm",
+              "labelcui": "D009374",
+              "label": 0
+            },
+            {
+              "name": "cell lines tumor",
+              "labelcui": "D045744",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "neuropsychiatric symptoms",
+          "golden_cui": "D001523",
+          "candidates": [
+            {
+              "name": "signs and symptoms neurobehavioral",
+              "labelcui": "D019954",
+              "label": 0
+            },
+            {
+              "name": "psychopathology",
+              "labelcui": "D011599",
+              "label": 0
+            },
+            {
+              "name": "neuropsychiatry",
+              "labelcui": "D058027",
+              "label": 0
+            },
+            {
+              "name": "neuropsychology",
+              "labelcui": "D009484",
+              "label": 0
+            },
+            {
+              "name": "in literatures psychiatry",
+              "labelcui": "D066291",
+              "label": 0
+            },
+            {
+              "name": "behavioral symptom",
+              "labelcui": "D001526",
+              "label": 0
+            },
+            {
+              "name": "disorders mental",
+              "labelcui": "D001523",
+              "label": 1
+            },
+            {
+              "name": "neuropsychological tests",
+              "labelcui": "D009483",
+              "label": 0
+            },
+            {
+              "name": "psychiatrist",
+              "labelcui": "D011570",
+              "label": 0
+            },
+            {
+              "name": "neurocognitive disorders",
+              "labelcui": "D019965",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "rapamycin",
+          "golden_cui": "D020123",
+          "candidates": [
+            {
+              "name": "rapamycin tris epoxide metabolite",
+              "labelcui": "C117998",
+              "label": 0
+            },
+            {
+              "name": "pre rapamycin",
+              "labelcui": "C488301",
+              "label": 0
+            },
+            {
+              "name": "rapamycin dmg",
+              "labelcui": "C085325",
+              "label": 0
+            },
+            {
+              "name": "fkbp12 rapamycin complex associated protein",
+              "labelcui": "D058570",
+              "label": 0
+            },
+            {
+              "name": "fkbp rapamycin associated protein human",
+              "labelcui": "C546842",
+              "label": 0
+            },
+            {
+              "name": "raparin",
+              "labelcui": "C072900",
+              "label": 0
+            },
+            {
+              "name": "torilin",
+              "labelcui": "C112694",
+              "label": 0
+            },
+            {
+              "name": "rapanone",
+              "labelcui": "C054611",
+              "label": 0
+            },
+            {
+              "name": "torin1 cpd",
+              "labelcui": "C553294",
+              "label": 0
+            },
+            {
+              "name": "rapamycin insensitive companion of mtor protein human",
+              "labelcui": "C492571",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "chest pain",
+          "golden_cui": "D002637",
+          "candidates": [
+            {
+              "name": "pain chest",
+              "labelcui": "D002637",
+              "label": 1
+            },
+            {
+              "name": "chests med",
+              "labelcui": "D019026",
+              "label": 0
+            },
+            {
+              "name": "chests",
+              "labelcui": "D013909",
+              "label": 0
+            },
+            {
+              "name": "chest injuries",
+              "labelcui": "D013898",
+              "label": 0
+            },
+            {
+              "name": "flank pain",
+              "labelcui": "D021501",
+              "label": 0
+            },
+            {
+              "name": "plegias",
+              "labelcui": "D010243",
+              "label": 0
+            },
+            {
+              "name": "stove in chest",
+              "labelcui": "D005409",
+              "label": 0
+            },
+            {
+              "name": "acute chest syndrome",
+              "labelcui": "D056586",
+              "label": 0
+            },
+            {
+              "name": "chest wall",
+              "labelcui": "D035441",
+              "label": 0
+            },
+            {
+              "name": "tubes chest",
+              "labelcui": "D015505",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "non small cell lung cancer",
+          "golden_cui": "D002289",
+          "candidates": [
+            {
+              "name": "non small cell lung carcinoma",
+              "labelcui": "D002289",
+              "label": 1
+            },
+            {
+              "name": "oat cell lung cancer",
+              "labelcui": "D055752",
+              "label": 0
+            },
+            {
+              "name": "lung adenocarcinoma",
+              "labelcui": "C538231",
+              "label": 0
+            },
+            {
+              "name": "bronchial carcinoma",
+              "labelcui": "D002283",
+              "label": 0
+            },
+            {
+              "name": "a549 cell lines",
+              "labelcui": "D000072283",
+              "label": 0
+            },
+            {
+              "name": "lung carcinoma lewis",
+              "labelcui": "D018827",
+              "label": 0
+            },
+            {
+              "name": "oat cell carcinoma",
+              "labelcui": "D018288",
+              "label": 0
+            },
+            {
+              "name": "alveolar carcinoma",
+              "labelcui": "D002282",
+              "label": 0
+            },
+            {
+              "name": "neopl pulm",
+              "labelcui": "D008175",
+              "label": 0
+            },
+            {
+              "name": "cell carcinomas large",
+              "labelcui": "D018287",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "epinephrine",
+          "golden_cui": "D004837",
+          "candidates": [
+            {
+              "name": "epinemin",
+              "labelcui": "C039902",
+              "label": 0
+            },
+            {
+              "name": "epinectin",
+              "labelcui": "C042449",
+              "label": 0
+            },
+            {
+              "name": "epinephrinechrome",
+              "labelcui": "C405004",
+              "label": 0
+            },
+            {
+              "name": "adrenaline bitartrate",
+              "labelcui": "D004837",
+              "label": 1
+            },
+            {
+              "name": "epinephrine glucuronide",
+              "labelcui": "C046911",
+              "label": 0
+            },
+            {
+              "name": "r beta o methylsynephrine",
+              "labelcui": "C400713",
+              "label": 0
+            },
+            {
+              "name": "epimyrtine",
+              "labelcui": "C482086",
+              "label": 0
+            },
+            {
+              "name": "norparanephrine",
+              "labelcui": "C002755",
+              "label": 0
+            },
+            {
+              "name": "epinephrine sulfoconjugate",
+              "labelcui": "C036526",
+              "label": 0
+            },
+            {
+              "name": "methylnorepinephrine",
+              "labelcui": "D008771",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "creatinine",
+          "golden_cui": "D003404",
+          "candidates": [
+            {
+              "name": "sulfate salt creatinine",
+              "labelcui": "D003404",
+              "label": 1
+            },
+            {
+              "name": "creatine",
+              "labelcui": "D003401",
+              "label": 0
+            },
+            {
+              "name": "creosol",
+              "labelcui": "C025390",
+              "label": 0
+            },
+            {
+              "name": "creatine ethyl ester",
+              "labelcui": "C542315",
+              "label": 0
+            },
+            {
+              "name": "creatol",
+              "labelcui": "C064402",
+              "label": 0
+            },
+            {
+              "name": "creolin",
+              "labelcui": "C017152",
+              "label": 0
+            },
+            {
+              "name": "cr acac 3",
+              "labelcui": "C533475",
+              "label": 0
+            },
+            {
+              "name": "triolandren",
+              "labelcui": "C009588",
+              "label": 0
+            },
+            {
+              "name": "cremophor el",
+              "labelcui": "C000515",
+              "label": 0
+            },
+            {
+              "name": "cre 223",
+              "labelcui": "C053883",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "nocistatin",
+          "golden_cui": "C111148",
+          "candidates": [
+            {
+              "name": "nocistatin",
+              "labelcui": "C111148",
+              "label": 1
+            },
+            {
+              "name": "narcistatin",
+              "labelcui": "C474550",
+              "label": 0
+            },
+            {
+              "name": "vermistatin",
+              "labelcui": "C051060",
+              "label": 0
+            },
+            {
+              "name": "neristatin 1",
+              "labelcui": "C000600477",
+              "label": 0
+            },
+            {
+              "name": "cortistatin",
+              "labelcui": "C099323",
+              "label": 0
+            },
+            {
+              "name": "equistatin",
+              "labelcui": "C106356",
+              "label": 0
+            },
+            {
+              "name": "nocathiacin i",
+              "labelcui": "C463319",
+              "label": 0
+            },
+            {
+              "name": "mumbaistatin",
+              "labelcui": "C430985",
+              "label": 0
+            },
+            {
+              "name": "neb colloostatin",
+              "labelcui": "C094892",
+              "label": 0
+            },
+            {
+              "name": "ubistatin a",
+              "labelcui": "C492595",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "nitric oxide",
+          "golden_cui": "D009569",
+          "candidates": [
+            {
+              "name": "nitric oxide",
+              "labelcui": "D009569",
+              "label": 1
+            },
+            {
+              "name": "donors nitric oxide",
+              "labelcui": "D020030",
+              "label": 0
+            },
+            {
+              "name": "acid nitric",
+              "labelcui": "D017942",
+              "label": 0
+            },
+            {
+              "name": "no ion",
+              "labelcui": "C504137",
+              "label": 0
+            },
+            {
+              "name": "oxide nitrous",
+              "labelcui": "D009609",
+              "label": 0
+            },
+            {
+              "name": "nitric acid methyl ester",
+              "labelcui": "C421036",
+              "label": 0
+            },
+            {
+              "name": "p i n oxide",
+              "labelcui": "C412293",
+              "label": 0
+            },
+            {
+              "name": "nitrogen oxides",
+              "labelcui": "D009589",
+              "label": 0
+            },
+            {
+              "name": "nitrites",
+              "labelcui": "D009573",
+              "label": 0
+            },
+            {
+              "name": "nitrogen dioxide",
+              "labelcui": "D009585",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "prostaglandin",
+          "golden_cui": "D011453",
+          "candidates": [
+            {
+              "name": "prostaglandins",
+              "labelcui": "D011453",
+              "label": 1
+            },
+            {
+              "name": "prostaglandins a",
+              "labelcui": "D011454",
+              "label": 0
+            },
+            {
+              "name": "prostaglandins g",
+              "labelcui": "D011462",
+              "label": 0
+            },
+            {
+              "name": "prostaglandins h",
+              "labelcui": "D011463",
+              "label": 0
+            },
+            {
+              "name": "prostaglandin i",
+              "labelcui": "D044062",
+              "label": 0
+            },
+            {
+              "name": "prostaglandin a analogs",
+              "labelcui": "D011455",
+              "label": 0
+            },
+            {
+              "name": "pgf synthetic",
+              "labelcui": "D011461",
+              "label": 0
+            },
+            {
+              "name": "endoperoxide analogues prostaglandin",
+              "labelcui": "D011450",
+              "label": 0
+            },
+            {
+              "name": "pge",
+              "labelcui": "D011458",
+              "label": 0
+            },
+            {
+              "name": "analogs pg",
+              "labelcui": "D011465",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "weakness",
+          "golden_cui": "D018908",
+          "candidates": [
+            {
+              "name": "muscle weaknesses",
+              "labelcui": "D018908",
+              "label": 1
+            },
+            {
+              "name": "strength muscle",
+              "labelcui": "D053580",
+              "label": 0
+            },
+            {
+              "name": "general paralyses",
+              "labelcui": "D009494",
+              "label": 0
+            },
+            {
+              "name": "asthenia",
+              "labelcui": "D001247",
+              "label": 0
+            },
+            {
+              "name": "muscular paresis",
+              "labelcui": "D010291",
+              "label": 0
+            },
+            {
+              "name": "hand strengths",
+              "labelcui": "D018737",
+              "label": 0
+            },
+            {
+              "name": "fatigue",
+              "labelcui": "D005221",
+              "label": 0
+            },
+            {
+              "name": "fatigue muscle",
+              "labelcui": "D018763",
+              "label": 0
+            },
+            {
+              "name": "neurasthenia",
+              "labelcui": "D009440",
+              "label": 0
+            },
+            {
+              "name": "tension muscular",
+              "labelcui": "D009129",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "gem",
+          "golden_cui": "C056507",
+          "candidates": [
+            {
+              "name": "gemsa",
+              "labelcui": "C022014",
+              "label": 0
+            },
+            {
+              "name": "gem 91",
+              "labelcui": "C079996",
+              "label": 0
+            },
+            {
+              "name": "gemini compound",
+              "labelcui": "C411462",
+              "label": 0
+            },
+            {
+              "name": "gemin d",
+              "labelcui": "C525521",
+              "label": 0
+            },
+            {
+              "name": "gemia protocol",
+              "labelcui": "C119458",
+              "label": 0
+            },
+            {
+              "name": "gem 132",
+              "labelcui": "C108940",
+              "label": 0
+            },
+            {
+              "name": "gem protein human",
+              "labelcui": "C490245",
+              "label": 0
+            },
+            {
+              "name": "gem 231",
+              "labelcui": "C425328",
+              "label": 0
+            },
+            {
+              "name": "gemin g",
+              "labelcui": "C540689",
+              "label": 0
+            },
+            {
+              "name": "gemals",
+              "labelcui": "C529678",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "apomorphine",
+          "golden_cui": "D001058",
+          "candidates": [
+            {
+              "name": "aporphine",
+              "labelcui": "C081279",
+              "label": 0
+            },
+            {
+              "name": "aporphines",
+              "labelcui": "D001060",
+              "label": 0
+            },
+            {
+              "name": "8 oxo apomorphine semiquinone",
+              "labelcui": "C470323",
+              "label": 0
+            },
+            {
+              "name": "apodoa",
+              "labelcui": "C043824",
+              "label": 0
+            },
+            {
+              "name": "n methyl 2 methyl 2 3 dihydrofuro m aporphine",
+              "labelcui": "C547675",
+              "label": 0
+            },
+            {
+              "name": "aphanorphine",
+              "labelcui": "C434304",
+              "label": 0
+            },
+            {
+              "name": "apodytine",
+              "labelcui": "C561989",
+              "label": 0
+            },
+            {
+              "name": "apokinon",
+              "labelcui": "D001058",
+              "label": 1
+            },
+            {
+              "name": "apomine",
+              "labelcui": "C407151",
+              "label": 0
+            },
+            {
+              "name": "apoyohimbine",
+              "labelcui": "C042187",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "aspirin",
+          "golden_cui": "D001241",
+          "candidates": [
+            {
+              "name": "2 acetoxymethyl benzoic acid",
+              "labelcui": "C082521",
+              "label": 0
+            },
+            {
+              "name": "asa q",
+              "labelcui": "C086083",
+              "label": 0
+            },
+            {
+              "name": "acetylsalicylsalicylic acid",
+              "labelcui": "C006387",
+              "label": 0
+            },
+            {
+              "name": "es asa",
+              "labelcui": "C085694",
+              "label": 0
+            },
+            {
+              "name": "acetyl 5 asa",
+              "labelcui": "C505368",
+              "label": 0
+            },
+            {
+              "name": "4 acetylbenzoic acid",
+              "labelcui": "C115900",
+              "label": 0
+            },
+            {
+              "name": "guaiacolic ester acetylsalicylic acid",
+              "labelcui": "C023557",
+              "label": 0
+            },
+            {
+              "name": "p acryloyloxybenzoic acid",
+              "labelcui": "C000595761",
+              "label": 0
+            },
+            {
+              "name": "methyl acetylsalicylic acid",
+              "labelcui": "C028938",
+              "label": 0
+            },
+            {
+              "name": "benzoic acid 2 acetyloxy anhydride",
+              "labelcui": "C025382",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "prostaglandins",
+          "golden_cui": "D011453",
+          "candidates": [
+            {
+              "name": "prostaglandins",
+              "labelcui": "D011453",
+              "label": 1
+            },
+            {
+              "name": "prostaglandins a",
+              "labelcui": "D011454",
+              "label": 0
+            },
+            {
+              "name": "prostaglandins g",
+              "labelcui": "D011462",
+              "label": 0
+            },
+            {
+              "name": "prostaglandins h",
+              "labelcui": "D011463",
+              "label": 0
+            },
+            {
+              "name": "prostaglandin a analogs",
+              "labelcui": "D011455",
+              "label": 0
+            },
+            {
+              "name": "endoperoxide analogues prostaglandin",
+              "labelcui": "D011450",
+              "label": 0
+            },
+            {
+              "name": "analogs pg",
+              "labelcui": "D011465",
+              "label": 0
+            },
+            {
+              "name": "pge analogues",
+              "labelcui": "D011459",
+              "label": 0
+            },
+            {
+              "name": "prostenoic acids",
+              "labelcui": "C100136",
+              "label": 0
+            },
+            {
+              "name": "pgf synthetic",
+              "labelcui": "D011461",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "vancomycin",
+          "golden_cui": "D014640",
+          "candidates": [
+            {
+              "name": "vancomycin b",
+              "labelcui": "C446041",
+              "label": 0
+            },
+            {
+              "name": "trivalent derivative of vancomycin",
+              "labelcui": "C111934",
+              "label": 0
+            },
+            {
+              "name": "vancomycin 22 o 3 amino 2 3 6 trideoxy 3 c methyl alpha l arabino hexopyranosyl 10 dechloro 4 r",
+              "labelcui": "C056812",
+              "label": 0
+            },
+            {
+              "name": "chlorobiphenyl vancomycin",
+              "labelcui": "C437984",
+              "label": 0
+            },
+            {
+              "name": "vanchrobactin",
+              "labelcui": "C529766",
+              "label": 0
+            },
+            {
+              "name": "vanco saar",
+              "labelcui": "D014640",
+              "label": 1
+            },
+            {
+              "name": "vancomycin resistance",
+              "labelcui": "D020713",
+              "label": 0
+            },
+            {
+              "name": "vancomycin resistance protein vanh enterococcus faecium",
+              "labelcui": "C070700",
+              "label": 0
+            },
+            {
+              "name": "n demethylvancomycin",
+              "labelcui": "C041572",
+              "label": 0
+            },
+            {
+              "name": "vancomycin resistance associated regulator s aureus",
+              "labelcui": "C478170",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "lidocaine",
+          "golden_cui": "D008012",
+          "candidates": [
+            {
+              "name": "lidocaine monohydrochloride",
+              "labelcui": "D008012",
+              "label": 1
+            },
+            {
+              "name": "lidocaine ethiodide",
+              "labelcui": "C042385",
+              "label": 0
+            },
+            {
+              "name": "lidocaine iminodiacetic acid",
+              "labelcui": "C015321",
+              "label": 0
+            },
+            {
+              "name": "lidan",
+              "labelcui": "C531143",
+              "label": 0
+            },
+            {
+              "name": "lignocaine n oxide",
+              "labelcui": "C049290",
+              "label": 0
+            },
+            {
+              "name": "o 2 diethylaminoethyl 2 6 mandeloxylidide",
+              "labelcui": "C028606",
+              "label": 0
+            },
+            {
+              "name": "leocaine",
+              "labelcui": "C098919",
+              "label": 0
+            },
+            {
+              "name": "2 chloro n 2 6 diethylphenyl acetamide",
+              "labelcui": "C093872",
+              "label": 0
+            },
+            {
+              "name": "lidofenin",
+              "labelcui": "C049470",
+              "label": 0
+            },
+            {
+              "name": "n 2 diethylaminoethyl 2 6 mandeloxylidide",
+              "labelcui": "C028607",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "retinoblastoma",
+          "golden_cui": "D012175",
+          "candidates": [
+            {
+              "name": "genes rb",
+              "labelcui": "D016161",
+              "label": 0
+            },
+            {
+              "name": "retinoblastoma like protein 002",
+              "labelcui": "D050717",
+              "label": 0
+            },
+            {
+              "name": "osteosarcoma retinoblastoma related",
+              "labelcui": "C566714",
+              "label": 0
+            },
+            {
+              "name": "retinal glioblastoma",
+              "labelcui": "D012175",
+              "label": 1
+            },
+            {
+              "name": "rb1 gene product",
+              "labelcui": "D016160",
+              "label": 0
+            },
+            {
+              "name": "cancer of the retina",
+              "labelcui": "D019572",
+              "label": 0
+            },
+            {
+              "name": "retinoblastoma like protein p107",
+              "labelcui": "D050720",
+              "label": 0
+            },
+            {
+              "name": "retinoblastoma associated protein 46",
+              "labelcui": "D056524",
+              "label": 0
+            },
+            {
+              "name": "retinoblastoma binding protein 1",
+              "labelcui": "D056465",
+              "label": 0
+            },
+            {
+              "name": "rb2 protein human",
+              "labelcui": "C493837",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mentions": [
+        {
+          "mention": "dermatitis",
+          "golden_cui": "D003872",
+          "candidates": [
+            {
+              "name": "dermatoses",
+              "labelcui": "D012871",
+              "label": 0
+            },
+            {
+              "name": "dermatitides",
+              "labelcui": "D003872",
+              "label": 1
+            },
+            {
+              "name": "rash",
+              "labelcui": "D005076",
+              "label": 0
+            },
+            {
+              "name": "dermatol",
+              "labelcui": "D003880",
+              "label": 0
+            },
+            {
+              "name": "agent dermatologic",
+              "labelcui": "D003879",
+              "label": 0
+            },
+            {
+              "name": "skin manifestation",
+              "labelcui": "D012877",
+              "label": 0
+            },
+            {
+              "name": "skin",
+              "labelcui": "D012867",
+              "label": 0
+            },
+            {
+              "name": "skin abnormality",
+              "labelcui": "D012868",
+              "label": 0
+            },
+            {
+              "name": "dermud",
+              "labelcui": "C545815",
+              "label": 0
+            },
+            {
+              "name": "dermatologists",
+              "labelcui": "D000072085",
+              "label": 0
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "acc1": 0.51,
+  "acc2": 0.62,
+  "acc3": 0.62,
+  "acc4": 0.68,
+  "acc5": 0.68,
+  "acc6": 0.7,
+  "acc7": 0.72,
+  "acc8": 0.75,
+  "acc9": 0.75,
+  "acc10": 0.77
+}

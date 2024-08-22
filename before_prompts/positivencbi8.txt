@@ -1,0 +1,15 @@
+Nonstandard medical term: mention
+Standard medical term: entity
+Score:
+
+Understand the meaning of the nonstandard medical term and the standard medical term, and then score the standard medical term between 1 and 0 based on whether the standard medical term has the same meaning as the nonstandard medical term. If you are 100% sure that the standard medical term has same meaning as the nonstandard medical term, the score is 1. If not, score between 0 and 1 based on the probability that the standard medical term has the same meanign as the nonstadard medical term, using your professional medical knowledge and understanding of the terms. Only output the score and nothing else.
+
+Example1: 
+Nonstandard medical term: dark stools
+Standard medical term: dark stools
+Score: 1
+
+Example2:
+Nonstandard medical term: slurred speech
+Standard medical term: stammering
+Score: 0
