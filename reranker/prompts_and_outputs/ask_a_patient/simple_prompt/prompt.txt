@@ -1,0 +1,18 @@
+You are a medical expert. You can determine whether two medical terms are the names of the same entity and output the probability that the two medical terms are the names of the same entity.
+|split|
+Nonstandard medical term: mention
+Standard medical term: entity
+Score:
+
+Understand the meaning of the nonstandard medical term and the standard medical term, and then score the standard medical term between 1 and 0 based on whether the standard medical term has the same meaning as the nonstandard medical term. If the standard medical term has same meaning as the nonstandard medical term, the score is 1. If not, the score is 0. Only output the score and nothing else.
+
+Example1:
+Nonstandard medical term: dark stools
+Standard medical term: dark stools
+Score: 1
+
+Example2:
+Nonstandard medical term: slurred speech
+Standard medical term: stammering
+Score: 0
+|split|

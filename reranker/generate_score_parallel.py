@@ -36,7 +36,8 @@ def load_prompt(promptPath:str,shot_number:int) -> str:
     with open(promptPath,"r") as f:
         prompt=f.read()
     systemRole=prompt.split("|split|")[0].strip()
-    promptContent=prompt.split("|split|")[1].strip
+    promptContent=prompt.split("|split|")[1].strip()
+    others=prompt.split("|split|")[2].strip()
     prompts=promptContent.split("Example")
     # if "mix" in prompt:
     #     shot_number=2*shot_number
@@ -44,9 +45,9 @@ def load_prompt(promptPath:str,shot_number:int) -> str:
     #     shot_number=3*shot_number
     usedPrompt=prompts[:shot_number+1]
         
-    newPrompt="Example".join(usedPrompt).strip()
+    newPrompt="Example".join(usedPrompt).strip()+"\n\n"+others
 
-    return systemRole,newPrompt
+    return systemRole,newPrompt.strip()
 
 def process_test_data(test:dict) -> list:
     testData=[]
@@ -72,7 +73,7 @@ def contains_float(string):
     pattern = r'[-+]?\d*\.\d+|\d+'
     return bool(re.search(pattern, string))
 
-def extract_floats(mention,string):
+def extract_floats(mention,string,candidate):
     # 正则表达式匹配浮点数，包括整数、小数、带符号的数
     pattern = r'[-+]?\d*\.\d+|\d+'
     scores=[match for match in re.findall(pattern, string)]
@@ -84,7 +85,7 @@ def extract_floats(mention,string):
         endIndex=min(stringIndex+length,len(string))
         substring=string[startIndex:endIndex]
 
-        if substring in mention:
+        if substring in mention or substring in candidate:
             continue
 
         return score
@@ -142,7 +143,7 @@ def run_prompt_with_score(systemRole,manual_prompt:str,testData:list,base_url,ke
             #     ans=ans.split(":")[1].strip(" \t,.，。\n")
             if not is_float(ans):
                     if contains_float(ans):
-                        ans=extract_floats(mention,ans)
+                        ans=extract_floats(mention,ans,candidate)
                     else:
                         ans="0.0"
             
@@ -207,7 +208,7 @@ def main(args):
     testData=process_test_data(test)
     testDatas=split_data(testData)
     entityKb=load_dict(args.entityKbPath)
-    prompt=load_prompt(args.promptPath,args.shot_number)
+    systemRole,prompt=load_prompt(args.promptPath,args.shot_number)
     baseUrl,apiKeys=load_keys(args.keyPath)
     model=args.model
     # clients=create_clients(args.baseUrl,apiKeys)
@@ -215,13 +216,15 @@ def main(args):
     maxTokens=args.maxTokens
     outputDir=args.outputDir
     intermediatePathDir=args.intermediatePath
+    numberOfProcesses=args.k
+
 
     if not os.path.exists(intermediatePathDir):
         os.mkdir(intermediatePathDir)
 
-    intermediatePaths=[intermediatePathDir+str(i)+".txt" for i in range(21)]
+    intermediatePaths=[intermediatePathDir+str(i)+".txt" for i in range(numberOfProcesses)]
     pid=os.getpid()
-    with open(intermediatePaths[20],"w") as file:
+    with open(intermediatePaths[numberOfProcesses],"w") as file:
         file.write(f"testDataPath:{args.testDataPath}\n"+
                    f"entityKbPath:{args.entityKbPath}\n"+
                    f"promptPath:{args.promptPath}\n"+
@@ -231,13 +234,15 @@ def main(args):
                    f"outputDir:{args.outputDir}\n"+
                    f"intermediatePath:{args.intermediatePath}\n"
                    f"prompt:{prompt}\n"+
-                   f"进程id:{pid}\n"
+                   f"进程id:{pid}\n"+
+                   f"模型：{model}"+
+                   f"线程数：{numberOfProcesses}\n"
                    )
         file.write("_"*1)
         file.write("\n")
     
-    mypool=multiprocessing.Pool(processes=20)
-    argsList=[(prompt,testDatas[i],baseUrl,apiKeys[i],model,temperature,maxTokens,intermediatePaths[i]) for i in range(20)]
+    mypool=multiprocessing.Pool(processes=numberOfProcesses)
+    argsList=[(prompt,testDatas[i],baseUrl,apiKeys[i],model,temperature,maxTokens,intermediatePaths[i]) for i in range(numberOfProcesses)]
 
     # argsf=[(10),(1)]
 
@@ -258,25 +263,27 @@ if __name__=='__main__':
     parser = argparse.ArgumentParser()
 
     parser.add_argument('--testDataPath',
-                        default="../../initial_data/ask_a_patient/small_500_0.json")
+                        default="../datasets/ask_a_patient/test_sapbert_100.json")
     parser.add_argument('--entityKbPath',
-                        default="../../initial_data/ask_a_patient/entity_kb.json")
+                        default="../datasets/ask_a_patient/entity_kb.json")
     parser.add_argument('--promptPath',
-                        default="../../designed_prompts/ask_a_patient/re_ranker/parallel/positive/positive7.txt")
+                        default="./prompts_and_outputs/ask_a_patient/simple_prompt/prompt.txt")
     parser.add_argument('--shot_number',type=int,
                         default=5)
     parser.add_argument('--keyPath',
-                        default="../../initial_data/ask_a_patient/keys.json")
+                        default="../keys/bianxieKeys.json")
     parser.add_argument('--model',
                         default="gpt-3.5-turbo")
     parser.add_argument('--temperature',type=float,
                         default=0.7)
     parser.add_argument('--maxTokens',type=int,
                         default=64)
+    parser.add_argument('--k',
+                        default=20)
     parser.add_argument('--outputDir',
-                        default="../../retrieval_answers/ask_a_patient/answers/generate_description_five_shot.json")
+                        default="./prompts_and_outputs/ask_a_patient/result")
     parser.add_argument('--intermediatePath',
-                        default="../../retrieval_answers/ask_a_patient/records/generate_description_five_shot.txt")
+                        default="./prompts_and_outputs/ask_a_patient/records/")
     args = parser.parse_args()
 
     main(args)
