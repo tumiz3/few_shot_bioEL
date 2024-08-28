@@ -8,11 +8,10 @@ shots=(
     ["six"]=6
 )
 
+dataset="smm4h"
+testFileName="test_sapbert.json"
 
-dataset="ask_a_patient"
-testFileName="test_sapbert_100.json"
-
-list1=("simple_prompt")
+list1=("rule_2")
 shot_number=("six")
 
 for prompt in "${list1[@]}"
@@ -24,10 +23,10 @@ do
                                       --promptPath ./prompts_and_outputs/${dataset}/${prompt}/prompt.txt \
                                       --shot_number ${shots[$shot]} \
                                       --keyPath ../keys/bianxieKeys.json \
-                                      --model gpt-3.5-turbo \
+                                      --model gpt-4o-mini \
                                       --temperature 0 \
                                       --maxTokens 128 \
-                                      --k 20 \
+                                      --k 100 \
                                       --outputDir ./prompts_and_outputs/${dataset}/${prompt}/result.json \
                                       --intermediatePath ./prompts_and_outputs/${dataset}/${prompt}/records/ > "./prompts_and_outputs/${dataset}/${prompt}/nohup_record.txt" 2>&1 &
       done

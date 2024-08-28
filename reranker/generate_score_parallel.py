@@ -24,8 +24,8 @@ def load_data(testDataPath: str) -> dict:
     return testData
 
 
-def split_data(data: list) -> list:
-    split_list = np.array_split(data, 20)
+def split_data(data: list,numberOfProcesses) -> list:
+    split_list = np.array_split(data, numberOfProcesses)
     split_list = [arr.tolist() for arr in split_list]
     return split_list
 
@@ -43,7 +43,11 @@ def load_prompt(promptPath: str, shot_number: int) -> str:
         prompt = f.read()
     systemRole = prompt.split("|split|")[0].strip()
     promptContent = prompt.split("|split|")[1].strip()
-    others = prompt.split("|split|")[2].strip()
+
+    if len(prompt.split("|split|"))>2:
+        others = prompt.split("|split|")[2].strip()
+    else:
+        others=""
     prompts = promptContent.split("Example")
     # if "mix" in prompt:
     #     shot_number=2*shot_number
@@ -197,7 +201,7 @@ def count_results(testData, generatedanswers, entityKb):
         golden_cui = line["golden_cui"]
 
         if not golden_cui in entityKb.keys():
-            goldenCuis = [key for key in entityKb.keys() if set(golden_cui.split("|") & set(key.split("|")))]
+            goldenCuis = [key for key in entityKb.keys() if set(golden_cui.split("|")) & set(key.split("|"))]
         else:
             goldenCuis = [golden_cui]
         golden_entities = [name.lower() for cui in goldenCuis for name in entityKb[cui]]
@@ -232,9 +236,10 @@ def count_results(testData, generatedanswers, entityKb):
 
 
 def main(args):
+    numberOfProcesses = args.k
     test = load_data(args.testDataPath)
-    testData = process_test_data(test)[:20]
-    testDatas = split_data(testData)
+    testData = process_test_data(test)
+    testDatas = split_data(testData,numberOfProcesses)
     entityKb = load_dict(args.entityKbPath)
     systemRole, prompt = load_prompt(args.promptPath, args.shot_number)
     baseUrl, apiKeys = load_keys(args.keyPath)
@@ -244,7 +249,7 @@ def main(args):
     maxTokens = args.maxTokens
     outputDir = args.outputDir
     intermediatePathDir = args.intermediatePath
-    numberOfProcesses = args.k
+
 
     if not os.path.exists(intermediatePathDir):
         os.mkdir(intermediatePathDir)
@@ -309,7 +314,7 @@ if __name__ == '__main__':
     parser.add_argument('--maxTokens', type=int,
                         default=64)
     parser.add_argument('--k', type=int,
-                        default=20)
+                        default=100)
     parser.add_argument('--outputDir',
                         default="./prompts_and_outputs/ask_a_patient/simple_prompt/result.json")
     parser.add_argument('--intermediatePath',

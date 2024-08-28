@@ -10,7 +10,7 @@ from openai import OpenAI
 
 def load_data(testDataPath:str) -> list:
     with open(testDataPath,"r") as f:
-        testData=json.load(f)
+        testData=[json.loads(line) for line in f]
     return testData
 
 
@@ -19,8 +19,11 @@ def split_data(data: list,numberOfProcesses) -> list:
     split_list = [arr.tolist() for arr in split_list]
     return split_list
 
-def split_entity_kb(entityKb,numberOfProcesses) -> list:
-    keys=list(entityKb.keys())
+def split_entity_kb(entityKb,numberOfProcesses,tryTest) -> list:
+    if tryTest:
+        keys=list(entityKb.keys())
+    else:
+        keys = list(entityKb.keys())
     split_list = np.array_split(keys, numberOfProcesses)
     split_list = [arr.tolist() for arr in split_list]
     return split_list
@@ -41,13 +44,16 @@ def load_keys(keyPath: str) -> (str, list):
     return baseUrl, keys
 
 
-def load_prompt(promptPath: str, shot_number: int) -> tuple[str, str]:
+def load_prompt(promptPath: str, shot_number: int):
     #获取指定位置的prompt，同时根据shot_number选择prompt中例子的数量
     with open(promptPath, "r") as f:
         prompt = f.read()
     systemRole = prompt.split("|split|")[0].strip()
     promptContent = prompt.split("|split|")[1].strip()
-    others = prompt.split("|split|")[2].strip()
+    if len(prompt.split("|split|"))>2:
+        others = prompt.split("|split|")[2].strip()
+    else:
+        others=""
     prompts = promptContent.split("Example")
     # if "mix" in prompt:
     #     shot_number=2*shot_number
@@ -65,8 +71,8 @@ def process_test_data(test:list) -> list:
         mention=item["mention_data"][0]["mention"]
         text=item["text"].replace("[E1]","").replace("[/E1]","")
         golden_cui=item["mention_data"][0]["kb_id"]
-        type=item["mention_data"][0]["type"]
-        testData.append({"mention":mention,"golden_cui":golden_cui,"type":type,"text":text})
+        # type=item["mention_data"][0]["type"]
+        testData.append({"mention":mention,"golden_cui":golden_cui,"text":text})
     return testData
 
 
@@ -91,7 +97,9 @@ def generateDescriptionForMention(systemRole: str, manual_prompt:str, testData:l
     client=create_client(baseUrl,api_key)
     GeneratedAnswers={}
     for sample in tqdm(testData):
-        mention=testData[sample][0]
+        mention=sample["mention"]
+        if mention in GeneratedAnswers.keys():
+            continue
         GeneratedAnswers[mention]=""
         
         for numberDescription in range(numberOfRounds):
@@ -104,7 +112,8 @@ def generateDescriptionForMention(systemRole: str, manual_prompt:str, testData:l
                 f.write(ans)
                 f.write("\n\n")
             GeneratedAnswers[mention]+=ans
-            # GeneratedAnswers[mention]+="__"
+            if numberOfRounds != 1:
+                GeneratedAnswers[mention] += "__"
     return GeneratedAnswers
 
 
@@ -126,6 +135,8 @@ def generateDescriptionForEntityKb(systemRole: str, manual_prompt: str, entityKb
                         f.write(ans)
                         f.write("\n\n")
                     GeneratedAnswers[entity] += ans
+                    if numberOfRounds != 1:
+                        GeneratedAnswers[entity] += "__"
         else:
             entity = entityKb[id][0]
             GeneratedAnswers[entity] = ""
@@ -140,7 +151,8 @@ def generateDescriptionForEntityKb(systemRole: str, manual_prompt: str, entityKb
                     f.write(ans)
                     f.write("\n\n")
                 GeneratedAnswers[entity] += ans
-            # GeneratedAnswers[mention]+="__"
+                if numberOfRounds != 1:
+                    GeneratedAnswers[entity]+="__"
     return GeneratedAnswers
 
 def generateDescriptionForMentionWrapper(args):
@@ -149,12 +161,27 @@ def generateDescriptionForMentionWrapper(args):
 def generateDescriptionForEntityWrapper(args):
     return generateDescriptionForEntityKb(*args)
 
+def str2bool(v):
+    if isinstance(v, bool):
+        return v
+    if v.lower() in ('yes', 'true', 't', 'y', '1'):
+        return True
+    elif v.lower() in ('no', 'false', 'f', 'n', '0'):
+        return False
+    else:
+        raise argparse.ArgumentTypeError('Boolean value expected.')
+
 def main(args):
-    testData=process_test_data(load_data(args.testDataPath))
-    numberOfProcesses = args.k
+
+    tryTest=args.tryTest
+    if tryTest:
+        testData = process_test_data(load_data(args.testDataPath)[:20])
+    else:
+        testData=process_test_data(load_data(args.testDataPath))
+    numberOfProcesses = args.numberOfProcesses
     testDatas=split_data(testData,numberOfProcesses)
     entityKb=load_dict(args.entityKbPath)
-    ids=split_entity_kb(entityKb, numberOfProcesses)
+    ids=split_entity_kb(entityKb, numberOfProcesses,tryTest)
     systemRole,prompt=load_prompt(args.promptPath,args.shot_number)
     baseUrl,keys=load_keys(args.keyPath)
     temperature=args.temperature
@@ -174,8 +201,8 @@ def main(args):
     if not os.path.exists(entityIntermediateDir):
         os.mkdir(entityIntermediateDir)
 
-    mentionIntermediatePaths = [mentionDescriptionDir + str(i) + ".txt" for i in range(numberOfProcesses + 1)]
-    entityIntermediatePaths = [entityDescriptionDir + str(i) + ".txt" for i in range(numberOfProcesses + 1)]
+    mentionIntermediatePaths = [mentionIntermediateDir + str(i) + ".txt" for i in range(numberOfProcesses + 1)]
+    entityIntermediatePaths = [entityIntermediateDir+ str(i) + ".txt" for i in range(numberOfProcesses + 1)]
     pid = os.getpid()
     with open(mentionIntermediatePaths[numberOfProcesses], "w") as file:
         file.write(f"testDataPath:{args.testDataPath}\n" +
@@ -223,18 +250,20 @@ def main(args):
         i in range(numberOfProcesses)]
 
     argListEntity=[
-        (systemRole,prompt,entityKb,ids[i],model,temperature,maxTokens, entityIntermediatePaths[i],numberOfRounds, useSynonyms,baseUrl,keys[i] for
-         i in range(numberOfProcesses))
+        (systemRole,prompt,entityKb,ids[i],model,temperature,maxTokens, entityIntermediatePaths[i],numberOfRounds, useSynonyms,baseUrl,keys[i]) for
+         i in range(numberOfProcesses)
     ]
 
     # argsf=[(10),(1)]
 
-    generatedAnswersMention = mypool.map(generateDescriptionForEntityWrapper(), argsListMention)
+    generatedAnswersMention = mypool.map(generateDescriptionForMentionWrapper, argsListMention)
+    generatedAnswersMention = {k: v for d in generatedAnswersMention for k, v in d.items()}
     with open(mentionDescriptionDir,"w") as f:
         json.dump(generatedAnswersMention,f)
 
     if generateEntityDescription:
-        generatedAnswersEntity = mypool.map(generateDescriptionForEntityWrapper(), argListEntity)
+        generatedAnswersEntity = mypool.map(generateDescriptionForEntityWrapper, argListEntity)
+        generatedAnswersEntity = {k: v for d in generatedAnswersEntity for k, v in d.items()}
         with open(entityDescriptionDir,"w") as f:
             json.dump(generatedAnswersEntity,f)
 
@@ -242,11 +271,11 @@ if __name__=='__main__':
     parser = argparse.ArgumentParser()
 
     parser.add_argument('--testDataPath',
-                        default="../../initial_data/ask_a_patient/small_1000_0.json")
+                        default="../datasets/ask_a_patient/test.json")
     parser.add_argument('--entityKbPath',
-                        default="../../initial_data/ask_a_patient/entity_kb.json")
+                        default="../datasets/ask_a_patient/entity_kb.json")
     parser.add_argument('--promptPath',
-                        default="../../designed_prompts/ask_a_patient/retriever/write_a_description.txt")
+                        default="./prompts_and_outputs/ask_a_patient/simple_prompt/prompt.txt")
     parser.add_argument('--numberOfProcesses', type=int,
                         default=20)
     parser.add_argument('--shot_number',type=int,
@@ -260,17 +289,18 @@ if __name__=='__main__':
     parser.add_argument('--model', type=str,
                         default="gpt-3.5-turbo")
     parser.add_argument('--numberOfRounds', type=int,
-                        default=2)
-    parser.add_argument('--generateEntityDescription', type=bool, default=True),
-    parser.add_argument('--useSynonyms', type=bool, default=False),
+                        default=1)
+    parser.add_argument('--generateEntityDescription', type=str2bool, nargs='?', const=True, default=True)
+    parser.add_argument('--useSynonyms', type=str2bool, nargs='?', const=True, default=True)
+    parser.add_argument('--tryTest', type=str2bool, nargs='?', const=True, default=False, help="Boolean flag")
     parser.add_argument('--mentionOutputDir',
-                        default="../../retrieval_answers/ask_a_patient/answers/generate_description_five_shot.json")
+                        default="./prompts_and_outputs/ask_a_patient/simple_prompt/mentionDescription.json")
     parser.add_argument('--entityOutputDir',
-                        default="../../retrieval_answers/ask_a_patient/answers/generate_description_five_shot.json")
+                        default="./prompts_and_outputs/ask_a_patient/simple_prompt/entityDescription.json")
     parser.add_argument('--mentionIntermediatePath',
-                        default="../../retrieval_answers/ask_a_patient/records/generate_description_five_shot.txt")
+                        default="./prompts_and_outputs/ask_a_patient/simple_prompt/mentionRecords/")
     parser.add_argument('--entityIntermediatePath',
-                        default="../../retrieval_answers/ask_a_patient/records/generate_description_five_shot.txt")
+                        default="./prompts_and_outputs/ask_a_patient/entityRecords/")
     args = parser.parse_args()
 
     main(args)
